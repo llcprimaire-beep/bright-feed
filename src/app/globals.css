@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #fbf7f0;
+  --foreground: #4a4139;
+  --card: #ffffff;
+  --muted: #8a7f72;
+  --peach: #ffe1cc;
+  --peach-deep: #c4643b;
+  --mint: #dcf2e5;
+  --mint-deep: #3c7d5a;
+  --lavender: #e8e2f7;
+  --lavender-deep: #6a5aa8;
+  --butter: #fff1c2;
+  --butter-deep: #a07d1c;
+  --accent: #e8a87c;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-muted: var(--muted);
+  --color-peach: var(--peach);
+  --color-peach-deep: var(--peach-deep);
+  --color-mint: var(--mint);
+  --color-mint-deep: var(--mint-deep);
+  --color-lavender: var(--lavender);
+  --color-lavender-deep: var(--lavender-deep);
+  --color-butter: var(--butter);
+  --color-butter-deep: var(--butter-deep);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-nunito);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}

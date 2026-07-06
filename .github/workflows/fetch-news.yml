@@ -1,0 +1,42 @@
+name: Fetch AI News
+
+on:
+  schedule:
+    # Every 4 hours (UTC). GitHub cron is best-effort - runs may be delayed
+    # a few minutes during high load, which is fine for a news roundup.
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run fetch pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/fetch-feeds.mjs
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/items.json
+          git diff --staged --quiet || git commit -m "chore: update news feed data [skip ci]"
+          git push
