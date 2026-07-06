@@ -1,0 +1,50 @@
+name: Instagram Cards
+
+on:
+  schedule:
+    # Daily at 11:30 UTC (news pipeline runs on even 4-hour marks, so this
+    # never races with it). Cards land on the site ~2 min later.
+    - cron: "30 11 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: instagram-cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate today's cards
+        run: node scripts/ig-cards.mjs
+
+      - name: Commit cards (triggers the site deploy that hosts them)
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/ig
+          git diff --staged --quiet || git commit -m "chore: instagram cards $(date -u +%F)"
+          git pull --rebase origin main
+          git push
+
+      # Runs only when the IG secrets are configured (see INSTAGRAM-SETUP.md).
+      # continue-on-error: a failed publish must not mark the cards run red -
+      # the cards are already committed and usable manually.
+      - name: Auto-publish to Instagram
+        if: env.IG_ACCESS_TOKEN != ''
+        continue-on-error: true
+        run: node scripts/ig-publish.mjs

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="bf-core" cx="0.42" cy="0.38" r="0.75">
+      <stop offset="0" stop-color="#ffe2ae"/>
+      <stop offset="1" stop-color="#f09a67"/>
+    </radialGradient>
+    <linearGradient id="bf-ray" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#f7b280"/>
+      <stop offset="1" stop-color="#ef9663"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#bf-ray)">
+    <rect x="29.3" y="5.5" width="5.4" height="9.7" rx="2.7"/>
+    <rect x="29.3" y="5.5" width="5.4" height="9.7" rx="2.7" transform="rotate(90 32 33)"/>
+    <rect x="29.3" y="5.5" width="5.4" height="9.7" rx="2.7" transform="rotate(180 32 33)"/>
+    <rect x="29.3" y="5.5" width="5.4" height="9.7" rx="2.7" transform="rotate(270 32 33)"/>
+    <rect x="29.3" y="8.2" width="5.4" height="7" rx="2.7" transform="rotate(45 32 33)"/>
+    <rect x="29.3" y="8.2" width="5.4" height="7" rx="2.7" transform="rotate(135 32 33)"/>
+    <rect x="29.3" y="8.2" width="5.4" height="7" rx="2.7" transform="rotate(225 32 33)"/>
+    <rect x="29.3" y="8.2" width="5.4" height="7" rx="2.7" transform="rotate(315 32 33)"/>
+  </g>
+  <circle cx="32" cy="33" r="13.5" fill="url(#bf-core)"/>
+  <path fill="#b7a4e3" d="M50.1 2.7 Q50.74 6.06 54.1 6.7 Q50.74 7.34 50.1 10.7 Q49.46 7.34 46.1 6.7 Q49.46 6.06 50.1 2.7 Z"/>
+  <circle cx="6.4" cy="51.3" r="2.2" fill="#9fd0ae"/>
+</svg>

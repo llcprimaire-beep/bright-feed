@@ -1,10 +1,15 @@
 import Link from "next/link";
+import Logo from "@/components/Logo";
 import { SITE_NAME } from "@/lib/site";
 
 export default function Footer() {
   return (
     <footer className="border-t border-peach/60 mt-16 py-8 text-sm text-muted">
       <div className="flex flex-col gap-3 max-w-5xl mx-auto px-4">
+        <div className="flex items-center gap-2 text-foreground font-extrabold">
+          <Logo size={20} idPrefix="bf-footer" />
+          {SITE_NAME}
+        </div>
         <p>
           {SITE_NAME} gathers uplifting headlines from the world&apos;s good-news publications.
           Every story links straight to its original source — we never republish full articles,
