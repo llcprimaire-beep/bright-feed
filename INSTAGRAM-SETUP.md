@@ -13,7 +13,7 @@
 Instagram требует телефон/подтверждение личности, поэтому аккаунт заводит владелец.
 
 1. Приложение Instagram → **Sign up**. Email подойдёт vadimkovalev999@gmail.com.
-2. Username — подбирай свободный из вариантов: `brightfeed.daily`, `bright.feed.news`, `thebrightfeed`, `brightfeed.world`.
+2. Username — пробуй по порядку, пока форма не покажет «свободно»: `brightfeed` (вдруг повезёт) → **`thebrightfeed`** (наш основной вариант) → `brightfeed.daily` → `brightfeed.world`. Когда зарегистрируешь — скажи Claude итоговое имя, чтобы добавить @упоминание в подписи карточек.
 3. Профиль → **Edit profile**:
    - **Фото** — скачай аватар по ссылке выше.
    - **Name:** `Bright Feed ☀️ Good News`
