@@ -1,5 +1,47 @@
 [
   {
+    "id": "2b3ab79139906422",
+    "title": "Good News This Week: July 11, 2026 - Snails, Poems, & Leopards",
+    "normalizedTitle": "good news this week july 11 2026 snails poems leopards",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-july-11-2026",
+    "publishedAt": "2026-07-11T12:00:00.000Z",
+    "fetchedAt": "2026-07-11T13:18:06.645Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a51f8c386233af748d16afc_Good-News-This-Week-July-11-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "2b3ab79139906422",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e5eb7519509313cf",
+    "title": "UK’s First Hospital for Houseplants – Where Plants Are Put on Drips and Treated for Bugs",
+    "normalizedTitle": "uk s first hospital houseplants where plants put drips treated bugs",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/uk-hospital-where-the-patients-are-houseplants/",
+    "publishedAt": "2026-07-11T11:00:23.000Z",
+    "fetchedAt": "2026-07-11T13:18:06.645Z",
+    "excerpt": "Britain’s most unique hospital is now open—where the “patients” are houseplants. Some are “put on drips” and some may go into quarantine, but all get the same loving care from Rosanna Costello, who started the business...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/houseplant-hospital-by-Katielee-Arrowsmith-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "e5eb7519509313cf",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c00afa69b0df5629",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-7-11-2026/",
+    "publishedAt": "2026-07-11T10:00:52.000Z",
+    "fetchedAt": "2026-07-11T13:18:06.548Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "c00afa69b0df5629",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "797b810aa90070e5",
     "title": "With Cross-Country Bike Tour, Motorcyclists Raised Over $1 Million for Wounded Warrior Project",
     "normalizedTitle": "cross country bike tour motorcyclists raised 1 million wounded warrior project",
