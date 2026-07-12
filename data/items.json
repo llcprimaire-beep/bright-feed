@@ -1,5 +1,19 @@
 [
   {
+    "id": "0363d6f192a42626",
+    "title": "Nepal's young birdwatchers are becoming conservationists one sighting at a time",
+    "normalizedTitle": "nepal s young birdwatchers becoming conservationists one sighting time",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/nepal-birdwatching-conservation-tourism",
+    "publishedAt": "2026-07-12T15:15:00.000Z",
+    "fetchedAt": "2026-07-12T16:58:34.239Z",
+    "excerpt": "Nepal is home to more than 900 bird species, of which 40 are globally threatened and 172 are nationally threatened.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a500b3d7b100dfdcbb5a375_6a500b3c11069efd64dc8c78_nepal-birdwatching-conservation-tourism-featured.webp",
+    "category": "animals",
+    "dedupGroupId": "0363d6f192a42626",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "53fb66655fa41cf2",
     "title": "Good News in History, July 12",
     "normalizedTitle": "good news history july 12",
@@ -11,7 +25,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/Eberhard-von-Nellenburg-CC-3.0.-BY-SA.jpg",
     "category": "people",
     "dedupGroupId": "53fb66655fa41cf2",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060709/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060710/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060711/"
+      }
+    ]
   },
   {
     "id": "49bf126e7aeb94a2",
