@@ -1,5 +1,19 @@
 [
   {
+    "id": "d958de58d76f4839",
+    "title": "The City That Chose Beauty Over Billboards",
+    "normalizedTitle": "city that chose beauty billboards",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
+    "publishedAt": "2026-07-13T08:00:40.000Z",
+    "fetchedAt": "2026-07-13T11:10:43.010Z",
+    "excerpt": "“There used to be a massive block of concrete here, there was an advertising column, it wasn’t so beautiful,” says Gilles Namur, waving his hand along the length of Cours Lafontaine, a street that runs through the...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/5R5A8985-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "d958de58d76f4839",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a618d459bdc38073",
     "title": "26 words that have gone nearly ‘extinct’ in the English language",
     "normalizedTitle": "26 words that have gone nearly extinct english language",
@@ -67,6 +81,34 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Physical-therapy-knee-exercise-work-out-by-Getty-Images-For-Unsplash-hHHZRwHcq0M.jpeg",
     "category": "animals",
     "dedupGroupId": "66dab75d772c6a24",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ac4c98833982b122",
+    "title": "The first gallery built exclusively to represent women artists",
+    "normalizedTitle": "first gallery built exclusively represent women artists",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/the-first-gallery-built-exclusively-to-represent-women-artists/",
+    "publishedAt": "2026-07-13T00:00:59.000Z",
+    "fetchedAt": "2026-07-13T11:10:43.009Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The story of women in art history is mostly a story of not getting seen.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_294731934_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "ac4c98833982b122",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "46e0eca892e88030",
+    "title": "Greece launches nanosatellite system to catch wildfires early",
+    "normalizedTitle": "greece nanosatellite system catch wildfires early",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/greece-launches-nanosatellite-system-to-catch-wildfires-early/",
+    "publishedAt": "2026-07-13T00:00:29.000Z",
+    "fetchedAt": "2026-07-13T11:10:43.008Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Conventional satellites can’t detect a wildfire until it’s roughly the size of a cruise ship.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/FOREST-3_1-1024x768.jpg",
+    "category": "animals",
+    "dedupGroupId": "46e0eca892e88030",
     "alsoCoveredBy": []
   },
   {
@@ -163,6 +205,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060711/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-13/"
       }
     ]
   },
