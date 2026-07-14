@@ -1,5 +1,33 @@
 [
   {
+    "id": "822e8603a28fe34a",
+    "title": "New York Governor Kathy Hochul establishes the nation's first statewide moratorium on new AI data centers",
+    "normalizedTitle": "york governor kathy hochul establishes nation s first statewide moratorium ai data centers",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/new-york-data-center-moratorium",
+    "publishedAt": "2026-07-14T09:00:00.000Z",
+    "fetchedAt": "2026-07-14T09:57:51.138Z",
+    "excerpt": "Governor Kathy Hochul signed an executive order pausing the development of hyperscale AI data centers on Tuesday.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a5548bb14d292941e390478_6a5548baba83ff6281160ec5_new-york-data-center-moratorium-featured-3.webp",
+    "category": "people",
+    "dedupGroupId": "822e8603a28fe34a",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a77ba73e99403ba0",
+    "title": "What positive change have you watched unfold over many years?",
+    "normalizedTitle": "positive change have you watched unfold many years",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/what-positive-change-have-you-watched-unfold-over-many-years/",
+    "publishedAt": "2026-07-14T07:00:06.000Z",
+    "fetchedAt": "2026-07-14T09:57:51.135Z",
+    "excerpt": "Share the stories of change you’ve witnessed that took patience, persistence and time The post What positive change have you watched unfold over many years? appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/iStock-1344986244.jpg",
+    "category": "people",
+    "dedupGroupId": "a77ba73e99403ba0",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c18893577e26ee4f",
     "title": "Happiness expert explains why ‘imposter syndrome’ is a good thing and how to lean into it",
     "normalizedTitle": "happiness expert explains imposter syndrome good thing lean",
@@ -95,6 +123,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/WP-Jacalyn-TOP-SPLASH-2026-07-13T180636.945.jpg?w=1024",
     "category": "people",
     "dedupGroupId": "ad241a1e11ccdd1f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "725ced01a0d9801b",
+    "title": "Illinois found a smarter way to close the menopause care gap",
+    "normalizedTitle": "illinois found smarter way close menopause care gap",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/illinois-found-a-smarter-way-to-close-the-menopause-care-gap/",
+    "publishedAt": "2026-07-14T00:00:41.000Z",
+    "fetchedAt": "2026-07-14T09:57:50.159Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Illinois Lt. Gov. Juliana Stratton set up a series of financial wellness conversations with women around the state. She expected to hear about rent, wages, and the cost of groceries.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_299797124_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "725ced01a0d9801b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8508d1fc75a89a5c",
+    "title": "Using eucalyptus oil to repel household pests: what the experts say",
+    "normalizedTitle": "using eucalyptus oil repel household pests experts",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/using-eucalyptus-oil-to-repel-household-pests-what-the-experts-say/",
+    "publishedAt": "2026-07-14T00:00:30.000Z",
+    "fetchedAt": "2026-07-14T09:57:50.158Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM You might already have eucalyptus oil at home, maybe for the diffuser or a bundle you hang in the shower. It also happens to be something pests avoid.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_226659546_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "8508d1fc75a89a5c",
     "alsoCoveredBy": []
   },
   {
@@ -503,6 +559,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-13/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-14/"
       }
     ]
   },
