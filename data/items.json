@@ -1,5 +1,33 @@
 [
   {
+    "id": "6952a376b9e0190b",
+    "title": "What We’re Reading: In Europe, Clothing Waste Is Unfashionable — and Illegal",
+    "normalizedTitle": "we re reading europe clothing waste unfashionable illegal",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-no-more-clothing-waste/",
+    "publishedAt": "2026-07-15T08:00:10.000Z",
+    "fetchedAt": "2026-07-15T10:02:39.278Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/earth-dot-org.jpg",
+    "category": "planet",
+    "dedupGroupId": "6952a376b9e0190b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "6fa07beb9eed0645",
+    "title": "Whale Watching From Home: The Annual Beluga Cams Are Now Live — And You Can Join the Ranks as a Citizen Scientist",
+    "normalizedTitle": "whale watching from home annual beluga cams now live you can join ranks citizen scientist",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/environment/annual-beluga-cam-livestream-whale-migration/",
+    "publishedAt": "2026-07-15T07:30:00.000Z",
+    "fetchedAt": "2026-07-15T10:02:39.278Z",
+    "excerpt": "Each year on July 15, Polar Bears International hosts Arctic Sea Ice Day to raise awareness about the Arctic and the threats it faces — particularly that it may be warming four times faster than the rest of the planet.",
+    "imageUrl": "https://inbox-media-offload.nicenews.com/wp-content/uploads/2025/07/Dick-Val-Beck_013250756_d8d9b6.jpg?w=1024",
+    "category": "animals",
+    "dedupGroupId": "6fa07beb9eed0645",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e68114dd82a28b55",
     "title": "Woman with cancer apologizes to Rihanna for her appearance. Rihanna has the best response.",
     "normalizedTitle": "woman cancer apologizes rihanna her appearance rihanna has best response",
@@ -11,6 +39,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/WP-Heather-TOP-SPLASH-2026-07-14T152045.520.jpg?w=1024",
     "category": "science",
     "dedupGroupId": "e68114dd82a28b55",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9094186e2577e30f",
+    "title": "The 30 percent parenting rule: how to raise securely attached kids",
+    "normalizedTitle": "30 percent parenting rule raise securely attached kids",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/the-30-percent-parenting-rule-how-to-raise-securely-attached-kids/",
+    "publishedAt": "2026-07-15T00:00:48.000Z",
+    "fetchedAt": "2026-07-15T10:02:39.277Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’re a parent, you’ve had these moments. Not the big, dramatic parenting failures, the ones easy to identify and easier to learn from. The small ones.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_321624782_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "9094186e2577e30f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "44c7badeac506dee",
+    "title": "How Paris uses the Seine to cool thousands of buildings without AC",
+    "normalizedTitle": "paris uses seine cool thousands buildings without ac",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/how-paris-uses-the-seine-to-cool-thousands-of-buildings-without-ac/",
+    "publishedAt": "2026-07-15T00:00:34.000Z",
+    "fetchedAt": "2026-07-15T10:02:39.277Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every air conditioner does the same thing: pull heat from inside a building and dump it outside.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_346185016_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "44c7badeac506dee",
     "alsoCoveredBy": []
   },
   {
@@ -843,6 +899,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-14/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060715/"
       }
     ]
   },
