@@ -1,5 +1,47 @@
 [
   {
+    "id": "cbe14de28dfa4372",
+    "title": "Would You Like Sugar With Your Stars? Sugar Detected in Interstellar Space for the First Time",
+    "normalizedTitle": "would you like sugar your stars sugar detected interstellar space first time",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/would-you-like-sugar-with-your-stars-sugar-detected-in-interstellar-space-for-the-first-time/",
+    "publishedAt": "2026-07-16T13:00:24.000Z",
+    "fetchedAt": "2026-07-16T13:49:12.932Z",
+    "excerpt": "Scientists have detected a simple sugar found in raspberries within the gas and dust at the center of the Milky Way.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/06/image-milky-way-center-released-X-ray-NASA_CXC_UMass_Q.D.-Wang.jpg",
+    "category": "planet",
+    "dedupGroupId": "cbe14de28dfa4372",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "89d6741111fd5c1e",
+    "title": "How a farming programme in Sierra Leone helps amputees rebuild lives",
+    "normalizedTitle": "farming programme sierra leone helps amputees rebuild lives",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/agriculture/sierra-leone-programme-helps-amputees-rebuild-lives-in-sierra-leone/",
+    "publishedAt": "2026-07-16T11:45:01.000Z",
+    "fetchedAt": "2026-07-16T13:49:12.756Z",
+    "excerpt": "An empowering initiative teaches people with limb loss how to farm sustainably, enabling many to start businesses The post How a farming programme in Sierra Leone helps amputees rebuild lives appeared first on Positive...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/20260209_171858.jpeg",
+    "category": "people",
+    "dedupGroupId": "89d6741111fd5c1e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "712339fa47f49bdd",
+    "title": "Maine Counts Over 20 Million River Herring During Annual Run, the Highest in Decades",
+    "normalizedTitle": "maine counts 20 million river herring during annual run highest decades",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/maine-counts-over-20-million-river-herring-during-annual-run-the-highest-in-decades/",
+    "publishedAt": "2026-07-16T11:00:40.000Z",
+    "fetchedAt": "2026-07-16T13:49:11.954Z",
+    "excerpt": "A beloved local fish staple that was illegal to harvest as recently as 2012 has seen an incredible recovery in Maine’s rivers following the removal of several large dams.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Alewife-fish-Alosa-pseudoharengus-herring-in-river-by-US-Fish-and-Wildlife-Service.jpg",
+    "category": "planet",
+    "dedupGroupId": "712339fa47f49bdd",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "5f59ca21279a63eb",
     "title": "‘Food Really Is Medicine’",
     "normalizedTitle": "food really medicine",
@@ -25,7 +67,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/07/Quba-Mosque-the-first-mosque-in-the-history-of-Islam-at-the-outskirts-of-Medina.-It-was-founded-by-Islamic-prophet-Muhammad-public-domain.jpg",
     "category": "people",
     "dedupGroupId": "de37a3a466597a7d",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-13/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/good-news-on-this-day-in-history-july-14/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060715/"
+      }
+    ]
   },
   {
     "id": "b2a437f1f39d20f4",
