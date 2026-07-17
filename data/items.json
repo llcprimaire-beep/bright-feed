@@ -1,5 +1,33 @@
 [
   {
+    "id": "313e71924d148f2c",
+    "title": "In pictures: How forensic science is helping tackle wildlife poaching",
+    "normalizedTitle": "pictures forensic science helping tackle wildlife poaching",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/how-forensic-science-is-helping-tackle-poaching/",
+    "publishedAt": "2026-07-17T09:48:22.000Z",
+    "fetchedAt": "2026-07-17T09:56:44.271Z",
+    "excerpt": "Advances in forensic science are disrupting the illegal wildlife trade – and are documented in a new photo series The post In pictures: How forensic science is helping tackle wildlife poaching appeared first on Positive...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/©B.Jaschinski_Forensics_Finger_Prints-on-Ivory--e1784281061958.jpg",
+    "category": "animals",
+    "dedupGroupId": "313e71924d148f2c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "af4df0ca15ba6282",
+    "title": "Tampons Are Becoming a Valuable Medical Tool",
+    "normalizedTitle": "tampons becoming valuable medical tool",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/menstrual-blood-medical-possibilities/",
+    "publishedAt": "2026-07-17T08:00:26.000Z",
+    "fetchedAt": "2026-07-17T09:56:43.821Z",
+    "excerpt": "Sometimes the most consequential innovations are fueled by frustration. When she was in her early thirties, Ridhi Tariyal asked her gynecologist for a fertility test.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/DSC00865-scaled.png",
+    "category": "science",
+    "dedupGroupId": "af4df0ca15ba6282",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "58e907db70f68db9",
     "title": "What went right this week: the good news that matters",
     "normalizedTitle": "went right this week good news that matters",
@@ -345,6 +373,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060715/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060717/"
       }
     ]
   },
