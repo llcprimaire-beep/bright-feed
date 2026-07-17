@@ -1,5 +1,19 @@
 [
   {
+    "id": "58e907db70f68db9",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/",
+    "publishedAt": "2026-07-17T05:36:22.000Z",
+    "fetchedAt": "2026-07-17T06:15:34.294Z",
+    "excerpt": "Heath wins for El Salvador and Cambodia, progress for the global ocean treaty, and a new species discovery, plus more The post What went right this week: the good news that matters appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/iStock-1371435413.jpg",
+    "category": "planet",
+    "dedupGroupId": "58e907db70f68db9",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "df6197f2cbab7fb9",
     "title": "15 ‘Expert Flirts’ share their can’t-miss advice to help shy people flirt",
     "normalizedTitle": "15 expert flirts share their can t miss advice help shy people flirt",
@@ -53,6 +67,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/12/origin_1b5f33.jpg",
     "category": "people",
     "dedupGroupId": "91d3e43aceb1a21e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d076007de92290f0",
+    "title": "A cheap, homegrown catnip lotion could replace DEET for millions of Ugandans",
+    "normalizedTitle": "cheap homegrown catnip lotion could replace deet millions ugandans",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/a-cheap-homegrown-catnip-lotion-could-replace-deet-for-millions-of-ugandans/",
+    "publishedAt": "2026-07-17T00:00:48.000Z",
+    "fetchedAt": "2026-07-17T06:15:34.041Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM A lotion made from catnip oil matched DEET in field trials in Uganda, according to research presented at the Society for Experimental Biology conference in Florence last week.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_624778446_L-1024x672.jpg",
+    "category": "animals",
+    "dedupGroupId": "d076007de92290f0",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b3e80bc31d517dee",
+    "title": "Reducing microplastic exposure: the four habits we should all be prioritizing",
+    "normalizedTitle": "reducing microplastic exposure four habits we should all be prioritizing",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/reducing-microplastic-exposure-the-four-habits-we-should-all-be-prioritizing/",
+    "publishedAt": "2026-07-17T00:00:18.000Z",
+    "fetchedAt": "2026-07-17T06:15:34.040Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM In 2025, researchers publishing in Nature Medicine found microplastics in human brain tissue at concentrations considerably higher than in the liver or kidneys.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_378324552_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "b3e80bc31d517dee",
     "alsoCoveredBy": []
   },
   {
