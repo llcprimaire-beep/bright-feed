@@ -1,5 +1,19 @@
 [
   {
+    "id": "24615b775343e832",
+    "title": "See Inside the 3 DIY Backyard Bars Competing for 2026 Pub Shed of the Year",
+    "normalizedTitle": "see inside 3 diy backyard bars competing 2026 pub shed year",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/culture/backyard-bars-pub-shed-of-the-year-2026/",
+    "publishedAt": "2026-07-17T23:00:00.000Z",
+    "fetchedAt": "2026-07-18T02:27:06.740Z",
+    "excerpt": "This article was originally written by Ed Chatterton for SWNS — the U.K.’s largest independent news agency, providing globally relevant original, verified, and engaging content to the world’s leading media outlets.",
+    "imageUrl": "https://inbox-media-offload.nicenews.com/wp-content/uploads/2026/07/three-diy-back-1573067-1024x686.jpg",
+    "category": "people",
+    "dedupGroupId": "24615b775343e832",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "4411ab2aa07a7057",
     "title": "25-year-old reporter buys his hometown newspaper to save it from corporate ownership",
     "normalizedTitle": "25 year old reporter buys his hometown newspaper save from corporate ownership",
@@ -179,6 +193,20 @@
     "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a5a6157e50ae96a89ab8ebe_6a5a6155c199e10c9fa70695_orlando-health-sea-turtle-endoscopy-featured-2.webp",
     "category": "animals",
     "dedupGroupId": "4106652b26da94b2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2ae414abb59052f1",
+    "title": "Podcast Transcript July 17th, 2026— Wildfire satellites, Seine city cooling, and parenting securely attached kids",
+    "normalizedTitle": "podcast transcript july 17th 2026 wildfire satellites seine city cooling parenting securely attached kids",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/podcast-transcript-july-17th-2026-wildfire-satellites-seine-city-cooling-and-parenting-securely-attached-kids/",
+    "publishedAt": "2026-07-17T16:30:46.000Z",
+    "fetchedAt": "2026-07-18T02:27:06.740Z",
+    "excerpt": "Episode Description: Greece just launched the world’s first satellite constellation built specifically for wildfire detection.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-13-1024x1024.png",
+    "category": "science",
+    "dedupGroupId": "2ae414abb59052f1",
     "alsoCoveredBy": []
   },
   {
