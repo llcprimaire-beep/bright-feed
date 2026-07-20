@@ -1,5 +1,47 @@
 [
   {
+    "id": "23f63cb19bbd4a9b",
+    "title": "The underground fridge that keeps food cool – even in a heatwave",
+    "normalizedTitle": "underground fridge that keeps food cool even heatwave",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/the-underground-fridge-that-keeps-food-cool-even-in-a-heatwave/",
+    "publishedAt": "2026-07-20T13:24:35.000Z",
+    "fetchedAt": "2026-07-20T14:04:51.888Z",
+    "excerpt": "Inspired by olden days ice houses, this underground fridge uses the earth’s stable temperature to keep food cool The post The underground fridge that keeps food cool – even in a heatwave appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/EP_omved_05.05-1.jpg",
+    "category": "people",
+    "dedupGroupId": "23f63cb19bbd4a9b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "247343f9006e7332",
+    "title": "Senior Center Worker Celebrates 50 Years at a Single Job Without Taking Any Sick Days",
+    "normalizedTitle": "senior center worker celebrates 50 years single job without taking any sick days",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/senior-center-worker-celebrates-50-years-at-a-single-job-without-taking-any-sick-days/",
+    "publishedAt": "2026-07-20T13:00:36.000Z",
+    "fetchedAt": "2026-07-20T14:04:51.510Z",
+    "excerpt": "Tom McKievick says his job is challenging yet entertaining, a good combination for a perspective career.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-5.jpg",
+    "category": "people",
+    "dedupGroupId": "247343f9006e7332",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "01f983cf90277c24",
+    "title": "Longest Undersea Road Tunnel to Shorten Travel Times by 5 Hours and Feature ‘Great Hall of Lights’",
+    "normalizedTitle": "longest undersea road tunnel shorten travel times 5 hours feature great hall lights",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/longest-undersea-road-tunnel-to-shorten-travel-times-by-5-hours-and-feature-great-hall-of-lights/",
+    "publishedAt": "2026-07-20T11:00:51.000Z",
+    "fetchedAt": "2026-07-20T14:04:51.419Z",
+    "excerpt": "1,000 feet below the North Sea, blast after blast brings Norwegian engineers closer and closer to completion of the longest undersea road tunnel on Earth.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/credit-Norwegian-Public-Roads-Administration.jpg",
+    "category": "people",
+    "dedupGroupId": "01f983cf90277c24",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "dced2da6623e532a",
     "title": "What If We Never Built Another New Building?",
     "normalizedTitle": "if we never built another building",
@@ -25,7 +67,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/07/apollo-11-footprint-on-the-moon-NASA.jpg",
     "category": "people",
     "dedupGroupId": "c203d82d8ca39b8e",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060717/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060718/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060719/"
+      }
+    ]
   },
   {
     "id": "e93b59696f7649a7",
