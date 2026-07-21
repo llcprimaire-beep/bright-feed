@@ -1,5 +1,19 @@
 [
   {
+    "id": "de4e3051d1f8a4c8",
+    "title": "Are Electric Cars Making Us Healthier?",
+    "normalizedTitle": "electric cars making us healthier",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/electric-vehicles-air-quality-health/",
+    "publishedAt": "2026-07-21T08:00:26.000Z",
+    "fetchedAt": "2026-07-21T10:25:12.224Z",
+    "excerpt": "This story has been co-published by Reasons to be Cheerful and the Outrider Foundation. At the turn of the century Beijing had one million vehicles.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/3840px-Beijing_34_4941662102-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "de4e3051d1f8a4c8",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "98f1d29eafd36829",
     "title": "‘A place of hope and solutions’: the building promising a better future",
     "normalizedTitle": "place hope solutions building promising better future",
@@ -67,6 +81,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Costco_Exterior.jpg",
     "category": "people",
     "dedupGroupId": "85e5a74e11f90b21",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "32a9d47fd52e2008",
+    "title": "In Cuba’s fuel crisis, solar tricycles took the streets",
+    "normalizedTitle": "cuba s fuel crisis solar tricycles took streets",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/in-cubas-fuel-crisis-solar-tricycles-took-the-streets/",
+    "publishedAt": "2026-07-21T00:00:15.000Z",
+    "fetchedAt": "2026-07-21T10:25:12.223Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Cuba has long been known for its vintage cars — the American ones that kept rolling through decades of embargo and scarcity, repaired with ingenuity and improvised parts.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_142288346_L-1024x682.jpg",
+    "category": "planet",
+    "dedupGroupId": "32a9d47fd52e2008",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5b1e43cd8a474cf5",
+    "title": "Why summer slips away so quickly and how to make it feel longer, according to brain science",
+    "normalizedTitle": "summer slips away so quickly make feel longer according brain science",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/why-summer-slips-away-so-quickly-and-how-to-make-it-feel-longer-according-to-brain-science/",
+    "publishedAt": "2026-07-21T00:00:04.000Z",
+    "fetchedAt": "2026-07-21T10:25:12.222Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM It’s hard to believe it’s almost August; if you’re anything like us, you’re probably wondering where June and July went.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_160977390_L-1024x684.jpg",
+    "category": "science",
+    "dedupGroupId": "5b1e43cd8a474cf5",
     "alsoCoveredBy": []
   },
   {
@@ -415,6 +457,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060719/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060721/"
       }
     ]
   },
