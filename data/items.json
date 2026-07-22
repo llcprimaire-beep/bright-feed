@@ -1,5 +1,19 @@
 [
   {
+    "id": "20dff984952eb9e8",
+    "title": "What We’re Reading: Saving One Centuries-Old Tree at a Time",
+    "normalizedTitle": "we re reading saving one centuries old tree time",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-saving-trees-japan/",
+    "publishedAt": "2026-07-22T08:00:21.000Z",
+    "fetchedAt": "2026-07-22T10:24:53.913Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/Times-of-India-logo.png",
+    "category": "planet",
+    "dedupGroupId": "20dff984952eb9e8",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "afc1101dff7541b6",
     "title": "‘Don’t listen to that box. Listen to me.’ People are drooling over ‘melt-in-your-mouth’ cake hack.",
     "normalizedTitle": "don t listen that box listen me people drooling melt your mouth cake hack",
@@ -81,6 +95,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/top-image-1080-x-720-px-1200-x-640-px-97.jpg",
     "category": "animals",
     "dedupGroupId": "66f46da322fab133",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b8a701d8c4dd8b87",
+    "title": "Scientists trial a painless brush test for oral cancer that returns results in 60 minutes",
+    "normalizedTitle": "scientists trial painless brush test oral cancer that returns results 60 minutes",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/scientists-trial-a-painless-brush-test-for-oral-cancer-that-returns-results-in-60-minutes/",
+    "publishedAt": "2026-07-22T00:00:36.000Z",
+    "fetchedAt": "2026-07-22T10:24:53.912Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM A brush swab of the mouth. Four genes. Results in under an hour.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_427917912_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "b8a701d8c4dd8b87",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8d2ba546475c8e9b",
+    "title": "5 habits that build lasting happiness, according to research",
+    "normalizedTitle": "5 habits that build lasting happiness according research",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/5-habits-that-build-lasting-happiness-according-to-research/",
+    "publishedAt": "2026-07-22T00:00:13.000Z",
+    "fetchedAt": "2026-07-22T10:24:53.911Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most people treat happiness as something that arrives when conditions are right. The last decade of psychological science tells a different story.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_190377876_L-1024x684.jpg",
+    "category": "science",
+    "dedupGroupId": "8d2ba546475c8e9b",
     "alsoCoveredBy": []
   },
   {
@@ -816,6 +858,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060721/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060722/"
       }
     ]
   },
