@@ -1,5 +1,47 @@
 [
   {
+    "id": "827a429fda9671fb",
+    "title": "New AI-enabled 'bear-dar' system aims to alert locals to nearby polar bears",
+    "normalizedTitle": "ai enabled bear dar system aims alert locals nearby polar bears",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/bear-dar-polar-bear-monitoring-arctic-communities",
+    "publishedAt": "2026-07-24T13:40:00.000Z",
+    "fetchedAt": "2026-07-24T13:44:13.390Z",
+    "excerpt": "The goal of the new technology is to reduce human-polar bear encounters in the Arctic, where warming temperatures lead to more brazen bears.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a5ae4441b0efe6fc1483054_bear-dar-aims-to-give-arctic-communities-01.jpg",
+    "category": "people",
+    "dedupGroupId": "827a429fda9671fb",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "39d40d1319a2b329",
+    "title": "The Real Way to Save Bees During a Drought: Expert Corrects Sugar–Water Myth",
+    "normalizedTitle": "real way save bees during drought expert corrects sugar water myth",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/the-real-way-to-save-bees-during-a-drought-expert-corrects-sugar-water-myth/",
+    "publishedAt": "2026-07-24T13:00:26.000Z",
+    "fetchedAt": "2026-07-24T13:44:13.389Z",
+    "excerpt": "A British bee scientist recently explained that setting up ‘hydration stations’ for bees doesn’t work, as the commonly-proffered mixture of sugar in water doesn’t revive tired bees at all. Bees need our help, says Dr.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-bumble-bee-on-a-daisy-credit-SWNS.jpg",
+    "category": "planet",
+    "dedupGroupId": "39d40d1319a2b329",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "89989194a04944c9",
+    "title": "Czech Woman Hacks Her Way into the Record Books at World Lumberjack Games in Wisconsin",
+    "normalizedTitle": "czech woman hacks her way record books world lumberjack games wisconsin",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/czech-woman-hacks-her-way-into-the-record-books-at-world-lumberjack-games-in-wisconsin/",
+    "publishedAt": "2026-07-24T11:00:13.000Z",
+    "fetchedAt": "2026-07-24T13:44:13.282Z",
+    "excerpt": "As Karolina Urbanova broke the log of white pine she was standing on in half with her axe, she notched the 2nd world record for women’s speed lumberjack events she set that day.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Karolina-Urbanova-at-an-EU-lumberjill-event-credit-courtesy-of-Karolina-Urbanova.jpg",
+    "category": "people",
+    "dedupGroupId": "89989194a04944c9",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "f92e4ab3c1860754",
     "title": "When It Comes to Addiction Treatment, ‘Any Door Should Be the Right Door’",
     "normalizedTitle": "when comes addiction treatment any door should be right door",
@@ -25,7 +67,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/07/Giorgio-Armani-in-Capri-CC-skilledadventurer.com_-e1690181013804.jpg",
     "category": "animals",
     "dedupGroupId": "490cedab21972255",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060721/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060722/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060723/"
+      }
+    ]
   },
   {
     "id": "1c6f4867dedcc943",
@@ -67,6 +122,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Carlo_s-passport.png?w=1024",
     "category": "people",
     "dedupGroupId": "9d188401d49d58a7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a9831c4b331a3a84",
+    "title": "From 300 to 3,000: how Australia brought the numbat back",
+    "normalizedTitle": "from 300 3 000 australia brought numbat back",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/from-300-to-3000-how-australia-brought-the-numbat-back/",
+    "publishedAt": "2026-07-24T00:00:24.000Z",
+    "fetchedAt": "2026-07-24T13:44:12.893Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Great news! The (adorable) numbat is no longer endangered.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Numbat_Dryandra_Woodland_Western_Australia-1024x636.jpg",
+    "category": "animals",
+    "dedupGroupId": "a9831c4b331a3a84",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e2436c17fb66148b",
+    "title": "Salsa dancing reduced depression and anxiety in young adults, Oxford study finds",
+    "normalizedTitle": "salsa dancing reduced depression anxiety young adults oxford study finds",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/salsa-dancing-reduced-depression-and-anxiety-in-young-adults-oxford-study-finds/",
+    "publishedAt": "2026-07-24T00:00:13.000Z",
+    "fetchedAt": "2026-07-24T13:44:12.890Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Do eight weeks of salsa classes sound like an intervention to you? Show up, learn the footwork, rotate partners, move to music with a room full of people you probably don’t know.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_891137328_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "e2436c17fb66148b",
     "alsoCoveredBy": []
   },
   {
