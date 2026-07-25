@@ -1,5 +1,89 @@
 [
   {
+    "id": "307b04ef4fd2ca6c",
+    "title": "A chance 2008 encounter with a wounded warrior led John Mayer to raise $13 million for veterans",
+    "normalizedTitle": "chance 2008 encounter wounded warrior led john mayer raise 13 million veterans",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/a-chance-2008-encounter-with-a-wounded-warrior-led-john-mayer-to-raise-13-million-for-veterans/",
+    "publishedAt": "2026-07-25T16:22:28.000Z",
+    "fetchedAt": "2026-07-25T16:56:47.157Z",
+    "excerpt": "Mayer founded The Heart and Armor Foundation in 2019. The post A chance 2008 encounter with a wounded warrior led John Mayer to raise $13 million for veterans appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Untitled-1200-x-640-px-10.jpg",
+    "category": "people",
+    "dedupGroupId": "307b04ef4fd2ca6c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8dee90c964a75274",
+    "title": "Northern Virginia homeowners are hiring a flock of sheep instead of a lawn service",
+    "normalizedTitle": "northern virginia homeowners hiring flock sheep instead lawn service",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-lamb-mowers-sheep-lawn-virginia/",
+    "publishedAt": "2026-07-25T16:22:18.000Z",
+    "fetchedAt": "2026-07-25T16:56:47.140Z",
+    "excerpt": "\"It was two hours, and they got more done than I could have in a week.\" The post Northern Virginia homeowners are hiring a flock of sheep instead of a lawn service appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/preview-5.png",
+    "category": "people",
+    "dedupGroupId": "8dee90c964a75274",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1b2b3fdd1fdb5831",
+    "title": "1 in 10 people have such unusual personality trait combinations that researchers call them ‘mutants’",
+    "normalizedTitle": "1 10 people have such unusual personality trait combinations that researchers call them mutants",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/1-in-10-people-have-such-unusual-personality-trait-combinations-that-researchers-call-them-mutants/",
+    "publishedAt": "2026-07-25T16:22:11.000Z",
+    "fetchedAt": "2026-07-25T16:56:46.598Z",
+    "excerpt": "These major outliers break all the standard models. The post 1 in 10 people have such unusual personality trait combinations that researchers call them ‘mutants’ appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/personality_mutant.jpg",
+    "category": "science",
+    "dedupGroupId": "1b2b3fdd1fdb5831",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e383af5fcd398b86",
+    "title": "Brits reveal what they think of American independence and it’s comical",
+    "normalizedTitle": "brits reveal they think american independence s comical",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/brits-reveal-what-they-think-of-american-independence/",
+    "publishedAt": "2026-07-25T16:21:54.000Z",
+    "fetchedAt": "2026-07-25T16:56:46.472Z",
+    "excerpt": "\"Love you, America.\" The post Brits reveal what they think of American independence and it’s comical appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/1_e8bba7.jpg?w=1024",
+    "category": "people",
+    "dedupGroupId": "e383af5fcd398b86",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fc4d1d35f7fc01de",
+    "title": "Good News This Week: July 25, 2026 - Kangaroos, Gorillas, & Turtles",
+    "normalizedTitle": "good news this week july 25 2026 kangaroos gorillas turtles",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-july-25-2026",
+    "publishedAt": "2026-07-25T12:00:00.000Z",
+    "fetchedAt": "2026-07-25T16:56:46.464Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a639b891328baa79ed0308c_Good-News-This-Week-July-25-2026.jpg",
+    "category": "animals",
+    "dedupGroupId": "fc4d1d35f7fc01de",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ed2ad0fc5349e848",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-7-25-2026/",
+    "publishedAt": "2026-07-25T10:00:59.000Z",
+    "fetchedAt": "2026-07-25T16:56:46.457Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "ed2ad0fc5349e848",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "77ba1d015978e8d9",
     "title": "Stanford researchers find a single question could be the key to changing someone’s mind",
     "normalizedTitle": "stanford researchers find single question could be key changing someone s mind",
@@ -373,6 +457,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060723/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060725/"
       }
     ]
   },
