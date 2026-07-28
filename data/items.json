@@ -1,5 +1,33 @@
 [
   {
+    "id": "3d75e83f30a85174",
+    "title": "Internet Access Soars, Costs Plummet on Island Following the End its Federal Telecom Monopoly",
+    "normalizedTitle": "internet access soars costs plummet island following end federal telecom monopoly",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/internet-access-soars-costs-plummet-on-island-following-the-end-its-federal-telecom-monopoly/",
+    "publishedAt": "2026-07-28T15:30:59.000Z",
+    "fetchedAt": "2026-07-28T17:26:34.341Z",
+    "excerpt": "Internet access has increased 20-fold and broadband costs have fallen by 99% on the archipelago of Micronesia thanks to the ending of government monopoly in the sector.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Fiber-optic-cables-being-installed-in-FSM-credit-Digital-FSM-Project-The-World-Bank-Group.jpg",
+    "category": "people",
+    "dedupGroupId": "3d75e83f30a85174",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "0c056889915e290e",
+    "title": "Crime is on a historic decline, with homicide rates approaching century lows in cities across the US",
+    "normalizedTitle": "crime historic decline homicide rates approaching century lows cities across us",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/homicide-crime-rates-decline",
+    "publishedAt": "2026-07-28T14:15:00.000Z",
+    "fetchedAt": "2026-07-28T17:26:34.114Z",
+    "excerpt": "Homicides fell 18% in the first half of 2026 across a sample of 30 U.S. cities.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a67c5edf2b1baabb1f74357_6a67c5ec081d8375c474acc1_homicide-crime-rates-decline-featured.webp",
+    "category": "people",
+    "dedupGroupId": "0c056889915e290e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a7d84f903e6e7024",
     "title": "American Indian Schools Achieve Highest Graduation Rates in the Nation’s History",
     "normalizedTitle": "american indian schools achieve highest graduation rates nation s history",
