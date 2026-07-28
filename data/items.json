@@ -1,5 +1,19 @@
 [
   {
+    "id": "a7d84f903e6e7024",
+    "title": "American Indian Schools Achieve Highest Graduation Rates in the Nation’s History",
+    "normalizedTitle": "american indian schools achieve highest graduation rates nation s history",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/american-indian-schools-achieve-highest-graduation-rates-in-the-nations-history/",
+    "publishedAt": "2026-07-28T11:00:03.000Z",
+    "fetchedAt": "2026-07-28T14:05:29.041Z",
+    "excerpt": "High schools funded and/or managed by the Bureau of Indian Education (BIE) have achieved the highest average graduation rates yet recorded in its history.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/credit-Bureau-of-Indian-Education.jpg",
+    "category": "animals",
+    "dedupGroupId": "a7d84f903e6e7024",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a787f6d783c1c42d",
     "title": "Good News in History, July 28",
     "normalizedTitle": "good news history july 28",
@@ -11,7 +25,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/The-Vizcaya-Bridge-gondola-Javier-Mediavilla-Ezquibela-CC-3.0.jpg",
     "category": "planet",
     "dedupGroupId": "a787f6d783c1c42d",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060725/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060726/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060727/"
+      }
+    ]
   },
   {
     "id": "9d5ca9f833389d85",
