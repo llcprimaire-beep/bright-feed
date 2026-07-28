@@ -1,5 +1,19 @@
 [
   {
+    "id": "a787f6d783c1c42d",
+    "title": "Good News in History, July 28",
+    "normalizedTitle": "good news history july 28",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events060728/",
+    "publishedAt": "2026-07-28T07:00:00.000Z",
+    "fetchedAt": "2026-07-28T10:34:13.748Z",
+    "excerpt": "133 years ago today, the Vizcaya Bridge, Spain’s only UNESCO World Heritage Site of industrial heritage was completed.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/The-Vizcaya-Bridge-gondola-Javier-Mediavilla-Ezquibela-CC-3.0.jpg",
+    "category": "planet",
+    "dedupGroupId": "a787f6d783c1c42d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "9d5ca9f833389d85",
     "title": "Good citizen 101: What do you do when you receive someone else’s mail?",
     "normalizedTitle": "good citizen 101 do you do when you receive someone else s mail",
@@ -39,6 +53,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Untitled-1200-x-640-px-13.jpg",
     "category": "people",
     "dedupGroupId": "a3f519b82cca09b4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "dfcb6adcaad807ec",
+    "title": "Roadside milkweed is giving monarchs a new migration highway",
+    "normalizedTitle": "roadside milkweed giving monarchs migration highway",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/roadside-milkweed-is-giving-monarchs-a-new-migration-highway/",
+    "publishedAt": "2026-07-28T00:00:11.000Z",
+    "fetchedAt": "2026-07-28T10:34:13.609Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers have planted 9,000 milkweed plants along roads in six North Florida counties, with 6,000 more going in before 2029. Monarchs are already showing up at the sites.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_269556048_L-1024x647.jpg",
+    "category": "science",
+    "dedupGroupId": "dfcb6adcaad807ec",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "69159c8fb35003eb",
+    "title": "The physics of what happens when you suppress a sneeze",
+    "normalizedTitle": "physics happens when you suppress sneeze",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/the-physics-of-what-happens-when-you-suppress-a-sneeze/",
+    "publishedAt": "2026-07-28T00:00:03.000Z",
+    "fetchedAt": "2026-07-28T10:34:13.608Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Holding in a sneeze carries more risk than most people assume.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_148419689_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "69159c8fb35003eb",
     "alsoCoveredBy": []
   },
   {
