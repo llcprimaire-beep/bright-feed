@@ -1,5 +1,33 @@
 [
   {
+    "id": "b588bbcf3b5f41d7",
+    "title": "Dad Turned Weekly Library Trips with His Daughter into Beloved Community Event: Meet ‘Library Dads’",
+    "normalizedTitle": "dad turned weekly library trips his daughter beloved community event meet library dads",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/dad-turned-weekly-library-trips-with-his-daughter-into-beloved-community-event-meet-library-dads/",
+    "publishedAt": "2026-07-29T13:00:23.000Z",
+    "fetchedAt": "2026-07-29T14:09:07.788Z",
+    "excerpt": "Once upon a time, in a little town called Atlanta, there was a dad who decided on a lark to take his 4-month-old baby girl to the library.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Khari-Arnold-center-founded-The-Library-Dads-courtesy.jpg",
+    "category": "people",
+    "dedupGroupId": "b588bbcf3b5f41d7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5d05cb655e5efd49",
+    "title": "3,000 Backlogged Eye Surgeries Paid Forward by US-Caribbean Churches, Restoring Sight for Thousands",
+    "normalizedTitle": "3 000 backlogged eye surgeries paid forward us caribbean churches restoring sight thousands",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/3000-backlogged-eye-surgeries-paid-forward-by-us-caribbean-churches-restoring-sight-for-thousands/",
+    "publishedAt": "2026-07-29T11:00:21.000Z",
+    "fetchedAt": "2026-07-29T14:09:07.615Z",
+    "excerpt": "A hospital in Trinidad and Tobago was the site of an incredible, 12-day surgical marathon.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Patients-awaiting-their-procedures-credit-South-Caribbean-Conference-Communication-Department-provided-to-the-media.jpg",
+    "category": "animals",
+    "dedupGroupId": "5d05cb655e5efd49",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c4151d1e42bcf718",
     "title": "A new measure of courage: how Maasai warriors became lion guardians",
     "normalizedTitle": "measure courage maasai warriors became lion guardians",
@@ -95,6 +123,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Freeway.png?w=1024",
     "category": "people",
     "dedupGroupId": "a4b4add3fe56fa71",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "7c4c70d0671f3a3f",
+    "title": "Three signs your garden is overheating and what to do about each one",
+    "normalizedTitle": "three signs your garden overheating do about each one",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/three-signs-your-garden-is-overheating-and-what-to-do-about-each-one/",
+    "publishedAt": "2026-07-29T00:00:45.000Z",
+    "fetchedAt": "2026-07-29T14:09:07.395Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM It’s usually around this time of the summer season when you find out which plants you’ve been taking for granted.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_859348544_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "7c4c70d0671f3a3f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "0ecafeb64686e383",
+    "title": "Data centers explained: the hidden infrastructure behind your daily digital life",
+    "normalizedTitle": "data centers explained hidden infrastructure behind your daily digital life",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/data-centers-explained-the-hidden-infrastructure-behind-your-daily-digital-life/",
+    "publishedAt": "2026-07-29T00:00:10.000Z",
+    "fetchedAt": "2026-07-29T14:09:07.392Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every time you stream something, pay a bill, or ask an AI a question, a server somewhere is putting in the work.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_8338420_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "0ecafeb64686e383",
     "alsoCoveredBy": []
   },
   {
