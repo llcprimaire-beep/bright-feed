@@ -1,5 +1,33 @@
 [
   {
+    "id": "c4151d1e42bcf718",
+    "title": "A new measure of courage: how Maasai warriors became lion guardians",
+    "normalizedTitle": "measure courage maasai warriors became lion guardians",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
+    "publishedAt": "2026-07-29T10:02:57.000Z",
+    "fetchedAt": "2026-07-29T10:38:19.686Z",
+    "excerpt": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist The post A new measure of courage: how Maasai warriors became lion guardians appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/PN_SharedLand_Story01_WebHeader_1800x1080_a.jpg",
+    "category": "people",
+    "dedupGroupId": "c4151d1e42bcf718",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8d26c3f39bbbb04b",
+    "title": "What We’re Reading: Helping Older Americans ‘Age in Community’",
+    "normalizedTitle": "we re reading helping older americans age community",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-aging-in-community/",
+    "publishedAt": "2026-07-29T08:00:29.000Z",
+    "fetchedAt": "2026-07-29T10:38:18.876Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here. Homeward bound As the U.S.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2025/05/cropped-shelterforce-favicon.png",
+    "category": "planet",
+    "dedupGroupId": "8d26c3f39bbbb04b",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e4e874ec909497ed",
     "title": "Voices in her head told her she had a brain tumor. A scan proved them right.",
     "normalizedTitle": "voices her head told her she had brain tumor scan proved them right",
@@ -364,6 +392,20 @@
     "alsoCoveredBy": []
   },
   {
+    "id": "7b3e2594c79dc781",
+    "title": "It’s a Record Breeding Year for National Bird of Serbia: The Eastern Imperial Eagle",
+    "normalizedTitle": "s record breeding year national bird serbia eastern imperial eagle",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/its-a-record-breeding-year-for-national-bird-of-serbia-the-eastern-imperial-eagle/",
+    "publishedAt": "2026-07-28T13:00:20.000Z",
+    "fetchedAt": "2026-07-29T10:38:18.871Z",
+    "excerpt": "Protection and conservation programs have recorded a banner year for the eastern imperial eagle, as majestic a bird as you’re likely to see in Europe, and the national bird of Serbia.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/An-eastern-imperial-eagle-in-captivity-credit-AngMoKio-CC-3.0.-BY-SA.jpg",
+    "category": "animals",
+    "dedupGroupId": "7b3e2594c79dc781",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a7d84f903e6e7024",
     "title": "American Indian Schools Achieve Highest Graduation Rates in the Nation’s History",
     "normalizedTitle": "american indian schools achieve highest graduation rates nation s history",
@@ -401,6 +443,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060727/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060729/"
       }
     ]
   },
