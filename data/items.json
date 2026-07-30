@@ -1,5 +1,33 @@
 [
   {
+    "id": "df14b2ad8d10cb7b",
+    "title": "Global Hunger Falls Below 8% for the First Time Since the Pandemic",
+    "normalizedTitle": "global hunger falls below 8 first time since pandemic",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic/",
+    "publishedAt": "2026-07-30T13:00:30.000Z",
+    "fetchedAt": "2026-07-30T13:59:33.198Z",
+    "excerpt": "For the 3rd consecutive year, global hunger as measured by malnourishment among continental populations has fallen.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-most-impressive-reductions-in-hunger-were-observed-in-Central-Asia-credit-Far-Chinberdiev-via-Unsplash.jpg",
+    "category": "people",
+    "dedupGroupId": "df14b2ad8d10cb7b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "6d92da71905cd1b0",
+    "title": "Spreading Crushed Rock on Newly-Planted Forests Boosts Carbon Storing and Nutrients",
+    "normalizedTitle": "spreading crushed rock newly planted forests boosts carbon storing nutrients",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/spreading-crushed-rock-on-newly-planted-forests-boosts-carbon-storing-and-nutrients/",
+    "publishedAt": "2026-07-30T11:00:23.000Z",
+    "fetchedAt": "2026-07-30T13:59:33.106Z",
+    "excerpt": "A sprinkle of crushed basalt rock has turned out to be the fairy dust that newly planted forests need to develop faster and absorb more carbon.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Basalt-application-back-in-2023-credit-the-Carbon-Community.jpg",
+    "category": "planet",
+    "dedupGroupId": "6d92da71905cd1b0",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "4ce1281f0093cbbe",
     "title": "The ‘Domino Chains’ Transforming Kidney Donation",
     "normalizedTitle": "domino chains transforming kidney donation",
