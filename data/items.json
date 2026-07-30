@@ -1,5 +1,19 @@
 [
   {
+    "id": "4ce1281f0093cbbe",
+    "title": "The ‘Domino Chains’ Transforming Kidney Donation",
+    "normalizedTitle": "domino chains transforming kidney donation",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/kidney-exchange-chains/",
+    "publishedAt": "2026-07-30T08:00:03.000Z",
+    "fetchedAt": "2026-07-30T10:24:13.833Z",
+    "excerpt": "A guy goes into a bar, and leaves with one less kidney. That’s a joke Mark Scotch tells about his life.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/Mark-and-Hugh.jpg",
+    "category": "planet",
+    "dedupGroupId": "4ce1281f0093cbbe",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "59faac3894ed8929",
     "title": "Did a tourist tax save Magaluf?",
     "normalizedTitle": "did tourist tax save magaluf",
@@ -25,6 +39,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/Egyptian-Princess-SPLASH-1200-x-640-px.jpg",
     "category": "science",
     "dedupGroupId": "c768e27ab130a24a",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5cef0c15da2b4746",
+    "title": "What India’s hydrogen train launch means for its vast railway network",
+    "normalizedTitle": "india s hydrogen train means vast railway network",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/what-indias-hydrogen-train-launch-means-for-its-vast-railway-network/",
+    "publishedAt": "2026-07-30T00:00:10.000Z",
+    "fetchedAt": "2026-07-30T10:24:13.833Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM India launched its first hydrogen-powered train earlier this month. It was built domestically and is now operating in Haryana.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Namo_Green_Rail-1024x576.jpg",
+    "category": "science",
+    "dedupGroupId": "5cef0c15da2b4746",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "77286b2167c25e7d",
+    "title": "The Newcastle researcher turning ocean plastic into a dolphin rescue strategy",
+    "normalizedTitle": "newcastle researcher turning ocean plastic dolphin rescue strategy",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/the-newcastle-researcher-turning-ocean-plastic-into-a-dolphin-rescue-strategy/",
+    "publishedAt": "2026-07-30T00:00:07.000Z",
+    "fetchedAt": "2026-07-30T10:24:13.832Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Gillnets catch dolphins by accident. The nylon mesh hangs nearly invisible in the water, and dolphins’ echolocation, the system they rely on to navigate and hunt, can fail to detect...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_481768534_L-1024x682.jpg",
+    "category": "animals",
+    "dedupGroupId": "77286b2167c25e7d",
     "alsoCoveredBy": []
   },
   {
@@ -769,6 +811,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060729/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060730/"
       }
     ]
   },
