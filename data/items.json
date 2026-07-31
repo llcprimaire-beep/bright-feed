@@ -1,5 +1,47 @@
 [
   {
+    "id": "d6d07383197c3aaa",
+    "title": "How community football is helping youth stay out of trouble",
+    "normalizedTitle": "community football helping youth stay out trouble",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
+    "publishedAt": "2026-07-31T08:48:48.000Z",
+    "fetchedAt": "2026-07-31T10:38:39.693Z",
+    "excerpt": "From knife-crime prevention to mental health support, grassroots football is being taken seriously as a tool for social change The post How community football is helping youth stay out of trouble appeared first on...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/Pic-credit-Jason-Senior_Redpix-1-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "d6d07383197c3aaa",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "69b346f2e39a5fd3",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
+    "publishedAt": "2026-07-31T08:28:22.000Z",
+    "fetchedAt": "2026-07-31T10:38:39.370Z",
+    "excerpt": "Scientists flew into the heart of 'fire clouds', Finland cut emissions with a sand battery, and food banks turned waste into millions of meals, plus more The post What went right this week: the good news that matters...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2024/01/2-plane-fire-cloud.png",
+    "category": "science",
+    "dedupGroupId": "69b346f2e39a5fd3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c150fe351b2084ab",
+    "title": "‘They Take Your Brokenness and Put It Together’",
+    "normalizedTitle": "they take your brokenness put together",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/they-take-your-brokenness-and-put-it-together/",
+    "publishedAt": "2026-07-31T08:00:15.000Z",
+    "fetchedAt": "2026-07-31T10:38:38.765Z",
+    "excerpt": "Up until a few years ago, Jodi Whitt’s trips to the Shawnee County jail in Topeka, Kansas, began with an arrest and an anxious wait in a bare intake cell for up to 72 hours.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/20260318_US_002_edit-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "c150fe351b2084ab",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "9c590f965901e4d5",
     "title": "A 123-year-old Japanese sweets shop in Los Angeles finally gets the spotlight it deserves",
     "normalizedTitle": "123 year old japanese sweets shop los angeles finally gets spotlight deserves",
@@ -1165,6 +1207,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060730/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060731/"
       }
     ]
   },
