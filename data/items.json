@@ -1,5 +1,47 @@
 [
   {
+    "id": "781382c7c3f3bdca",
+    "title": "New study finds listening to birdsong in a forest lowers stress — more than any other setting",
+    "normalizedTitle": "study finds listening birdsong forest lowers stress more than any other setting",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/listening-to-birdsong-lowers-stress",
+    "publishedAt": "2026-07-31T13:15:00.000Z",
+    "fetchedAt": "2026-07-31T14:04:48.999Z",
+    "excerpt": "Both the natural setting and the birdsong helped independently, and the benefits were largest when combined.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a6b222cc9fda31ba79cadc6_listening-to-birdsong-in-a-forest-01.jpg",
+    "category": "animals",
+    "dedupGroupId": "781382c7c3f3bdca",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e438b465ad2f4c01",
+    "title": "Miracle as All 11 Onboard Survive Harrowing Seaplane Crash and Fire in Puget Sound’s Frigid Water",
+    "normalizedTitle": "miracle all 11 onboard survive harrowing seaplane crash fire puget sound s frigid water",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/miracle-as-all-11-onboard-survive-harrowing-seaplane-crash-and-fire-in-puget-sounds-frigid-water/",
+    "publishedAt": "2026-07-31T13:00:35.000Z",
+    "fetchedAt": "2026-07-31T14:04:48.999Z",
+    "excerpt": "Miraculously, all 11 souls walked away with their lives after a seaplane both crashed and caught fire in the Puget Sound.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-seaplanes-wreckage-US-Coastguard-Northwest.jpg",
+    "category": "animals",
+    "dedupGroupId": "e438b465ad2f4c01",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "267761d00cd9866d",
+    "title": "Climate-Friendly Heat Pumps Are Becoming Dominant Home HVAC System in America",
+    "normalizedTitle": "climate friendly heat pumps becoming dominant home hvac system america",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/climate-friendly-heat-pumps-are-becoming-dominant-home-hvac-system-in-america/",
+    "publishedAt": "2026-07-31T11:00:12.000Z",
+    "fetchedAt": "2026-07-31T14:04:48.918Z",
+    "excerpt": "The rapid adoption of heat pumps in the United States is becoming little short of a revolution, such that these clever HVAC devices in a few years will effectively replace previous systems.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/heat-pump-on-snowy-home-Efficiency-Maine.jpg",
+    "category": "planet",
+    "dedupGroupId": "267761d00cd9866d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "d6d07383197c3aaa",
     "title": "How community football is helping youth stay out of trouble",
     "normalizedTitle": "community football helping youth stay out trouble",
