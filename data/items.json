@@ -1,5 +1,47 @@
 [
   {
+    "id": "2d55cefa976014fc",
+    "title": "Jimothy the Raccoon Survived Against the Odds, a Testament to Sophisticated Brains and Devoted Mothers",
+    "normalizedTitle": "jimothy raccoon survived against odds testament sophisticated brains devoted mothers",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/environment/jimothy-raccoon-survived-against-odds-testament-sophisticated-brains-devoted-mothers/",
+    "publishedAt": "2026-08-01T01:00:00.000Z",
+    "fetchedAt": "2026-08-01T02:44:44.759Z",
+    "excerpt": "As a neuroscientist who studies raccoon and rats, I see the viral story of Jimothy the raccoon as a compelling tale of an animal overcoming disability and surviving in the wild.",
+    "imageUrl": "https://inbox-media-offload.nicenews.com/wp-content/uploads/2026/07/file-20260113-64-enq575-1024x683.jpg",
+    "category": "animals",
+    "dedupGroupId": "2d55cefa976014fc",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f243e4bbf573ce79",
+    "title": "Young high school teacher’s response to getting hit on by students sets a brilliant example",
+    "normalizedTitle": "young high school teacher s response getting hit students sets brilliant example",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/young-high-school-teachers-response-to-getting-hit-on-by-students-sets-a-brilliant-example/",
+    "publishedAt": "2026-07-31T22:25:40.000Z",
+    "fetchedAt": "2026-08-01T02:44:44.752Z",
+    "excerpt": "\"You have to set your boundary, loudly, in front of everybody.\" The post Young high school teacher’s response to getting hit on by students sets a brilliant example appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/ANNIE-TOP-SPLASH-5.jpg",
+    "category": "people",
+    "dedupGroupId": "f243e4bbf573ce79",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "41a2724922010b46",
+    "title": "A study across 66 countries identified 5 things the happiest communities have in common",
+    "normalizedTitle": "study across 66 countries identified 5 things happiest communities have common",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/a-study-across-66-countries-identified-5-things-the-happiest-communities-have-in-common/",
+    "publishedAt": "2026-07-31T22:16:21.000Z",
+    "fetchedAt": "2026-08-01T02:44:44.607Z",
+    "excerpt": "Why do some places just feel better to live in? The post A study across 66 countries identified 5 things the happiest communities have in common appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/evvent_a7a3b5.jpg?w=1024",
+    "category": "science",
+    "dedupGroupId": "41a2724922010b46",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c6a3b16f450a63f5",
     "title": "‘Old Ladies’ are free-diving on Cape Cod. They’ve excavated 6,000 pounds of trash.",
     "normalizedTitle": "old ladies free diving cape cod they ve excavated 6 000 pounds trash",
@@ -165,6 +207,20 @@
     "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a6cd5f6e2479f692bd32b40_6a6cd5f5a0b3a0cc47862bb3_students-invent-solar-powered-ambulance-featured-2.webp",
     "category": "planet",
     "dedupGroupId": "6a557b326f52dfb3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "253647b5740c2ea2",
+    "title": "Podcast Transcript July 31st, 2026— Liquid air batteries, dolphins saved by plastic bottles, and an empty weekend a month",
+    "normalizedTitle": "podcast transcript july 31st 2026 liquid air batteries dolphins saved plastic bottles empty weekend month",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/07/podcast-transcript-july-31st-2026-liquid-air-batteries-dolphins-saved-by-plastic-bottles-and-an-empty-weekend-a-month/",
+    "publishedAt": "2026-07-31T16:30:35.000Z",
+    "fetchedAt": "2026-08-01T02:44:44.606Z",
+    "excerpt": "Episode Description: Dolphins fatally swim into fishing nets because the nylon is acoustically too similar to water for their echolocation to pick up.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-13-1024x1024.png",
+    "category": "animals",
+    "dedupGroupId": "253647b5740c2ea2",
     "alsoCoveredBy": []
   },
   {
