@@ -277,7 +277,12 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/08/Dune-first-edition-cover-Copy.jpg",
     "category": "people",
     "dedupGroupId": "e3d2fb7687e9f696",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060802/"
+      }
+    ]
   },
   {
     "id": "2d55cefa976014fc",
