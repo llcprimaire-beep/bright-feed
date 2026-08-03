@@ -14,6 +14,48 @@
     "alsoCoveredBy": []
   },
   {
+    "id": "bb7dc489b8fcbd3f",
+    "title": "The Great Bubble Barrier: bubble curtains are intercepting 86 percent of river plastic",
+    "normalizedTitle": "great bubble barrier bubble curtains intercepting 86 percent river plastic",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-great-bubble-barrier-bubble-curtains-are-intercepting-86-percent-of-river-plastic/",
+    "publishedAt": "2026-08-03T00:00:48.000Z",
+    "fetchedAt": "2026-08-03T07:25:09.915Z",
+    "excerpt": "Rivers are how plastic gets to the ocean. Stop it there, and you stop it for good. The Great Bubble Barrier, a Dutch company, has built a technology to do exactly that.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_184915514_L.jpg",
+    "category": "planet",
+    "dedupGroupId": "bb7dc489b8fcbd3f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5b7e717e4b366f9f",
+    "title": "India connects 124 million rural homes to tap water",
+    "normalizedTitle": "india connects 124 million rural homes tap water",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/india-connects-124-million-rural-homes-to-tap-water/",
+    "publishedAt": "2026-08-03T00:00:31.000Z",
+    "fetchedAt": "2026-08-03T07:25:08.940Z",
+    "excerpt": "Six years ago, fewer than one in six rural homes in India had a tap water connection. As of mid-July, more than four in five do, and the difference adds up to 124 million additional households. Minister V.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_2136941_L.jpg",
+    "category": "science",
+    "dedupGroupId": "5b7e717e4b366f9f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "46d58f4fa6345773",
+    "title": "The biodegradable, self-cleaning fabric made from living caterpillar fungus",
+    "normalizedTitle": "biodegradable self cleaning fabric made from living caterpillar fungus",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-biodegradable-self-cleaning-fabric-made-from-living-caterpillar-fungus/",
+    "publishedAt": "2026-08-03T00:00:07.000Z",
+    "fetchedAt": "2026-08-03T07:25:07.841Z",
+    "excerpt": "The sustainable fashion industry has spent years trying to reduce harm: less water, fewer synthetic chemicals, more recycled material.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_249595850_L.jpg",
+    "category": "animals",
+    "dedupGroupId": "46d58f4fa6345773",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e3aca22cb5eabf12",
     "title": "A teacher asked an important question about superintendent’s pay raise. Then she got arrested.",
     "normalizedTitle": "teacher asked important question about superintendent s pay raise then she got arrested",
@@ -603,6 +645,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060802/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060803/"
       }
     ]
   },
