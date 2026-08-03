@@ -1,5 +1,47 @@
 [
   {
+    "id": "10e8d612d39103f1",
+    "title": "GoFundMe launches hub of verified Spokane wildfire relief fundraisers",
+    "normalizedTitle": "gofundme hub verified spokane wildfire relief fundraisers",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/spokane-washington-complex-fires-gofundme-fundraiser",
+    "publishedAt": "2026-08-03T20:28:00.000Z",
+    "fetchedAt": "2026-08-03T21:01:32.847Z",
+    "excerpt": "Firefighters from eastern Washington and around the country have been responding to contain the fires since they began on Saturday.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a70f9afdf48a2434dd45bb9_6a70f9aedf3ff4c3add8b06f_gofundme-spokane-wildfire-evacuation-fundraisers-featured.webp",
+    "category": "people",
+    "dedupGroupId": "10e8d612d39103f1",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "77fbeafa13533833",
+    "title": "Woman’s childhood dog shows up unexpectedly in Google Maps search, and millions relate",
+    "normalizedTitle": "woman s childhood dog shows up unexpectedly google maps search millions relate",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/womans-childhood-dog-shows-up-unexpectedly-in-google-maps-search-and-millions-relate/",
+    "publishedAt": "2026-08-03T19:06:43.000Z",
+    "fetchedAt": "2026-08-03T21:01:32.844Z",
+    "excerpt": "“Even after death, I’m still discovering that he finds ways to tell me he is around.” The post Woman’s childhood dog shows up unexpectedly in Google Maps search, and millions relate appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/pexels-3alkan-37844937.jpg?w=1024",
+    "category": "animals",
+    "dedupGroupId": "77fbeafa13533833",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3da438972e52330e",
+    "title": "Do-Good Dogs Fight Invasive Mussels as ‘Conservation Canines’",
+    "normalizedTitle": "do good dogs fight invasive mussels conservation canines",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/do-good-dogs-fight-invasive-mussels-as-conservation-canines/",
+    "publishedAt": "2026-08-03T18:30:48.000Z",
+    "fetchedAt": "2026-08-03T21:01:32.839Z",
+    "excerpt": "Invasive species of Asian mussels have met their match in Alberta’s riverine sniffer dogs.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Conservation-K-9s-Winnie-Hilo-and-Jane-Photo-the-Province-of-Alberta.jpeg",
+    "category": "animals",
+    "dedupGroupId": "3da438972e52330e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a4a29a0337a683a5",
     "title": "Blind cat helps stray kitten on the brink with life-saving blood transfusion",
     "normalizedTitle": "blind cat helps stray kitten brink life saving blood transfusion",
