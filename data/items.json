@@ -1,5 +1,33 @@
 [
   {
+    "id": "ce7db60496e48c5d",
+    "title": "Leonardo DiCaprio launches effort to bring 100 of the world's most endangered species back from the brink",
+    "normalizedTitle": "leonardo dicaprio effort bring 100 world s most endangered species back from brink",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/leonardo-dicaprio-phoenix-species-project",
+    "publishedAt": "2026-08-04T10:00:00.000Z",
+    "fetchedAt": "2026-08-04T10:38:11.575Z",
+    "excerpt": "DiCaprio’s Re:Wild is joining with the Bezos Earth Fund to recover critically endangered species across the globe.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a70f0eec9681b69d8e2cbfb_6a70f0ed71f89d6efef572f0_leonardo-dicaprio-phoenix-species-project-featured.webp",
+    "category": "people",
+    "dedupGroupId": "ce7db60496e48c5d",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c97f59f0e804baca",
+    "title": "Will regeneratively grown food become mainstream?",
+    "normalizedTitle": "will regeneratively grown food become mainstream",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
+    "publishedAt": "2026-08-04T08:00:00.000Z",
+    "fetchedAt": "2026-08-04T10:38:11.570Z",
+    "excerpt": "At Groundswell, experts debated how to get more nature-friendly foods on shelves. Here are three key takeaways The post Will regeneratively grown food become mainstream? appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/07/20260701_094938720_iOS.jpg",
+    "category": "people",
+    "dedupGroupId": "c97f59f0e804baca",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "b2992997a86e2088",
     "title": "A wife erased her own name from Schindler’s List to save her husband. She kept it secret for 50 years.",
     "normalizedTitle": "wife erased her own name from schindler s list save her husband she kept secret 50 years",
@@ -39,6 +67,20 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/08/scuba.png?w=1024",
     "category": "people",
     "dedupGroupId": "be3d04bcbde89e47",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "7625bba5c9858a36",
+    "title": "The ultimate guide to drying and storing fresh garden herbs for year-round homegrown flavor",
+    "normalizedTitle": "ultimate guide drying storing fresh garden herbs year round homegrown flavor",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-ultimate-guide-to-drying-and-storing-fresh-garden-herbs-for-year-round-homegrown-flavor/",
+    "publishedAt": "2026-08-04T00:00:07.000Z",
+    "fetchedAt": "2026-08-04T10:38:10.952Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s nothing quite like wandering around your garden with scissors in hand, ready to cut fresh herbs to season your meals. The aromatic scents and flavors are unparalleled.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/14936882_m_normal_none-1024x680.jpg",
+    "category": "science",
+    "dedupGroupId": "7625bba5c9858a36",
     "alsoCoveredBy": []
   },
   {
@@ -1041,6 +1083,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060803/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060804/"
       }
     ]
   },
