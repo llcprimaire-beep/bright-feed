@@ -1,5 +1,33 @@
 [
   {
+    "id": "4b726d704f44dc5b",
+    "title": "Inspiring CEO Gives Company to Charity After Working 80-hour Weeks for 58 Years, Saving it from Bankruptcy",
+    "normalizedTitle": "inspiring ceo gives company charity working 80 hour weeks 58 years saving from bankruptcy",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/inspiring-ceo-gives-company-to-charity-after-working-80-hour-weeks-for-58-years-saving-it-from-bankruptcy/",
+    "publishedAt": "2026-08-05T13:00:13.000Z",
+    "fetchedAt": "2026-08-05T14:07:44.239Z",
+    "excerpt": "Grady-White Boats market their vessels as the “finest boats ever crafted” which is quite the statement. GNN can’t comment on boat quality, but they certainly don’t make humans like Grady-White’s ex-CEO much anymore.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Eddie-Smith-Jr-on-a-Grady-White-boat-credit-released-as-a-courtesy-of-Grady-White-Boats-to-Fortune-e1785919694446.jpg",
+    "category": "people",
+    "dedupGroupId": "4b726d704f44dc5b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "dad4dc0248d0834d",
+    "title": "Single Fossil Shows a Pterosaur Eaten by an Ichthyosaur Eaten by a Pliosaur: ‘A 3-Way Chompfest’",
+    "normalizedTitle": "single fossil shows pterosaur eaten ichthyosaur eaten pliosaur 3 way chompfest",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/single-fossil-shows-a-pterosaur-eaten-by-an-ichthyosaur-eaten-by-a-pliosaur-a-3-way-chompfest/",
+    "publishedAt": "2026-08-05T11:01:46.000Z",
+    "fetchedAt": "2026-08-05T14:07:44.031Z",
+    "excerpt": "In what must rank as one of the rarer fossil assemblages ever discovered, an incredible moment where the whole top-third of the Cretaceous era marine food chain was being sorted out has been presented by scientists.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/An-artists-illustration-of-the-event-right-Dr.-White-and-Kevin-Petersen-holding-the-pterosaur-remians-credit-Kronosaurus-Korner-Museum-released.jpg",
+    "category": "science",
+    "dedupGroupId": "dad4dc0248d0834d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "fc6bddd40f98b93a",
     "title": "What We’re Reading: Building a Massive Wildlife Corridor From Fragmented Lands",
     "normalizedTitle": "we re reading building massive wildlife corridor from fragmented lands",
@@ -39,7 +67,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/08/John-Huston-publicity-shot.jpg",
     "category": "people",
     "dedupGroupId": "07daf7983ca22936",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060802/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060803/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060804/"
+      }
+    ]
   },
   {
     "id": "19d8eb5e273b7b1f",
