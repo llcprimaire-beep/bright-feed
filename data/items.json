@@ -1,5 +1,33 @@
 [
   {
+    "id": "1155c7795846cc57",
+    "title": "The ‘Transplant Games’ Are About More Than Medals",
+    "normalizedTitle": "transplant games about more than medals",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
+    "publishedAt": "2026-08-06T08:00:46.000Z",
+    "fetchedAt": "2026-08-06T10:38:03.806Z",
+    "excerpt": "Robert Lindemann is a 32-year-old accountant from Germany. He’s also had a heart transplant, a life-changing experience shared by just a few hundred people each year in his country.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Robert-Lindemann-pictured-right-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "1155c7795846cc57",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1abab0a7b1c37164",
+    "title": "Life lessons: Joe Newman on what life so far has taught him",
+    "normalizedTitle": "life lessons joe newman life so far has taught him",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/culture/life-lessons-joe-newman-on-what-life-so-far-has-taught-him/",
+    "publishedAt": "2026-08-06T07:00:04.000Z",
+    "fetchedAt": "2026-08-06T10:38:03.799Z",
+    "excerpt": "The British singer-songwriter and frontman of alt-J on capturing creative sparks and the rise of the far-right The post Life lessons: Joe Newman on what life so far has taught him appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/jjerome87-press-25_credit-Zachary-Gray.jpg",
+    "category": "people",
+    "dedupGroupId": "1abab0a7b1c37164",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "0f38a1293508560e",
     "title": "The Rock hadn’t thought about her in decades. A mentalist said her name in under a minute.",
     "normalizedTitle": "rock hadn t thought about her decades mentalist said her name under minute",
@@ -67,6 +95,34 @@
     "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a73ca87d785df2c08867d51_6a73ca7d53939df8e0720000_new-study-cougars-pumas-deer-car-accident-featured.webp",
     "category": "science",
     "dedupGroupId": "06bbedaea8c45d59",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3015c679b160fb5e",
+    "title": "The robots kids build to preserve Native American languages",
+    "normalizedTitle": "robots kids build preserve native american languages",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-robots-kids-build-to-preserve-native-american-languages/",
+    "publishedAt": "2026-08-06T00:00:43.000Z",
+    "fetchedAt": "2026-08-06T10:38:03.383Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The U.S. Indian boarding school system spent decades trying to remove Native American languages from Native children.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_835608338_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "3015c679b160fb5e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f078c335f3c70029",
+    "title": "How to build perspective as a daily practice for resilience",
+    "normalizedTitle": "build perspective daily practice resilience",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/how-to-build-perspective-as-a-daily-practice-for-resilience/",
+    "publishedAt": "2026-08-06T00:00:41.000Z",
+    "fetchedAt": "2026-08-06T10:38:03.382Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Picture yourself running late to a dreaded appointment. Your shoulders climb toward your ears, your jaw tightens, and every red light feels like a targeted attack.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_714766920_L-1024x576.jpg",
+    "category": "science",
+    "dedupGroupId": "f078c335f3c70029",
     "alsoCoveredBy": []
   },
   {
@@ -345,6 +401,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060804/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060806/"
       }
     ]
   },
