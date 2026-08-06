@@ -1,5 +1,33 @@
 [
   {
+    "id": "0d0c9a1928d7871b",
+    "title": "Town’s Beloved Santa Claus Delivers a Very Special Present to Someone in Need–His Donated Kidney",
+    "normalizedTitle": "town s beloved santa claus delivers very special present someone need his donated kidney",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/towns-beloved-santa-claus-delivers-a-very-special-present-to-someone-in-need-his-donated-kidney/",
+    "publishedAt": "2026-08-06T13:00:02.000Z",
+    "fetchedAt": "2026-08-06T14:07:50.154Z",
+    "excerpt": "A man who dresses up every year as Santa Claus to spread Christmas cheer has just delivered a very special present.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-provided-to-WTVR-as-a-courtesy-of-Henrico-Doctors-Hospital.jpg",
+    "category": "people",
+    "dedupGroupId": "0d0c9a1928d7871b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "6397a2ebb36ed941",
+    "title": "Over 100 Refill Stations for Home/Laundry Cleaners to Open Across Singapore at 30% Discount",
+    "normalizedTitle": "100 refill stations home laundry cleaners open across singapore 30 discount",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/over-100-refill-stations-for-home-laundry-cleaners-to-open-across-singapore-at-30-discount/",
+    "publishedAt": "2026-08-06T11:00:56.000Z",
+    "fetchedAt": "2026-08-06T14:07:49.956Z",
+    "excerpt": "A company which learned that Singapore’s recycling rates have “plateaued” around 11% is deploying over 100 refill machines for cleaning products around the city.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/splitscreen-images-via-Lam-Soon-Ecoworks-via-the-Mothership.jpg",
+    "category": "planet",
+    "dedupGroupId": "6397a2ebb36ed941",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "1155c7795846cc57",
     "title": "The ‘Transplant Games’ Are About More Than Medals",
     "normalizedTitle": "transplant games about more than medals",
