@@ -1,5 +1,19 @@
 [
   {
+    "id": "4b0f3c4e86fc9f9e",
+    "title": "SeaWorld Completes Largest Captive Whale Transportation Operation in Nation’s History",
+    "normalizedTitle": "seaworld completes largest captive whale transportation operation nation s history",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/seaworld-completes-largest-captive-whale-transportation-operation-in-nations-history/",
+    "publishedAt": "2026-08-07T11:00:54.000Z",
+    "fetchedAt": "2026-08-07T13:01:32.196Z",
+    "excerpt": "SeaWorld San Antonio recently welcomed 7 rescued beluga whales, following a nearly 2,000 mile journey, as part of an urgent, unprecedented international effort to relocate 30 belugas from a closed marine park in Canada...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Beluga-whale-arrives-at-SeaWorld-San-Antonio-courtesy-SeaWorld-e1786086907871.jpg",
+    "category": "animals",
+    "dedupGroupId": "4b0f3c4e86fc9f9e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "316835ead8654752",
     "title": "The Spark: How Neighbors Are Banding Together to Go Greener",
     "normalizedTitle": "spark neighbors banding together go greener",
@@ -25,6 +39,34 @@
     "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/iStock-2195324807-4-e1786036016741.jpeg",
     "category": "people",
     "dedupGroupId": "a8061a06de17ebc4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "deed6369d9e094f2",
+    "title": "Learning a new skill triggers both temporary cell swelling and lasting brain growth",
+    "normalizedTitle": "learning skill triggers both temporary cell swelling lasting brain growth",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/learning-a-new-skill-triggers-both-temporary-cell-swelling-and-lasting-brain-growth/",
+    "publishedAt": "2026-08-07T00:00:30.000Z",
+    "fetchedAt": "2026-08-07T13:01:32.041Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Did you know that every time the brain learns something, it changes physically?",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_674000174_L-1024x682.jpg",
+    "category": "animals",
+    "dedupGroupId": "deed6369d9e094f2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a744035366e913c3",
+    "title": "New York sends $189 million to close the summer hunger gap",
+    "normalizedTitle": "york sends 189 million close summer hunger gap",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/new-york-sends-189-million-to-close-the-summer-hunger-gap/",
+    "publishedAt": "2026-08-07T00:00:16.000Z",
+    "fetchedAt": "2026-08-07T13:01:32.041Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Here’s some food for thought: for students, free lunch ends when school does.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_109027640_L-1024x684.jpg",
+    "category": "science",
+    "dedupGroupId": "a744035366e913c3",
     "alsoCoveredBy": []
   },
   {
