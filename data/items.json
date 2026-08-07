@@ -1,5 +1,19 @@
 [
   {
+    "id": "316835ead8654752",
+    "title": "The Spark: How Neighbors Are Banding Together to Go Greener",
+    "normalizedTitle": "spark neighbors banding together go greener",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-spark-green-home-energy/",
+    "publishedAt": "2026-08-07T08:00:42.000Z",
+    "fetchedAt": "2026-08-07T08:58:18.026Z",
+    "excerpt": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Heat-pump-3.jpg",
+    "category": "planet",
+    "dedupGroupId": "316835ead8654752",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a8061a06de17ebc4",
     "title": "What went right this week: the good news that matters",
     "normalizedTitle": "went right this week good news that matters",
@@ -671,6 +685,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060806/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060807/"
       }
     ]
   },
