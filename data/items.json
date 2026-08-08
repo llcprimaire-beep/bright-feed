@@ -1,5 +1,19 @@
 [
   {
+    "id": "8ae8de0fb8f67078",
+    "title": "Good News This Week: August 8, 2026 - Eggs, Firefighters, & Rhinos",
+    "normalizedTitle": "good news this week august 8 2026 eggs firefighters rhinos",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-august-8-2026",
+    "publishedAt": "2026-08-08T12:00:00.000Z",
+    "fetchedAt": "2026-08-08T12:46:23.826Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a76a4f8f4e3c415697fe218_Good-News-This-Week-August-08-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "8ae8de0fb8f67078",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a10c1639de36cfe4",
     "title": "The Tiger Returns to Kazakhstan in First-in-the-World Rewilding Project a Decade in the Making",
     "normalizedTitle": "tiger returns kazakhstan first world rewilding project decade making",
@@ -997,6 +1011,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060807/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060808/"
       }
     ]
   },
