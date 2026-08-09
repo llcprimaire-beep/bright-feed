@@ -1,5 +1,33 @@
 [
   {
+    "id": "cb3368e9ad6bafa3",
+    "title": "Two of Africa's rarest birds broke a dry spell after the dad finally stepped in to raise his eggs, a first in 95 Years",
+    "normalizedTitle": "two africa s rarest birds broke dry spell dad finally stepped raise his eggs first 95 years",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/secretary-birds-rare-endangered-species-zoo",
+    "publishedAt": "2026-08-09T11:30:00.000Z",
+    "fetchedAt": "2026-08-09T12:49:11.289Z",
+    "excerpt": "Two secretarybirds, John and Jolene, have welcomed five chicks for the first time in the zoo’s 95-year history.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a786445f412ff15a65935d5_6a786444b067d20182b03809_secretary-birds-rare-endangered-species-zoo-featured.webp",
+    "category": "animals",
+    "dedupGroupId": "cb3368e9ad6bafa3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "dd8a0e59e774ce76",
+    "title": "Blind Dressage Horse Wins Competitions By Using ‘Equine Braille’",
+    "normalizedTitle": "blind dressage horse wins competitions using equine braille",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/blind-dressage-horse-wins-competitions-by-using-equine-braille/",
+    "publishedAt": "2026-08-09T11:00:06.000Z",
+    "fetchedAt": "2026-08-09T12:49:11.283Z",
+    "excerpt": "Despite going blind, a remarkable horse is still on his way to becoming a dressage champion after adopting an extraordinary form of equine “braille”.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Appaloosa-Dressage-Horse-ridden-by-Megan-Share-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "dd8a0e59e774ce76",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "773a589afaa3c1a4",
     "title": "Good News in History, August 9",
     "normalizedTitle": "good news history august 9",
@@ -11,7 +39,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/08/Jesse-Owens-at-the-1936-Olympics-Bundesarchiv.jpg",
     "category": "people",
     "dedupGroupId": "773a589afaa3c1a4",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060806/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060807/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060808/"
+      }
+    ]
   },
   {
     "id": "acf5c2bda722a98d",
