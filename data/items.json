@@ -1,5 +1,33 @@
 [
   {
+    "id": "1f29e3b1a31e9393",
+    "title": "Can This City Banish Single-Use Coffee Cups?",
+    "normalizedTitle": "can this city banish single use coffee cups",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/can-this-city-banish-single-use-coffee-cups/",
+    "publishedAt": "2026-08-10T08:00:38.000Z",
+    "fetchedAt": "2026-08-10T09:19:53.396Z",
+    "excerpt": "This story has been co-published by Reasons to be Cheerful and the Outrider Foundation. If you line up to get coffee at one of Aarhus University’s many cafeterias, you won’t see a stack of disposable cups as you do at...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/TOMRA_AARHUS_REUSEABLE_06-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "1f29e3b1a31e9393",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "91e96404bc0ccf5d",
+    "title": "How birdwatching has become an unexpected hit with Gen Z",
+    "normalizedTitle": "birdwatching has become unexpected hit gen z",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/conservation/birdwatching-takes-off-among-gen-z/",
+    "publishedAt": "2026-08-10T07:00:34.000Z",
+    "fetchedAt": "2026-08-10T09:19:53.392Z",
+    "excerpt": "A new wave of young birders is helping to turn one of Britain’s oldest pastimes into one of its fastest-growing hobbies The post How birdwatching has become an unexpected hit with Gen Z appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/annie-spratt-RR5w4xq4GGA-unsplash-e1786108068683.jpg",
+    "category": "animals",
+    "dedupGroupId": "91e96404bc0ccf5d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "36cbe92689ba0233",
     "title": "Professor uses two balls and string to show how far the Moon actually is from Earth",
     "normalizedTitle": "professor uses two balls string show far moon actually from earth",
@@ -81,6 +109,34 @@
     "imageUrl": "https://inbox-media-offload.nicenews.com/wp-content/uploads/2026/08/file-20260727-69-vus5zy-1024x683.jpg",
     "category": "people",
     "dedupGroupId": "8671fc556e75f141",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "dbdd828d3d1878cf",
+    "title": "New Mexico court orders Meta to pay $942m over child harms",
+    "normalizedTitle": "mexico court orders meta pay 942m child harms",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/new-mexico-court-orders-meta-to-pay-942m-over-child-harms/",
+    "publishedAt": "2026-08-10T00:00:47.000Z",
+    "fetchedAt": "2026-08-10T09:19:53.048Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM New Mexico just became the first state to hold Meta financially liable for harms to children’s mental health. The total bill is now $942m.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_34032799_L-1024x672.jpg",
+    "category": "science",
+    "dedupGroupId": "dbdd828d3d1878cf",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "623f35e41d12f745",
+    "title": "Children learn to be alone through love, not distance",
+    "normalizedTitle": "children learn be alone through love not distance",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/children-learn-to-be-alone-through-love-not-distance/",
+    "publishedAt": "2026-08-10T00:00:33.000Z",
+    "fetchedAt": "2026-08-10T09:19:53.047Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM There is something that makes adults uneasy about a child playing alone. A kid absorbed in something private at a playground edge, a bedroom door closed for an afternoon.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_853148842_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "623f35e41d12f745",
     "alsoCoveredBy": []
   },
   {
