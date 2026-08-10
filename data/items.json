@@ -1,5 +1,89 @@
 [
   {
+    "id": "b32336a3d3856cf0",
+    "title": "The nation's first 'nature library' just opened. Bird watching kits and snowshoes are available for checkout",
+    "normalizedTitle": "nation s first nature library just opened bird watching kits snowshoes available checkout",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/colorado-anythink-nature-library",
+    "publishedAt": "2026-08-10T16:44:00.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.695Z",
+    "excerpt": "Books are still available to check out, but the Anythink Nature Library is also home to items and programming all focused on getting outdoors.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a79ff750ad34a3de9740709_6a79ff747312655058d35146_colorado-anythink-nature-library-featured.webp",
+    "category": "animals",
+    "dedupGroupId": "b32336a3d3856cf0",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "62fab86552dba1d8",
+    "title": "The newest parenting hack to stop tantrums instantly? Yelling ‘Jessica.’",
+    "normalizedTitle": "newest parenting hack stop tantrums instantly yelling jessica",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/newest-parenting-hack-to-stop-tantrums-instantly-yelling-jessica-ex1/",
+    "publishedAt": "2026-08-10T16:22:37.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.694Z",
+    "excerpt": "Experts explain how this \"magic\" trick really works. The post The newest parenting hack to stop tantrums instantly? Yelling ‘Jessica.’ appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/04/pexels-arzella-bektas-685217728-18010689.jpg",
+    "category": "people",
+    "dedupGroupId": "62fab86552dba1d8",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "971021ec330c3a20",
+    "title": "A little girl’s classmate asked who the man picking her up was. Her two-word answer made him emotional for the rest of the day.",
+    "normalizedTitle": "little girl s classmate asked who man picking her up was her two word answer made him emotional rest day",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-stepdad-julian-daughter-school-pickup-thats-my-dad-ex1/",
+    "publishedAt": "2026-08-10T16:22:31.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.672Z",
+    "excerpt": "It’d be nice if there were a simple rulebook for step-relationships. The post A little girl’s classmate asked who the man picking her up was. Her two-word answer made him emotional for the rest of the day.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/04/Pick-up.png",
+    "category": "people",
+    "dedupGroupId": "971021ec330c3a20",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "619f6b02558a5548",
+    "title": "14 boring habits that can quietly rebuild your life, according to science",
+    "normalizedTitle": "14 boring habits that can quietly rebuild your life according science",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/14-boring-habits-transform-your-life-ex1/",
+    "publishedAt": "2026-08-10T16:22:27.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.607Z",
+    "excerpt": "“This system assumes chaos is inevitable.” The post 14 boring habits that can quietly rebuild your life, according to science appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/04/6.png?w=819",
+    "category": "people",
+    "dedupGroupId": "619f6b02558a5548",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "090d8a7f1fb6e429",
+    "title": "A Gen Z passenger demanded his delayed flight take off immediately. When the gate agent heard why, he bought the man a ticket on a different airline.",
+    "normalizedTitle": "gen z passenger demanded his delayed flight take off immediately when gate agent heard he bought man ticket different airline",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-gate-agent-pays-flight-passenger-mom-ex1/",
+    "publishedAt": "2026-08-10T16:21:57.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.606Z",
+    "excerpt": "A gate agent who assumed the worst about an angry young passenger ended up spending $450 of his own money to get him home. The post A Gen Z passenger demanded his delayed flight take off immediately.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/04/passenger-delayed-airport.png?w=1024",
+    "category": "people",
+    "dedupGroupId": "090d8a7f1fb6e429",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "458aff3201ce46c4",
+    "title": "Struggling to make time for self-care? These 15 micro-habits take 2 minutes or less.",
+    "normalizedTitle": "struggling make time self care these 15 micro habits take 2 minutes or less",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/15-micro-habits-2-minutes-or-less-ex1/",
+    "publishedAt": "2026-08-10T16:21:27.000Z",
+    "fetchedAt": "2026-08-10T16:53:12.604Z",
+    "excerpt": "Boost your energy, calm, and focus with these small, easily achievable actions. The post Struggling to make time for self-care? These 15 micro-habits take 2 minutes or less. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/04/9.png?w=819",
+    "category": "people",
+    "dedupGroupId": "458aff3201ce46c4",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "2f2b0f4621a0fb9d",
     "title": "Researchers are holding the first-ever 'Fat Marmot Week' to raise awareness for funding cuts. See the contenders",
     "normalizedTitle": "researchers holding first ever fat marmot week raise awareness funding cuts see contenders",
@@ -443,6 +527,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060808/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060810/"
       }
     ]
   },
