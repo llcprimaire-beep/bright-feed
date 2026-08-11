@@ -1,5 +1,19 @@
 [
   {
+    "id": "9b1f49282ecc3479",
+    "title": "Three sports groups using movement to tackle isolation",
+    "normalizedTitle": "three sports groups using movement tackle isolation",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/sport/three-sports-groups-using-movement-to-tackle-isolation/",
+    "publishedAt": "2026-08-11T07:00:24.000Z",
+    "fetchedAt": "2026-08-11T08:55:14.888Z",
+    "excerpt": "These three groups are using sport and movement to create connection, purpose and community The post Three sports groups using movement to tackle isolation appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/Ella-Richardson-Photography2-1-scaled.jpeg",
+    "category": "people",
+    "dedupGroupId": "9b1f49282ecc3479",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "ce6cfd36503a37c5",
     "title": "11 people share the ‘harsh truths’ that helped them become far more emotionally mature",
     "normalizedTitle": "11 people share harsh truths that helped them become far more emotionally mature",
@@ -783,6 +797,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060810/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060811/"
       }
     ]
   },
