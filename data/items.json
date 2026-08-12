@@ -1,5 +1,33 @@
 [
   {
+    "id": "92c8d539c1413a12",
+    "title": "What We’re Reading: New York City’s Summer of Soundwalking",
+    "normalizedTitle": "we re reading york city s summer soundwalking",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-new-york-city-soundwalk-summer/",
+    "publishedAt": "2026-08-12T08:00:05.000Z",
+    "fetchedAt": "2026-08-12T09:10:42.829Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2024/03/NEW-YORK-TIMES-LOGO.png",
+    "category": "planet",
+    "dedupGroupId": "92c8d539c1413a12",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c649cd4c34871b1c",
+    "title": "‘Regret is a major theme of my work’: Matt Haig on finding acceptance",
+    "normalizedTitle": "regret major theme my work matt haig finding acceptance",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/arts/regret-is-a-major-theme-of-my-work-matt-haig/",
+    "publishedAt": "2026-08-12T07:00:48.000Z",
+    "fetchedAt": "2026-08-12T09:10:42.823Z",
+    "excerpt": "At 50 years old and with the release of his new book The Midnight Train, Matt Haig explains why acceptance has descended on him The post ‘Regret is a major theme of my work’: Matt Haig on finding acceptance appeared...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/FL2_0057-1-scaled-e1785939176247.jpg",
+    "category": "people",
+    "dedupGroupId": "c649cd4c34871b1c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "46f7f3f1993a1313",
     "title": "Mom tattoos keyboard on her arm so nonverbal son can always communicate with her",
     "normalizedTitle": "mom tattoos keyboard her arm so nonverbal son can always communicate her",
@@ -1123,6 +1151,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060811/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060812/"
       }
     ]
   },
