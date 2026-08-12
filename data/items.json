@@ -1,5 +1,33 @@
 [
   {
+    "id": "ba0431a5d4a8b385",
+    "title": "Kayak guide interrupts tour in the Florida Keys to paddle out to a sea turtle in distress",
+    "normalizedTitle": "kayak guide interrupts tour florida keys paddle out sea turtle distress",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/kayak-guide-tour-rescue-sea-turtle-loggerhead",
+    "publishedAt": "2026-08-12T11:29:00.000Z",
+    "fetchedAt": "2026-08-12T13:07:18.816Z",
+    "excerpt": "Allison Calhoun was leading a tour in the Florida Keys when she got the call to help “a little guy” in need.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a7c58bdeeaa271f655b309f_6a7c58bcd12dca10e789812d_kayak-guide-tour-rescue-sea-turtle-loggerhead-featured-2.webp",
+    "category": "animals",
+    "dedupGroupId": "ba0431a5d4a8b385",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "14d9dd610bf72ad3",
+    "title": "Fishing Guide Dials 911 for Entangled Manatee, Leading to Rescue While Calf Watches",
+    "normalizedTitle": "fishing guide dials 911 entangled manatee leading rescue while calf watches",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/fishing-guide-helps-save-entangled-manatee-while-calf-watches/",
+    "publishedAt": "2026-08-12T11:00:31.000Z",
+    "fetchedAt": "2026-08-12T13:07:18.810Z",
+    "excerpt": "A manatee is swimming free again thanks to a fishing guide who reported the animal tangled in crab trap lines, and the Georgia and Florida wildlife experts who raced to the scene.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Manatee-with-baby-Credit-U.S.-Fish-and-Wildlife-Service-Southeast-Region-Gaylen-Rathburn-CC-BY-2.jpg",
+    "category": "animals",
+    "dedupGroupId": "14d9dd610bf72ad3",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "92c8d539c1413a12",
     "title": "What We’re Reading: New York City’s Summer of Soundwalking",
     "normalizedTitle": "we re reading york city s summer soundwalking",
@@ -109,6 +137,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/08/ANNIE-TOP-SPLASH-18.jpg?w=1024",
     "category": "people",
     "dedupGroupId": "59a5789f1fc703d2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "76e195ad5272953a",
+    "title": "Europe’s electric flight era could begin within four years",
+    "normalizedTitle": "europe s electric flight era could begin within four years",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/europes-electric-flight-era-could-begin-within-four-years/",
+    "publishedAt": "2026-08-12T00:00:39.000Z",
+    "fetchedAt": "2026-08-12T13:07:18.009Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Electric aircraft startups have been promising a lot for a long time. Two of them are now close enough to matter.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_185514020_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "76e195ad5272953a",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4f57e976acf99d63",
+    "title": "Bullfrog protein could be antidote to shellfish poisoning",
+    "normalizedTitle": "bullfrog protein could be antidote shellfish poisoning",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/bullfrog-protein-could-be-antidote-to-shellfish-poisoning/",
+    "publishedAt": "2026-08-12T00:00:18.000Z",
+    "fetchedAt": "2026-08-12T13:07:18.008Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Paralytic shellfish poisoning, a severe and potentially fatal foodborne illness, has no specific antidote.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_219673100_L-1024x624.jpg",
+    "category": "science",
+    "dedupGroupId": "4f57e976acf99d63",
     "alsoCoveredBy": []
   },
   {
