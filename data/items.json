@@ -1,5 +1,19 @@
 [
   {
+    "id": "4765dc7672d80acb",
+    "title": "Guard Becomes Celebrity Making Mini Statues For Each Event at Virginia Tech As Free Giveaways",
+    "normalizedTitle": "guard becomes celebrity making mini statues each event virginia tech free giveaways",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/guard-becomes-celebrity-making-mini-statues-for-each-event-at-virginia-tech-as-free-giveaways/",
+    "publishedAt": "2026-08-13T11:00:00.000Z",
+    "fetchedAt": "2026-08-13T13:08:26.364Z",
+    "excerpt": "The mini-statue of a warrior rhino was birthed in a guessing game. After graduating from Virginia Tech, Bryan Newton kept cultivating his school spirit and connections to campus by working for Rhino Sports and...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Virginia-Tech-submitted-Art-by-Bryan-Newton.jpg",
+    "category": "people",
+    "dedupGroupId": "4765dc7672d80acb",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "7911a6b5a1ac90e7",
     "title": "These Wetlands Treat the Wastewater of a Megacity",
     "normalizedTitle": "these wetlands treat wastewater megacity",
@@ -25,7 +39,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/08/cropped-Annie_Oakley_circa_1899.jpg",
     "category": "people",
     "dedupGroupId": "75e9dcef1f8a5e1e",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060810/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060811/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060812/"
+      }
+    ]
   },
   {
     "id": "33515d96f05078d0",
@@ -53,6 +80,34 @@
     "imageUrl": "https://media.canva.com/v2/files/uri:ifs%3A%2F%2FM%2F0dmiGPVkyjNDLbtJUdRrWvJsFXyU2mKMmHT9lhRIbu0.jpg?csig=AAAAAAAAAAAAAAAAAAAAADNCdaeegNhPgYyPg8Nj_qbJur9DdQ_uTk050n590Obv&amp;exp=1786590288&amp;signer=media-rpc&amp;token=AAIAAU0ALzBkbWlHUFZreWpORExidEpVZFJyV3ZKc0ZYeVUybUtNbUhUOWxoUklidTAuanBnAAAAAAGf-RRYgOR-bkjAyK25eveG62WkWxFdIkcXJ2H2U35YoVQBn2F1",
     "category": "science",
     "dedupGroupId": "c1d59247cbc21c69",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b9985937abea6cfd",
+    "title": "The physical effects of heavy phone use (aka tech neck) and how to address them",
+    "normalizedTitle": "physical effects heavy phone use aka tech neck address them",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-physical-effects-of-heavy-phone-use-aka-tech-neck-and-how-to-address-them/",
+    "publishedAt": "2026-08-13T00:00:58.000Z",
+    "fetchedAt": "2026-08-13T13:08:25.978Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Cervical spine surgeon K. Daniel Riew at Och Spine at New York-Presbyterian/Weill Cornell Medical Center has started seeing patients in their 20s.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_700206550_L-1024x576.jpg",
+    "category": "science",
+    "dedupGroupId": "b9985937abea6cfd",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b144fd8e61fee227",
+    "title": "Bioengineered gum could expand treatment options for oral cancer patients",
+    "normalizedTitle": "bioengineered gum could expand treatment options oral cancer patients",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/bioengineered-gum-could-expand-treatment-options-for-oral-cancer-patients/",
+    "publishedAt": "2026-08-13T00:00:16.000Z",
+    "fetchedAt": "2026-08-13T13:08:25.976Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM A bioengineered chewing gum cut HPV levels by 93 percent in oral samples from head and neck cancer patients, in new research from the University of Pennsylvania.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_118553184_L-1024x614.jpg",
+    "category": "science",
+    "dedupGroupId": "b144fd8e61fee227",
     "alsoCoveredBy": []
   },
   {
