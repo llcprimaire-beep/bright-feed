@@ -1,5 +1,19 @@
 [
   {
+    "id": "06d3fa5cd1335e23",
+    "title": "More American Dads Are Taking Parental Leave",
+    "normalizedTitle": "more american dads taking parental leave",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/american-dads-parental-leave/",
+    "publishedAt": "2026-08-14T08:00:14.000Z",
+    "fetchedAt": "2026-08-14T09:06:09.563Z",
+    "excerpt": "This story first appeared at The 74, a nonprofit news site covering education. Sign up for free newsletters from The 74 to get more like this in your inbox. A.J.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.51.18-PM.png",
+    "category": "animals",
+    "dedupGroupId": "06d3fa5cd1335e23",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "6fe261e532a89cf5",
     "title": "What went right this week: the good news that matters",
     "normalizedTitle": "went right this week good news that matters",
@@ -359,6 +373,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060812/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060814/"
       }
     ]
   },
