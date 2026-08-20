@@ -1,5 +1,33 @@
 [
   {
+    "id": "1a17a5c0884bb636",
+    "title": "The Spanish Town Doing Capitalism Better",
+    "normalizedTitle": "spanish town doing capitalism better",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/mondragon-cooperatives-spain/",
+    "publishedAt": "2026-08-20T08:00:12.000Z",
+    "fetchedAt": "2026-08-20T08:36:48.596Z",
+    "excerpt": "There are all kinds of enormous, impressive and, frankly, noisy machines at work across the 20,000 square meters of industrial warehouses at the headquarters of Fagor Arrasate, a manufacturing company in Spain’s...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/5R5A9057-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "1a17a5c0884bb636",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "13c498979bd3072c",
+    "title": "The mobile library bringing books to rural Syria",
+    "normalizedTitle": "mobile library bringing books rural syria",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
+    "publishedAt": "2026-08-20T05:00:23.000Z",
+    "fetchedAt": "2026-08-20T08:36:48.590Z",
+    "excerpt": "In Syria, a brightly painted bus is bringing books, puppets and art workshops to children who have grown up with war The post The mobile library bringing books to rural Syria appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/The-childrens-joy-when-the-third-bus-visited-their-camp-north-of-Idlib-1-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "13c498979bd3072c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "78d62fbe482b6fc2",
     "title": "World’s First Motel Hits the Market on California’s Central Coast, Iconic Sign Included",
     "normalizedTitle": "world s first motel hits market california s central coast iconic sign included",
@@ -1105,6 +1133,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060818/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060820/"
       }
     ]
   },
