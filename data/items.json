@@ -1,5 +1,19 @@
 [
   {
+    "id": "989ccfe5b86381fd",
+    "title": "Man Makes 200+ Trips to Remote Villages to Connect Elders with Their Children Working Abroad",
+    "normalizedTitle": "man makes 200 trips remote villages connect elders their children working abroad",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/man-makes-200-trips-to-remote-villages-to-connect-elders-with-their-children-working-abroad/",
+    "publishedAt": "2026-08-21T11:00:48.000Z",
+    "fetchedAt": "2026-08-21T12:44:48.857Z",
+    "excerpt": "It’s estimated that over 110 million Chinese live and work abroad, which for the family members they leave behind can be heart-wrenching and difficult, above all for the elderly.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Tian-Rui-left-and-some-of-the-seniors-he-visits-right-credit-Tian-Rui-via-socials.jpg",
+    "category": "people",
+    "dedupGroupId": "989ccfe5b86381fd",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "455d7d94ee7d87cd",
     "title": "Transforming Britain’s Old Coalfields Into Clean Energy Sources",
     "normalizedTitle": "transforming britain s old coalfields clean energy sources",
@@ -25,7 +39,16 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/08/Usain-Bolt-in-the-final-of-the-100-meters-in-Berlin-2009-Erik-van-Leeuwen-NFDL.jpg",
     "category": "people",
     "dedupGroupId": "7dba4c4d4d856b3d",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060818/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060820/"
+      }
+    ]
   },
   {
     "id": "ff8d13e2d2929a79",
@@ -39,6 +62,34 @@
     "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/iStock-2216119317.jpg",
     "category": "animals",
     "dedupGroupId": "ff8d13e2d2929a79",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c49197f21b38fade",
+    "title": "Maternal RSV vaccine cuts newborn ICU admissions in half",
+    "normalizedTitle": "maternal rsv vaccine cuts newborn icu admissions half",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/maternal-rsv-vaccine-cuts-newborn-icu-admissions-in-half/",
+    "publishedAt": "2026-08-21T00:00:59.000Z",
+    "fetchedAt": "2026-08-21T12:44:48.722Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Good news! In the UK, only 63 infants were admitted to intensive care with RSV infection last winter, which is down from 131 the year before.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_357908776_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "c49197f21b38fade",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "69a1c2f891366112",
+    "title": "How to help an anxious kid through back-to-school season",
+    "normalizedTitle": "help anxious kid through back school season",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/how-to-help-an-anxious-kid-through-back-to-school-season/",
+    "publishedAt": "2026-08-21T00:00:06.000Z",
+    "fetchedAt": "2026-08-21T12:44:48.718Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve ever driven away from school while your kid was still crying at the door, you know the horrible feeling. The half-formed urge to turn the car around.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_80104026_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "69a1c2f891366112",
     "alsoCoveredBy": []
   },
   {
