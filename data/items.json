@@ -1,5 +1,33 @@
 [
   {
+    "id": "54d8054a938d9d7c",
+    "title": "Good News This Week: August 22, 2026 - Tigers, Turtles, & Wheelchairs",
+    "normalizedTitle": "good news this week august 22 2026 tigers turtles wheelchairs",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-august-22-2026",
+    "publishedAt": "2026-08-22T12:00:00.000Z",
+    "fetchedAt": "2026-08-22T12:37:03.773Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a896e51c100846b71ae61be_Good-News-This-Week-August-22-2026.jpg",
+    "category": "animals",
+    "dedupGroupId": "54d8054a938d9d7c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e3a1a9c97593fee1",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-22-2026/",
+    "publishedAt": "2026-08-22T10:00:31.000Z",
+    "fetchedAt": "2026-08-22T12:37:03.767Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "e3a1a9c97593fee1",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "45ade46e54187f45",
     "title": "Producing Spider Silk Is a Biological Feat — Scientists Are Using It to Develop Materials for Drug Delivery and Wound Care",
     "normalizedTitle": "producing spider silk biological feat scientists using develop materials drug delivery wound care",
@@ -369,6 +397,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060820/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060822/"
       }
     ]
   },
