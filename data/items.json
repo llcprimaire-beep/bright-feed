@@ -1,5 +1,19 @@
 [
   {
+    "id": "a797df192fbb6721",
+    "title": "Good-Humored Scientists Create ‘OnlyMarms’ Page to Boost Marmot Conservation and Donations",
+    "normalizedTitle": "good humored scientists create onlymarms page boost marmot conservation donations",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/good-humored-scientists-create-onlymarms-page-to-boost-marmot-conservation-and-donations/",
+    "publishedAt": "2026-08-23T12:00:02.000Z",
+    "fetchedAt": "2026-08-23T12:37:43.768Z",
+    "excerpt": "Desperate times call for desperate measures. With traditional funding sources facing cuts, The Rocky Mountain Biological Laboratory, which has spent the last 65 years studying yellow-bellied marmots, had to get...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/OnlyMarms-and-Daniel-Blumstein-via-UCLA.jpeg",
+    "category": "planet",
+    "dedupGroupId": "a797df192fbb6721",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "3a5d040671406e9e",
     "title": "Buffalo Soldiers Were Once Park Rangers — And Other Fun Facts to Celebrate the NPS’ 110th Anniversary",
     "normalizedTitle": "buffalo soldiers were once park rangers other fun facts celebrate nps 110th anniversary",
@@ -527,6 +541,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060822/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060823/"
       }
     ]
   },
