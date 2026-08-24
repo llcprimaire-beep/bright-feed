@@ -1,5 +1,19 @@
 [
   {
+    "id": "b99ee973872bfb88",
+    "title": "Horizontal Levees Are Spreading Across the Bay Area",
+    "normalizedTitle": "horizontal levees spreading across bay area",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/bay-area-living-levees/",
+    "publishedAt": "2026-08-24T08:00:12.000Z",
+    "fetchedAt": "2026-08-24T08:46:45.873Z",
+    "excerpt": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here. Visitors to the Palo Alto Baylands Nature Preserve, captivated by gliding birds overhead and golden hills across the Bay waters,...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/horizontal-levee-sign.jpg",
+    "category": "animals",
+    "dedupGroupId": "b99ee973872bfb88",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "6a8083f3d0cf00ef",
     "title": "Ethiopian Farmers Save Thousands by Switching to Solar Irrigation–While Cutting Emissions",
     "normalizedTitle": "ethiopian farmers save thousands switching solar irrigation while cutting emissions",
@@ -755,6 +769,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060823/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060824/"
       }
     ]
   },
