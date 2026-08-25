@@ -1,5 +1,19 @@
 [
   {
+    "id": "2934c1b9e7636225",
+    "title": "First Bluefin Tuna Caught in North Sea in 60 Years Is Sign of Healthy Ecosystem",
+    "normalizedTitle": "first bluefin tuna caught north sea 60 years sign healthy ecosystem",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/first-bluefin-tuna-caught-in-north-sea-in-60-years-is-sign-of-healthy-ecosystem/",
+    "publishedAt": "2026-08-25T11:00:57.000Z",
+    "fetchedAt": "2026-08-25T12:45:04.658Z",
+    "excerpt": "Jack Gardner couldn’t believe his eyes when he saw the behemoth hooked on his fishing line.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-Dominator-supplied-to-the-BBC.jpg",
+    "category": "animals",
+    "dedupGroupId": "2934c1b9e7636225",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "d06c1115dd98d8ee",
     "title": "Art attack: five habits to help you get (back) into art",
     "normalizedTitle": "art attack five habits help you get back art",
@@ -25,7 +39,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/08/NPS-logo.jpg",
     "category": "planet",
     "dedupGroupId": "1e4d831940d4b2f1",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060822/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060823/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060824/"
+      }
+    ]
   },
   {
     "id": "e5a891b05d6cf5d4",
@@ -39,6 +66,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/08/Intergenerational-Friends-SPLASH-1200-x-640-px.jpg",
     "category": "people",
     "dedupGroupId": "e5a891b05d6cf5d4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "46d7a074fb535b7e",
+    "title": "The world hit 3 terawatts of solar power faster than anyone predicted",
+    "normalizedTitle": "world hit 3 terawatts solar power faster than anyone predicted",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/the-world-hit-3-terawatts-of-solar-power-faster-than-anyone-predicted/",
+    "publishedAt": "2026-08-25T00:00:53.000Z",
+    "fetchedAt": "2026-08-25T12:45:04.465Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The first terawatt of global solar capacity took nearly 68 years to reach. The second arrived in roughly two years. The third came in 19 months.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_147401451_L-1024x682.jpg",
+    "category": "planet",
+    "dedupGroupId": "46d7a074fb535b7e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b66a6d09d91f023d",
+    "title": "Back-to-school shopping without the meltdown: How to keep trends and budgets in check",
+    "normalizedTitle": "back school shopping without meltdown keep trends budgets check",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/back-to-school-shopping-without-the-meltdown-how-to-keep-trends-and-budgets-in-check/",
+    "publishedAt": "2026-08-25T00:00:25.000Z",
+    "fetchedAt": "2026-08-25T12:45:04.461Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM For parents of tweens and teens, August often brings the same showdown: a wish list brimming with the latest must-have styles and a budget that’s not budging.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/139744891_m-1024x683.jpg",
+    "category": "science",
+    "dedupGroupId": "b66a6d09d91f023d",
     "alsoCoveredBy": []
   },
   {
