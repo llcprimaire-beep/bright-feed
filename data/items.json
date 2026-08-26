@@ -1,5 +1,33 @@
 [
   {
+    "id": "351001a28fdd532e",
+    "title": "What We’re Reading: A Wheelchair Rugged Enough for National Park Trails",
+    "normalizedTitle": "we re reading wheelchair rugged enough national park trails",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-rugged-wheelchairs-national-parks/",
+    "publishedAt": "2026-08-26T08:00:49.000Z",
+    "fetchedAt": "2026-08-26T08:42:08.465Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2024/01/79BA5646-6B08-47A8-9A8E-FE4AA9E5F75D-scaled.jpeg",
+    "category": "planet",
+    "dedupGroupId": "351001a28fdd532e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "abf32e0a15cc8273",
+    "title": "Putting slugs on the map: farmers pioneer precision crop protection",
+    "normalizedTitle": "putting slugs map farmers pioneer precision crop protection",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/putting-slugs-on-the-map-farmers-pioneer-precision-crop-protection/",
+    "publishedAt": "2026-08-26T07:00:05.000Z",
+    "fetchedAt": "2026-08-26T08:42:08.458Z",
+    "excerpt": "A new mapping tool pinpoints where the molluscs are most likely to strike, helping farmers cut pesticide use while protecting precious crops The post Putting slugs on the map: farmers pioneer precision crop protection...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/t-y-zQAUz4MmcZA-unsplash-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "abf32e0a15cc8273",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a40eafe185d0775c",
     "title": "The first Navajo NFL player just gave a locker room speech even rival fans are praising",
     "normalizedTitle": "first navajo nfl player just gave locker room speech even rival fans praising",
@@ -429,6 +457,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060824/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060826/"
       }
     ]
   },
