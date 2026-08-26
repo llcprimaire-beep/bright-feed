@@ -1,5 +1,33 @@
 [
   {
+    "id": "92ebf36136a9ccf7",
+    "title": "A woman walked into a shelter and asked to see their 'least wanted dog.' Then she showed the internet how truly lovable she was",
+    "normalizedTitle": "woman walked shelter asked see their least wanted dog then she showed internet truly lovable she was",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/dog-shelter-tiktok-pitbull-volunteer-before-after",
+    "publishedAt": "2026-08-26T12:30:00.000Z",
+    "fetchedAt": "2026-08-26T12:50:27.994Z",
+    "excerpt": "Pit bulls account for 22% of all shelter dogs. A TikToker showed how truly lovable they are.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a8edba5bdd323fe80a1cd03_6a8edba4328055c0ffa0d7e8_dog-shelter-tiktok-pitbull-volunteer-before-after-featured-2.webp",
+    "category": "animals",
+    "dedupGroupId": "92ebf36136a9ccf7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "57b48e67f3f5bdbc",
+    "title": "India’s Lion Populations Increase 70%, Total Habitat by 15% Over the Last Decade",
+    "normalizedTitle": "india s lion populations increase 70 total habitat 15 last decade",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/indias-lion-populations-increase-70-total-habitat-by-15-over-the-last-decade/",
+    "publishedAt": "2026-08-26T11:00:04.000Z",
+    "fetchedAt": "2026-08-26T12:50:27.989Z",
+    "excerpt": "The Asiatic lion populations living in western India have increased 70% over the last decade, while their rangeland has also increased 15%.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/03/A-family-of-Asiatic-Lions-in-Gir-National-Forest-CC-3.0.-Mayankvagadiya-e1679059557330.jpeg",
+    "category": "animals",
+    "dedupGroupId": "57b48e67f3f5bdbc",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "351001a28fdd532e",
     "title": "What We’re Reading: A Wheelchair Rugged Enough for National Park Trails",
     "normalizedTitle": "we re reading wheelchair rugged enough national park trails",
@@ -53,6 +81,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/08/top-image-1080-x-720-px-1200-x-640-px-2026-08-25T164900.400.jpg",
     "category": "people",
     "dedupGroupId": "dab142a5751def65",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4ecf631440b707aa",
+    "title": "London’s clean-air zone is linked to faster lung growth in children, a new study finds",
+    "normalizedTitle": "london s clean air zone linked faster lung growth children study finds",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/londons-clean-air-zone-is-linked-to-faster-lung-growth-in-children-a-new-study-finds/",
+    "publishedAt": "2026-08-26T00:00:11.000Z",
+    "fetchedAt": "2026-08-26T12:50:27.850Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM For years, researchers knew that air pollution stunts lung development in children.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_576336494_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "4ecf631440b707aa",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1c030c6e9f94d6c4",
+    "title": "In France, peace and quiet is now a legal right by banning unsolicited cold calls",
+    "normalizedTitle": "france peace quiet now legal right banning unsolicited cold calls",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/08/in-france-peace-and-quiet-is-now-a-legal-right-by-banning-unsolicited-cold-calls/",
+    "publishedAt": "2026-08-26T00:00:03.000Z",
+    "fetchedAt": "2026-08-26T12:50:27.847Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Ninety-seven percent of French people find telemarketing calls annoying.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_837407222_L-1024x575.jpg",
+    "category": "science",
+    "dedupGroupId": "1c030c6e9f94d6c4",
     "alsoCoveredBy": []
   },
   {
