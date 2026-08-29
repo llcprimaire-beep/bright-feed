@@ -1,5 +1,47 @@
 [
   {
+    "id": "6f2e3c2b35e2eaef",
+    "title": "Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research",
+    "normalizedTitle": "deep sleep brain waves offer protection against alzheimer s shows research",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/deep-sleep-brain-waves-offer-protection-against-alzheimers-study/",
+    "publishedAt": "2026-08-29T14:00:44.000Z",
+    "fetchedAt": "2026-08-29T16:15:59.210Z",
+    "excerpt": "Poor sleep quality has been linked to cognitive decline, neuro-degeneration and Alzheimer’s disease in seniors—but it may be possible to counteract certain risks.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Brain-waves-occilating-vibrations-by-Ruliff-Andrean-for-Unsplash-UWhkqAioyuA.jpeg",
+    "category": "science",
+    "dedupGroupId": "6f2e3c2b35e2eaef",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4d4d3c5cf87190b9",
+    "title": "Good News This Week: August 29, 2026 - Cookies, Playgrounds, & Seahorses",
+    "normalizedTitle": "good news this week august 29 2026 cookies playgrounds seahorses",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-august-29-2026",
+    "publishedAt": "2026-08-29T12:00:00.000Z",
+    "fetchedAt": "2026-08-29T16:15:59.094Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a9285e081c79909744f4fee_Good-News-This-Week-August-29-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "4d4d3c5cf87190b9",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "35dd0b1fd228954d",
+    "title": "Dogs Provide Security and Comfort at Busy Train Station in ‘British First’",
+    "normalizedTitle": "dogs provide security comfort busy train station british first",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/dogs-provide-security-and-comfort-at-busy-train-station-in-british-first/",
+    "publishedAt": "2026-08-29T11:00:45.000Z",
+    "fetchedAt": "2026-08-29T16:15:59.086Z",
+    "excerpt": "London’s Waterloo station has become the first major train hub in Britain to employ dogs on regular patrols.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Dogs-patrol-train-station-SWNS.jpeg",
+    "category": "animals",
+    "dedupGroupId": "35dd0b1fd228954d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "20fe96d9bcf19b6e",
     "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
     "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
@@ -25,7 +67,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/08/Dr.-Ambedkar-on-a-2015-Indian-postage-stamp-credit-GODL-India.jpg",
     "category": "science",
     "dedupGroupId": "9b9a796d667d04d5",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060826/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060827/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060828/"
+      }
+    ]
   },
   {
     "id": "da3c790266b605b0",
