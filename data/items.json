@@ -1,5 +1,33 @@
 [
   {
+    "id": "20fe96d9bcf19b6e",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-29-2026/",
+    "publishedAt": "2026-08-29T10:00:15.000Z",
+    "fetchedAt": "2026-08-29T10:50:08.696Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "20fe96d9bcf19b6e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9b9a796d667d04d5",
+    "title": "Good News in History, August 29",
+    "normalizedTitle": "good news history august 29",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events060829/",
+    "publishedAt": "2026-08-29T07:00:00.000Z",
+    "fetchedAt": "2026-08-29T10:50:08.614Z",
+    "excerpt": "On this day, 79 years ago, Dr. Bhimrao R. Ambedkar was appointed to chair the Indian constitutional drafting committee.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/08/Dr.-Ambedkar-on-a-2015-Indian-postage-stamp-credit-GODL-India.jpg",
+    "category": "science",
+    "dedupGroupId": "9b9a796d667d04d5",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "da3c790266b605b0",
     "title": "Taxi Drivers Rarely Die of Alzheimer’s — How Complex Mental Maps and Spatial Reasoning Protect Your Brain",
     "normalizedTitle": "taxi drivers rarely die alzheimer s complex mental maps spatial reasoning protect your brain",
