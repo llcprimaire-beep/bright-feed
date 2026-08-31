@@ -1,5 +1,33 @@
 [
   {
+    "id": "0b4d63f5bf846336",
+    "title": "The unlikely rise of the sea shanty band",
+    "normalizedTitle": "unlikely rise sea shanty band",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/the-unlikely-rise-of-the-sea-shanty-band/",
+    "publishedAt": "2026-08-31T09:47:10.000Z",
+    "fetchedAt": "2026-08-31T10:37:21.153Z",
+    "excerpt": "Sea shanties became an online craze, but these old working songs are doing more than filling dancefloors: they're connecting communities too The post The unlikely rise of the sea shanty band appeared first on Positive...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/08/A7R00162-1.jpg",
+    "category": "people",
+    "dedupGroupId": "0b4d63f5bf846336",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fdd9a202cff4d8ed",
+    "title": "One Way to Keep Childcare Affordable? Give Staff Free Housing",
+    "normalizedTitle": "one way keep childcare affordable give staff free housing",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/affordable-childcare-free-staff-housing/",
+    "publishedAt": "2026-08-31T08:00:42.000Z",
+    "fetchedAt": "2026-08-31T10:37:20.711Z",
+    "excerpt": "This article was originally published by Shelterforce, an independent newsroom reporting on affordable housing.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Friends-Center-for-Children_Teacher-Housing-Village_4-2800x1867-1-scaled.jpg",
+    "category": "animals",
+    "dedupGroupId": "fdd9a202cff4d8ed",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "7c2d071f4effb5b9",
     "title": "What counts as real music? Australia’s charts just drew a line.",
     "normalizedTitle": "counts real music australia s charts just drew line",
@@ -209,6 +237,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060830/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060831/"
       }
     ]
   },
