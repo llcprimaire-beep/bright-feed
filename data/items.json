@@ -1,5 +1,61 @@
 [
   {
+    "id": "d4a3dd4a361e3cf4",
+    "title": "What We’re Reading: In Baltimore, 911 Now Has More Ways to Help",
+    "normalizedTitle": "we re reading baltimore 911 now has more ways help",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-baltimore-911-crisis-support/",
+    "publishedAt": "2026-09-02T08:00:52.000Z",
+    "fetchedAt": "2026-09-02T08:25:56.492Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/images-1.jpeg",
+    "category": "planet",
+    "dedupGroupId": "d4a3dd4a361e3cf4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3fcde7328870197b",
+    "title": "What Brazil’s supercentenarians can teach us about living to 120",
+    "normalizedTitle": "brazil s supercentenarians can teach us about living 120",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/what-brazils-supercentenarians-can-teach-us-about-living-to-120/",
+    "publishedAt": "2026-09-02T07:00:56.000Z",
+    "fetchedAt": "2026-09-02T08:25:56.488Z",
+    "excerpt": "While tech-moguls pour billions into trying to live longer, the answer might well be in the simple life The post What Brazil’s supercentenarians can teach us about living to 120 appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/sol-cotti-x-Positive-News-Brazils-supercentenarians-copy-1-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "3fcde7328870197b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "195f9dea5e1cb085",
+    "title": "Climate attribution science just changed the rules for fossil fuel lawsuits",
+    "normalizedTitle": "climate attribution science just changed rules fossil fuel lawsuits",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/climate-attribution-science-just-changed-the-rules-for-fossil-fuel-lawsuits/",
+    "publishedAt": "2026-09-02T00:00:51.000Z",
+    "fetchedAt": "2026-09-02T08:25:55.961Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Scientists can now draw a straight line from a single oil company’s emissions to a specific disaster.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_457859896_L-1024x575.jpg",
+    "category": "planet",
+    "dedupGroupId": "195f9dea5e1cb085",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d6aaed4fcfebe5f6",
+    "title": "8 clever ways to reuse spice jars around the house",
+    "normalizedTitle": "8 clever ways reuse spice jars around house",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/8-clever-ways-to-reuse-spice-jars-around-the-house/",
+    "publishedAt": "2026-09-02T00:00:21.000Z",
+    "fetchedAt": "2026-09-02T08:25:55.960Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most spice jars get rinsed and recycled. A few get left on the counter until someone throws them away.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_521547792_L-1024x682.jpg",
+    "category": "animals",
+    "dedupGroupId": "d6aaed4fcfebe5f6",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "bd02f809d832ea34",
     "title": "Harvard psychiatrist reveals ‘the fastest way to change your life’ using just one Post-it note",
     "normalizedTitle": "harvard psychiatrist fastest way change your life using just one post note",
@@ -291,7 +347,12 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/Isle-of-Graia-public-domain.jpg",
     "category": "people",
     "dedupGroupId": "b68a74833d95c767",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060902/"
+      }
+    ]
   },
   {
     "id": "6edad8590997dec1",
