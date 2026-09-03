@@ -1,5 +1,33 @@
 [
   {
+    "id": "5b76fa92e36156ea",
+    "title": "Richard E. Grant fronts Second Hand September as Britons try to buy fewer clothes",
+    "normalizedTitle": "richard e grant fronts second hand september britons try buy fewer clothes",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
+    "publishedAt": "2026-09-03T08:02:45.000Z",
+    "fetchedAt": "2026-09-03T08:34:36.485Z",
+    "excerpt": "The actor is helping launch Oxfam’s annual secondhand fashion campaign, as research finds 57% of UK adults tried to buy less clothing in the past year The post Richard E.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/Oxfam-InuruID-397147-United-Kingdom-Of-Great-Britain-And-Northern-Ireland-2026-07-07-1-e1788354377499.jpg",
+    "category": "people",
+    "dedupGroupId": "5b76fa92e36156ea",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1f8f2247a3eaa9cb",
+    "title": "Former Poachers Are Protecting One of Nigeria’s Last Rainforests",
+    "normalizedTitle": "former poachers protecting one nigeria s last rainforests",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/former-poachers-protecting-forest-nigeria/",
+    "publishedAt": "2026-09-03T08:00:52.000Z",
+    "fetchedAt": "2026-09-03T08:34:36.054Z",
+    "excerpt": "Sunday Abiodun can often tell an animal is nearby before he sees it — from a broken twig or the way birds suddenly stop singing.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Image-1-1-scaled.jpg",
+    "category": "animals",
+    "dedupGroupId": "1f8f2247a3eaa9cb",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "7f4735017c508b36",
     "title": "Scientists measured campfire light and discovered its incredible role in shaping human language",
     "normalizedTitle": "scientists measured campfire light discovered incredible role shaping human language",
@@ -673,6 +701,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060902/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060903/"
       }
     ]
   },
