@@ -1,5 +1,61 @@
 [
   {
+    "id": "830b0342af9c5d8a",
+    "title": "The ‘Secular Buddhist’ shares 2 practices to soothe everyday anxiety and aggravation",
+    "normalizedTitle": "secular buddhist shares 2 practices soothe everyday anxiety aggravation",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/the-secular-buddhist-shares-2-practices-to-soothe-everyday-anxiety-and-aggravation/",
+    "publishedAt": "2026-09-05T17:07:51.000Z",
+    "fetchedAt": "2026-09-05T17:56:08.515Z",
+    "excerpt": "In an Upworthy exclusive, popular podcaster Noah Rasheta explains how he finds peace in a stressful world.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/noah-racheta-retreat.jpg?w=1024",
+    "category": "people",
+    "dedupGroupId": "830b0342af9c5d8a",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4257ef12744bd6b5",
+    "title": "A carjacker stole an SUV with two kids inside. He didn’t count on the 8-year-old girl in the backseat.",
+    "normalizedTitle": "carjacker stole suv two kids inside he didn t count 8 year old girl backseat",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-8-year-old-girl-saves-toddler-sister-during-wisconsin-carjacking/",
+    "publishedAt": "2026-09-05T17:07:37.000Z",
+    "fetchedAt": "2026-09-05T17:56:08.514Z",
+    "excerpt": "A dad turned his back for exactly two seconds at a local car wash. The post A carjacker stole an SUV with two kids inside. He didn’t count on the 8-year-old girl in the backseat. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/view-from-backseat.jpg?w=1024",
+    "category": "people",
+    "dedupGroupId": "4257ef12744bd6b5",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "af676abbd3b0c857",
+    "title": "62 potential nicknames for grandparents, including some delightful kid-invented ones",
+    "normalizedTitle": "62 potential nicknames grandparents including some delightful kid invented ones",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/62-potential-nicknames-for-grandparents-including-some-delightful-kid-invented-ones/",
+    "publishedAt": "2026-09-05T17:07:23.000Z",
+    "fetchedAt": "2026-09-05T17:56:08.507Z",
+    "excerpt": "When you become a grandparent, you step into a new identity. The post 62 potential nicknames for grandparents, including some delightful kid-invented ones appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/grandparents-walking-with-toddler.jpg?w=1024",
+    "category": "people",
+    "dedupGroupId": "af676abbd3b0c857",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "7ccee3c8675e80c6",
+    "title": "Shifting ‘believe women’ from default response to dogmatic rule actually dehumanizes women",
+    "normalizedTitle": "shifting believe women from default response dogmatic rule actually dehumanizes women",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/shifting-believe-women-from-default-response-to-dogmatic-rule-actually-dehumanizes-women/",
+    "publishedAt": "2026-09-05T17:07:10.000Z",
+    "fetchedAt": "2026-09-05T17:56:08.502Z",
+    "excerpt": "A good idea taken too far harms more than it helps. The post Shifting ‘believe women’ from default response to dogmatic rule actually dehumanizes women appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/woman-wearing-angel-wings.jpg",
+    "category": "animals",
+    "dedupGroupId": "7ccee3c8675e80c6",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "579355fd23639578",
     "title": "Good News This Week: September 5, 2026 - Bears, Bakeries, & Turtle Women",
     "normalizedTitle": "good news this week september 5 2026 bears bakeries turtle women",
@@ -39,7 +95,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/The-First-Continental-Congress-mural-in-the-Capitol-building.jpg",
     "category": "people",
     "dedupGroupId": "07dfd2ac7823e644",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060902/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060903/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060904/"
+      }
+    ]
   },
   {
     "id": "ba0fc91380dcd033",
