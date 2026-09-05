@@ -1,5 +1,47 @@
 [
   {
+    "id": "579355fd23639578",
+    "title": "Good News This Week: September 5, 2026 - Bears, Bakeries, & Turtle Women",
+    "normalizedTitle": "good news this week september 5 2026 bears bakeries turtle women",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-september-5-2026",
+    "publishedAt": "2026-09-05T12:00:00.000Z",
+    "fetchedAt": "2026-09-05T14:40:01.247Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a9b9d36d2ace79a21c6647c_Good-News-This-Week-Sep-5-2026.jpg",
+    "category": "animals",
+    "dedupGroupId": "579355fd23639578",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "063aedea520a62cc",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-5-2026/",
+    "publishedAt": "2026-09-05T10:00:52.000Z",
+    "fetchedAt": "2026-09-05T14:40:01.246Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "063aedea520a62cc",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "07dfd2ac7823e644",
+    "title": "Good News in History, September 5",
+    "normalizedTitle": "good news history september 5",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events060905/",
+    "publishedAt": "2026-09-05T07:00:00.000Z",
+    "fetchedAt": "2026-09-05T14:40:01.108Z",
+    "excerpt": "252 years ago today, the First Continental Congress was organized in Carpenter’s Hall, Philadelphia, after the British Navy implemented a blockade of Boston Harbor and the Parliament of Great Britain passed the punitive...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/The-First-Continental-Congress-mural-in-the-Capitol-building.jpg",
+    "category": "people",
+    "dedupGroupId": "07dfd2ac7823e644",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "ba0fc91380dcd033",
     "title": "How to Do Your Own Online Health Research Like a Scientist: A Biostatistician’s Step‑by‑Step Guide",
     "normalizedTitle": "do your own online health research like scientist biostatistician s step step guide",
