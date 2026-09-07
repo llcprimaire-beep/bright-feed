@@ -1,5 +1,19 @@
 [
   {
+    "id": "353cc9064dab3ccc",
+    "title": "Beavers Are Having a Moment",
+    "normalizedTitle": "beavers having moment",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/beavers-big-moment/",
+    "publishedAt": "2026-09-07T08:00:15.000Z",
+    "fetchedAt": "2026-09-07T08:57:52.069Z",
+    "excerpt": "Over the last 20 years, Oregon’s wilderness has suffered big time. Salmon have disappeared, wildfires have scoured the hills and drought has parched once-fertile soils.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Beaver-lodge-in-Sunriver-Oregon-djhumboldt-iNaturalist.jpg",
+    "category": "planet",
+    "dedupGroupId": "353cc9064dab3ccc",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "67d17ca03ad11584",
     "title": "Teen Discovers Coconut Fungi Can Filter Plastic and Sunscreen From Sea—And Wins Science Fair",
     "normalizedTitle": "teen discovers coconut fungi can filter plastic sunscreen from sea wins science fair",
@@ -279,6 +293,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060906/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060907/"
       }
     ]
   },
