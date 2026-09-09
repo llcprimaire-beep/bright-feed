@@ -1,5 +1,75 @@
 [
   {
+    "id": "c923666d98e194e4",
+    "title": "Arthritis Drug Demonstrates Substantial Hair Regrowth in 1,400 Alopecia Patients",
+    "normalizedTitle": "arthritis drug demonstrates substantial hair regrowth 1 400 alopecia patients",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/arthritis-drug-demonstrates-substantial-hair-regrowth-in-1400-alopecia-patients/",
+    "publishedAt": "2026-09-09T15:30:43.000Z",
+    "fetchedAt": "2026-09-09T15:59:24.168Z",
+    "excerpt": "An arthritis drug of all things was recently found in a study to restore up to 100% of hair in patients with severe alopecia.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Getty-Images-for-Unsplash.jpg",
+    "category": "science",
+    "dedupGroupId": "c923666d98e194e4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f7555f990837f6f7",
+    "title": "Beaver dams store millions of gallons of water. Could the rodents help prevent droughts?",
+    "normalizedTitle": "beaver dams store millions gallons water could rodents help prevent droughts",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/beaver-dams-drought-prevention-uk",
+    "publishedAt": "2026-09-09T14:15:00.000Z",
+    "fetchedAt": "2026-09-09T15:59:24.080Z",
+    "excerpt": "Water backs up behind beaver dams, spills across the valley bottom, and soaks into the surrounding soil.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aa075dd5015d5f2fa7e6648_6aa075da70b23462a05212dc_beaver-dams-drought-prevention-uk-featured.webp",
+    "category": "people",
+    "dedupGroupId": "f7555f990837f6f7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fd3c0cb403602118",
+    "title": "Scientists Recreated Chirps of Jurassic Insects, Simulating a 165 Million-yo Soundscape (Listen)",
+    "normalizedTitle": "scientists recreated chirps jurassic insects simulating 165 million yo soundscape listen",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/scientists-recreated-chirps-of-jurassic-insects-simulating-a-165-million-yo-soundscape-listen/",
+    "publishedAt": "2026-09-09T13:00:54.000Z",
+    "fetchedAt": "2026-09-09T15:59:24.079Z",
+    "excerpt": "It wasn’t just the roars of the dinosaurs that made up the soundscape of the animal world during the Jurassic period.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Jun-Jie-Gu-et-al.-PNAS-2026.jpg",
+    "category": "animals",
+    "dedupGroupId": "fd3c0cb403602118",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b250d4c8fd3fdd57",
+    "title": "Yard Work Reveals Largest Trove of Viking Silver Ever Discovered in Denmark",
+    "normalizedTitle": "yard work largest trove viking silver ever discovered denmark",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/yard-work-reveals-largest-trove-of-viking-silver-ever-discovered-in-denmark/",
+    "publishedAt": "2026-09-09T11:30:06.000Z",
+    "fetchedAt": "2026-09-09T15:59:23.991Z",
+    "excerpt": "When a man in Denmark broke ground in his backyard on home improvement work, it was a new terrace that he was looking forward to seeing at the end of the sweaty job.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-hoard-found-in-Rebild-credit-Noth-Jutland-Museums-released-e1788940442233.jpg",
+    "category": "people",
+    "dedupGroupId": "b250d4c8fd3fdd57",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "745f8c390cc9a60a",
+    "title": "The right to play: displaced by conflict",
+    "normalizedTitle": "right play displaced conflict",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/peace/the-right-to-play-displaced-by-conflict/",
+    "publishedAt": "2026-09-09T10:16:53.000Z",
+    "fetchedAt": "2026-09-09T15:59:23.786Z",
+    "excerpt": "With nearly 50 million children displaced by conflict, charities are finding ways to give young people something often lost in war: the chance to play The post The right to play: displaced by conflict appeared first on...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/08/Lebanon-3-Credit-Ralph-Azar.jpg.jpg",
+    "category": "people",
+    "dedupGroupId": "745f8c390cc9a60a",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "a161b26614dfcaf5",
     "title": "What We’re Reading: What If You Could Opt Out of Algorithms?",
     "normalizedTitle": "we re reading if you could opt out algorithms",
@@ -25,7 +95,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Thomas-Cavendish-and-Vasco-Da-Gama-Sailko-3.0.-CC.jpg",
     "category": "planet",
     "dedupGroupId": "27310097b8ad3d83",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060906/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060907/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060908/"
+      }
+    ]
   },
   {
     "id": "179fb052d8185c23",
@@ -53,6 +136,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/seal-on-beach.png",
     "category": "animals",
     "dedupGroupId": "c983b4792d1e2f27",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c084350ec9bf3c17",
+    "title": "A simpler path to treating degenerative blindness: photoswitchable eye drops",
+    "normalizedTitle": "simpler path treating degenerative blindness photoswitchable eye drops",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/a-simpler-path-to-treating-degenerative-blindness-photoswitchable-eye-drops/",
+    "publishedAt": "2026-09-09T00:00:30.000Z",
+    "fetchedAt": "2026-09-09T15:59:23.100Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Scientists at the Institute for Bioengineering of Catalonia developed light-activated compounds that restored light perception and visually guided behavior in blind animal models,...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_367466930_L-1024x682.jpg",
+    "category": "animals",
+    "dedupGroupId": "c084350ec9bf3c17",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "03118bc0726be48c",
+    "title": "Beyond the thrift store: where your donations do more good",
+    "normalizedTitle": "beyond thrift store where your donations do more good",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/beyond-the-thrift-store-where-your-donations-do-more-good/",
+    "publishedAt": "2026-09-09T00:00:28.000Z",
+    "fetchedAt": "2026-09-09T15:59:23.097Z",
+    "excerpt": "THE OPTIMIST DAILY EDITORIAL TEAM When you’re decluttering, the thrift store is the obvious first move. Drop it off, and it’s done.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_661658024_L-1024x684.jpg",
+    "category": "science",
+    "dedupGroupId": "03118bc0726be48c",
     "alsoCoveredBy": []
   },
   {
