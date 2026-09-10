@@ -1,5 +1,61 @@
 [
   {
+    "id": "28527d44c3723181",
+    "title": "The ‘National Park’ That Stretches From Coast to Coast",
+    "normalizedTitle": "national park that stretches from coast coast",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-national-park-that-stretches-from-coast-to-coast/",
+    "publishedAt": "2026-09-10T08:00:08.000Z",
+    "fetchedAt": "2026-09-10T08:40:43.292Z",
+    "excerpt": "On Doug Tallamy’s 10-acre property in rural Pennsylvania, the evidence arrives on wings. Wood thrushes now nest in shrubs that were once cut for hay.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/J-Paddock_Lake-Oconee_GA_1759805474-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "28527d44c3723181",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ccffcd4e71b5e7f7",
+    "title": "Celebrating 10 years of the Nikon Comedy Wildlife Photography Awards",
+    "normalizedTitle": "celebrating 10 years nikon comedy wildlife photography awards",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/celebrating-10-years-of-the-nikon-comedy-wildlife-photography-awards/",
+    "publishedAt": "2026-09-10T07:00:49.000Z",
+    "fetchedAt": "2026-09-10T08:40:43.287Z",
+    "excerpt": "Ten years of Comedy Wildlife Photography is brought to life in a new immersive experience in London this autumn The post Celebrating 10 years of the Nikon Comedy Wildlife Photography Awards appeared first on Positive...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/Frameless-Nikon-Comedy-Wildlife-Awards-©-David-Parry-_-Frameless.jpg",
+    "category": "animals",
+    "dedupGroupId": "ccffcd4e71b5e7f7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "33c544f038677e8c",
+    "title": "New heart attack guidelines correct decades of under-diagnosis in women",
+    "normalizedTitle": "heart attack guidelines correct decades under diagnosis women",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/new-heart-attack-guidelines-correct-decades-of-under-diagnosis-in-women/",
+    "publishedAt": "2026-09-10T00:00:20.000Z",
+    "fetchedAt": "2026-09-10T08:40:42.604Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The world’s four leading cardiovascular health organizations just agreed on a universal heart attack definition for the first time.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_212439798_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "33c544f038677e8c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "068e32952edde028",
+    "title": "NYC schools issue the country’s broadest AI ban, covering pre-K through eighth grade",
+    "normalizedTitle": "nyc schools issue country s broadest ai ban covering pre k through eighth grade",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/nyc-schools-issue-the-countrys-broadest-ai-ban-covering-pre-k-through-eighth-grade/",
+    "publishedAt": "2026-09-10T00:00:05.000Z",
+    "fetchedAt": "2026-09-10T08:40:42.602Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM New York City Public Schools, the nation’s largest school district, is banning generative AI for all students in pre-kindergarten through eighth grade for the 2026-2027 school year.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_9245831_L-1024x527.jpg",
+    "category": "science",
+    "dedupGroupId": "068e32952edde028",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c2761ed4706ac957",
     "title": "This major American company started in 1925. It hasn’t laid off a single employee since.",
     "normalizedTitle": "this major american company started 1925 hasn t laid off single employee since",
@@ -359,6 +415,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060908/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060910/"
       }
     ]
   },
