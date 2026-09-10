@@ -1,5 +1,47 @@
 [
   {
+    "id": "c2761ed4706ac957",
+    "title": "This major American company started in 1925. It hasn’t laid off a single employee since.",
+    "normalizedTitle": "this major american company started 1925 hasn t laid off single employee since",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/this-major-american-company-started-in-1925-it-hasnt-laid-off-a-single-employee-since/",
+    "publishedAt": "2026-09-09T23:51:25.000Z",
+    "fetchedAt": "2026-09-10T03:17:59.679Z",
+    "excerpt": "Torani retained all its employees, even through the Great Depression. The post This major American company started in 1925. It hasn’t laid off a single employee since. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/torani-company-flavored-syrup-no-layoffs.jpg",
+    "category": "people",
+    "dedupGroupId": "c2761ed4706ac957",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "abaaab33da1d6441",
+    "title": "Study finds Taylor Swift’s ‘Midnights’ and nine other albums are linked to a 15% rise in car wrecks",
+    "normalizedTitle": "study finds taylor swift s midnights nine other albums linked 15 rise car wrecks",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/study-finds-taylor-swifts-midnights-and-nine-other-albums-are-linked-to-a-15-rise-in-car-wrecks/",
+    "publishedAt": "2026-09-09T23:51:22.000Z",
+    "fetchedAt": "2026-09-10T03:17:59.629Z",
+    "excerpt": "Buckle up for a potentially life-saving new rule of the road. The post Study finds Taylor Swift’s ‘Midnights’ and nine other albums are linked to a 15% rise in car wrecks appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/Taylor-Swift-new-music-friday-car-accidents-SPLASH.jpg",
+    "category": "science",
+    "dedupGroupId": "abaaab33da1d6441",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a6e28a9fb729c00b",
+    "title": "A free climber was stranded 250 feet up a mountain. His 911 call reveals his one true fear.",
+    "normalizedTitle": "free climber was stranded 250 feet up mountain his 911 call his one true fear",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-free-climber-stranded-mount-yonah-911-call-dad/",
+    "publishedAt": "2026-09-09T23:51:16.000Z",
+    "fetchedAt": "2026-09-10T03:17:59.566Z",
+    "excerpt": "When he finally called 911, his biggest fear was making the evening news. The post A free climber was stranded 250 feet up a mountain. His 911 call reveals his one true fear. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/solo-climber-stranded.png",
+    "category": "people",
+    "dedupGroupId": "a6e28a9fb729c00b",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e8ff3ee3586daa49",
     "title": "Blackbirds Have the Prettiest Birdsong, New Study Finds",
     "normalizedTitle": "blackbirds have prettiest birdsong study finds",
