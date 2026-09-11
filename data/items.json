@@ -1,5 +1,61 @@
 [
   {
+    "id": "4468c7b2a74efc21",
+    "title": "‘We Held Each Other Up’",
+    "normalizedTitle": "we held each other up",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/we-held-each-other-up/",
+    "publishedAt": "2026-09-11T08:00:33.000Z",
+    "fetchedAt": "2026-09-11T08:37:10.067Z",
+    "excerpt": "This week in our New York City office, we found ourselves talking about what we remembered from 25 years ago: the darkness, the sadness — and the ways people cared for one another.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/IMG_2843.jpeg",
+    "category": "planet",
+    "dedupGroupId": "4468c7b2a74efc21",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "7b830dd855fc76f6",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
+    "publishedAt": "2026-09-11T05:50:39.000Z",
+    "fetchedAt": "2026-09-11T08:37:10.062Z",
+    "excerpt": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: the good news that matters appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
+    "category": "people",
+    "dedupGroupId": "7b830dd855fc76f6",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "77430ecb6f08c24c",
+    "title": "Heart failure and valve disease spotted in seconds by new AI ECG tool",
+    "normalizedTitle": "heart failure valve disease spotted seconds ai ecg tool",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/heart-failure-and-valve-disease-spotted-in-seconds-by-new-ai-ecg-tool/",
+    "publishedAt": "2026-09-11T00:00:31.000Z",
+    "fetchedAt": "2026-09-11T08:37:09.338Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM In a trial of 67,000 patients, an AI tool identified heart failure in up to 81 percent of cases and heart valve disease in up to 90 percent, all from a standard electrocardiogram...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_13219512_S.jpg",
+    "category": "science",
+    "dedupGroupId": "77430ecb6f08c24c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f9cef80e1e695ec1",
+    "title": "How offshore wind foundations became accidental reef habitat",
+    "normalizedTitle": "offshore wind foundations became accidental reef habitat",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/how-offshore-wind-foundations-became-accidental-reef-habitat/",
+    "publishedAt": "2026-09-11T00:00:01.000Z",
+    "fetchedAt": "2026-09-11T08:37:09.337Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM When engineers drove 54 steel cylinders into the sandy seafloor southeast of Long Island to anchor Empire Wind 1’s turbines, the goal was simple: keep 810 megawatts of generating...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_254099214_S.jpg",
+    "category": "science",
+    "dedupGroupId": "f9cef80e1e695ec1",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "29b9a32d1179413f",
     "title": "George Lucas’ Spaceship-Shaped Storytelling Museum Opens in Los Angeles: Take a Peek Inside",
     "normalizedTitle": "george lucas spaceship shaped storytelling museum opens los angeles take peek inside",
@@ -713,6 +769,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060910/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060911/"
       }
     ]
   },
