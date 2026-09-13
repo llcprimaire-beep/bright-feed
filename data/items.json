@@ -1,5 +1,89 @@
 [
   {
+    "id": "06e65a26673872d3",
+    "title": "Indigenous community trades shark-fishing for conservation in Colombia: 'From hunter to protector'",
+    "normalizedTitle": "indigenous community trades shark fishing conservation colombia from hunter protector",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/indigenous-fishers-shark-hunting-conservation",
+    "publishedAt": "2026-09-13T20:05:00.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.156Z",
+    "excerpt": "While Indigenous communities still see shark as a valuable source of protein, their fishing methods have changed drastically.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6a96f874c111d9db9f62c13a_6a96f87476439e9011db2402_indigenous-fishers-shark-hunting-conservation-featured.webp",
+    "category": "planet",
+    "dedupGroupId": "06e65a26673872d3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e97dd9f3b717f46a",
+    "title": "Happiness researcher reveals the ‘enduring’ secret to being happy in the second half of life",
+    "normalizedTitle": "happiness researcher enduring secret being happy second half life",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/happiness-researcher-reveals-enduring-secret-to-being-happy-in-second-half-of-life-ex1/",
+    "publishedAt": "2026-09-13T19:10:17.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.155Z",
+    "excerpt": "Don't worry. Be happy. The post Happiness researcher reveals the ‘enduring’ secret to being happy in the second half of life appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/02/origin-29.jpg",
+    "category": "people",
+    "dedupGroupId": "e97dd9f3b717f46a",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c0b35ea692153680",
+    "title": "Stanford researchers find a single question could be the key to changing someone’s mind",
+    "normalizedTitle": "stanford researchers find single question could be key changing someone s mind",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/stanford-research-shows-single-question-could-be-key-to-changing-someones-mind-ex1/",
+    "publishedAt": "2026-09-13T19:09:37.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.146Z",
+    "excerpt": "Curiosity goes a lot further than we might think. The post Stanford researchers find a single question could be the key to changing someone’s mind appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/02/origin_bc26e7.jpg?w=1200&#038;quality=80",
+    "category": "science",
+    "dedupGroupId": "c0b35ea692153680",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "284d357b074bfe7c",
+    "title": "1 in 10 people have such unusual personality trait combinations that researchers call them ‘mutants’",
+    "normalizedTitle": "1 10 people have such unusual personality trait combinations that researchers call them mutants",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/1-in-10-people-have-such-unusual-personality-trait-combinations-that-researchers-call-them-mutants-ex1/",
+    "publishedAt": "2026-09-13T19:08:55.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.145Z",
+    "excerpt": "These major outliers break all the standard models. The post 1 in 10 people have such unusual personality trait combinations that researchers call them ‘mutants’ appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/Double-exposure-portrait-of-a-woman.png?w=1024",
+    "category": "science",
+    "dedupGroupId": "284d357b074bfe7c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d1b49e2f90c3ebb3",
+    "title": "Michael J. Fox saw Harrison Ford’s Parkinson’s acting on ‘Shrinking,’ and immediately reached out",
+    "normalizedTitle": "michael j fox saw harrison ford s parkinson s acting shrinking immediately reached out",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/michael-j-fox-saw-shrinking-harrison-ford-ex1/",
+    "publishedAt": "2026-09-13T19:07:46.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.144Z",
+    "excerpt": "Their conversation resulted in a powerful performance from Fox. The post Michael J. Fox saw Harrison Ford’s Parkinson’s acting on ‘Shrinking,’ and immediately reached out appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/02/origin_91b8e5.jpg",
+    "category": "people",
+    "dedupGroupId": "d1b49e2f90c3ebb3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "14fd25b0884c7aad",
+    "title": "Happiness researcher explains how making a ‘reverse bucket list’ can change your life",
+    "normalizedTitle": "happiness researcher explains making reverse bucket list can change your life",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/arthur-brooks-explains-reverse-bucket-list-ex1/",
+    "publishedAt": "2026-09-13T19:06:49.000Z",
+    "fetchedAt": "2026-09-13T22:08:54.126Z",
+    "excerpt": "Take life by the bucket. The post Happiness researcher explains how making a ‘reverse bucket list’ can change your life appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/02/origin-31.jpg",
+    "category": "people",
+    "dedupGroupId": "14fd25b0884c7aad",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "8c5856352c2d9d5f",
     "title": "She ‘Asked for a Sign’ and Suddenly a Kingfisher Darts Up and Sits in Her Hand for 10 Minutes",
     "normalizedTitle": "she asked sign suddenly kingfisher darts up sits her hand 10 minutes",
@@ -123,7 +207,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Jean-Smart-in-Hacks-by-HBO-fairuse.jpg",
     "category": "people",
     "dedupGroupId": "d409d662f33df943",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060910/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060911/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060912/"
+      }
+    ]
   },
   {
     "id": "79701840c31e08a6",
