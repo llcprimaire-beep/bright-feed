@@ -1,5 +1,19 @@
 [
   {
+    "id": "8c5856352c2d9d5f",
+    "title": "She ‘Asked for a Sign’ and Suddenly a Kingfisher Darts Up and Sits in Her Hand for 10 Minutes",
+    "normalizedTitle": "she asked sign suddenly kingfisher darts up sits her hand 10 minutes",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand/",
+    "publishedAt": "2026-09-13T18:26:53.000Z",
+    "fetchedAt": "2026-09-13T18:33:36.836Z",
+    "excerpt": "A woman in England had just “asked for a sign” when a kingfisher streaked in, and even landed on her hand—staying there for ten minutes.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Euro-kingfisher-bird-in-hand-SWNS-cropped.jpeg",
+    "category": "people",
+    "dedupGroupId": "8c5856352c2d9d5f",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "79169cef6bd5f586",
     "title": "Researchers Use Math to Ensure a Wordle Win 99% of the Time",
     "normalizedTitle": "researchers use math ensure wordle win 99 time",
@@ -95,6 +109,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/elephant-experiment-Hope-et-al-2026-PLOS-One-via-SWNS.jpeg",
     "category": "animals",
     "dedupGroupId": "f07c2271f3ec223d",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d409d662f33df943",
+    "title": "Good News in History September 13",
+    "normalizedTitle": "good news history september 13",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events060913/",
+    "publishedAt": "2026-09-13T07:00:00.000Z",
+    "fetchedAt": "2026-09-13T18:33:36.740Z",
+    "excerpt": "Happy 75th Birthday to actor-comedian Jean Smart, the brilliant TV star and winner of 7 Emmys, 3 Golden Globes and many other awards for her lovable characters in Designing Women, Frasier, and Hacks.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Jean-Smart-in-Hacks-by-HBO-fairuse.jpg",
+    "category": "people",
+    "dedupGroupId": "d409d662f33df943",
     "alsoCoveredBy": []
   },
   {
