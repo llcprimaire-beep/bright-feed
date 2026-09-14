@@ -1,5 +1,19 @@
 [
   {
+    "id": "6e5a09a749a040b3",
+    "title": "With Adapted Sailing, the Sea Is for Everyone",
+    "normalizedTitle": "adapted sailing sea everyone",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/adapted-sailing-school/",
+    "publishedAt": "2026-09-14T08:00:33.000Z",
+    "fetchedAt": "2026-09-14T09:35:54.747Z",
+    "excerpt": "César Maquieira has always loved the sea. Born and raised in the northwest of Spain, much of which is bordered by the Atlantic Ocean, he would for years regularly go fishing and on boat trips, and he dabbled in scuba...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Credit-Monte-Real-Club-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "6e5a09a749a040b3",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "01f16da04eb0cae2",
     "title": "A Lot of Casual Friends, or Only a Few You’re Really Close With? New Research Questions That Trade‑Off",
     "normalizedTitle": "lot casual friends or only few you re really close research questions that trade off",
@@ -11,6 +25,34 @@
     "imageUrl": "https://inbox-media-offload.nicenews.com/wp-content/uploads/2026/09/file-20260806-50-2tnk7g-1024x683.jpeg",
     "category": "people",
     "dedupGroupId": "01f16da04eb0cae2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f9c6cadbfa1ba3e2",
+    "title": "The gardening window most people miss: late summer and early fall weed control",
+    "normalizedTitle": "gardening window most people miss late summer early fall weed control",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/the-gardening-window-most-people-miss-late-summer-and-early-fall-weed-control/",
+    "publishedAt": "2026-09-14T00:00:51.000Z",
+    "fetchedAt": "2026-09-14T09:35:54.745Z",
+    "excerpt": "Image alt text: Close-up of dandelion seed heads and crabgrass growing between garden bed plants in late summer A single dandelion, left to finish its summer in the garden, can drop thousands of seeds.",
+    "imageUrl": null,
+    "category": "science",
+    "dedupGroupId": "f9c6cadbfa1ba3e2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4b18d52f406cd784",
+    "title": "How Colombia’s outgoing president protected 42% of the country’s Amazon from mining",
+    "normalizedTitle": "colombia s outgoing president protected 42 country s amazon from mining",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/how-colombias-outgoing-president-protected-42-of-the-countrys-amazon-from-mining/",
+    "publishedAt": "2026-09-14T00:00:15.000Z",
+    "fetchedAt": "2026-09-14T09:35:54.722Z",
+    "excerpt": "Image alt text: Dense green Amazon rainforest canopy photographed from above in Colombia with a winding river below On August 4, 2026, three days before he left office, Colombian President Gustavo Petro signed a...",
+    "imageUrl": null,
+    "category": "planet",
+    "dedupGroupId": "4b18d52f406cd784",
     "alsoCoveredBy": []
   },
   {
@@ -317,6 +359,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060912/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060914/"
       }
     ]
   },
