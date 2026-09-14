@@ -1,5 +1,47 @@
 [
   {
+    "id": "01ae0928252e0ac2",
+    "title": "Researchers find collecting garbage less often could actually help people recycle more",
+    "normalizedTitle": "researchers find collecting garbage less often could actually help people recycle more",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/trash-pickup-recycling-study-canada",
+    "publishedAt": "2026-09-14T20:30:00.000Z",
+    "fetchedAt": "2026-09-14T22:57:43.532Z",
+    "excerpt": "Optimizing curbside waste collection could improve the public's recycling habits",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aa1cfb4503e8a4e895749e2_6aa1cfb44f1a8b6cf8b1bb7c_trash-pickup-recycling-study-canada-featured-2.webp",
+    "category": "planet",
+    "dedupGroupId": "01ae0928252e0ac2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "6d7c2f02b746ea66",
+    "title": "Athens Is Turning its Old Airport into One of Europe’s Largest Parks",
+    "normalizedTitle": "athens turning old airport one europe s largest parks",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/athens-is-turning-its-old-airport-into-one-of-europes-largest-parks/",
+    "publishedAt": "2026-09-14T18:30:13.000Z",
+    "fetchedAt": "2026-09-14T22:57:43.528Z",
+    "excerpt": "A former Athens airport site is set to host one of the continent’s most ambitious urban greening projects.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-Ellinikon-design-concept-for-Athens-airport-rehab-The-Ellinikon.jpg",
+    "category": "people",
+    "dedupGroupId": "6d7c2f02b746ea66",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ce17b3324523b66e",
+    "title": "She couldn't afford to live near work. Now she saves on rent and watches Jeopardy with her 77-year-old roommate",
+    "normalizedTitle": "she couldn t afford live near work now she saves rent watches jeopardy her 77 year old roommate",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/intergenerational-roommates-cheap-rent",
+    "publishedAt": "2026-09-14T18:11:00.000Z",
+    "fetchedAt": "2026-09-14T22:57:43.343Z",
+    "excerpt": "31-year-old Kayla Mazza has been living with 77-year-old Honey Donegan for over three years.",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aa838960816e4ca9113d05e_6aa8389558ce38385ea02a11_intergenerational-roommates-cheap-rent-featured.webp",
+    "category": "people",
+    "dedupGroupId": "ce17b3324523b66e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "5d63497e0869649f",
     "title": "Scientists figured out a way to map the planet's melting permafrost in real time",
     "normalizedTitle": "scientists figured out way map planet s melting permafrost real time",
