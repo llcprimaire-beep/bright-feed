@@ -1,5 +1,47 @@
 [
   {
+    "id": "aff5c5da8d55e993",
+    "title": "How Afghan Women Are Rebuilding Reproductive Health Care",
+    "normalizedTitle": "afghan women rebuilding reproductive health care",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/how-afghan-women-are-rebuilding-reproductive-health-care/",
+    "publishedAt": "2026-09-15T08:00:40.000Z",
+    "fetchedAt": "2026-09-15T09:13:19.532Z",
+    "excerpt": "In Helmand province in southern Afghanistan, Ram Bibi, a 30-year-old mother now pregnant with her sixth child, counts herself as one of the lucky ones.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/1000082074.jpg-1-scaled.jpeg",
+    "category": "planet",
+    "dedupGroupId": "aff5c5da8d55e993",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "951010af7f5e9431",
+    "title": "Elementic’s MO6 is the building material claiming to lock away carbon for thousands of years",
+    "normalizedTitle": "elementic s mo6 building material claiming lock away carbon thousands years",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/elementics-mo6-is-the-building-material-claiming-to-lock-away-carbon-for-thousands-of-years/",
+    "publishedAt": "2026-09-15T00:00:33.000Z",
+    "fetchedAt": "2026-09-15T09:13:19.531Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Lignin is the part of wood that paper mills and timber companies tend to get rid of.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_138996944_S.jpg",
+    "category": "science",
+    "dedupGroupId": "951010af7f5e9431",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "73240e595117c723",
+    "title": "The Mercator map has distorted Africa’s size for 450 years. The UN just voted to replace it.",
+    "normalizedTitle": "mercator map has distorted africa s size 450 years un just voted replace",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/the-mercator-map-has-distorted-africas-size-for-450-years-the-un-just-voted-to-replace-it/",
+    "publishedAt": "2026-09-15T00:00:23.000Z",
+    "fetchedAt": "2026-09-15T09:13:19.530Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM On most world maps hanging in classrooms, conference rooms, and government offices around the world, Greenland and Africa look roughly the same size.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Equal-Earth-Map-0-EN-1024x545.jpg",
+    "category": "animals",
+    "dedupGroupId": "73240e595117c723",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "01ae0928252e0ac2",
     "title": "Researchers find collecting garbage less often could actually help people recycle more",
     "normalizedTitle": "researchers find collecting garbage less often could actually help people recycle more",
@@ -615,6 +657,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060914/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060915/"
       }
     ]
   },
