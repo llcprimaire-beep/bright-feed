@@ -1,5 +1,61 @@
 [
   {
+    "id": "e01b6c4e7c7117d6",
+    "title": "What We’re Reading: 20,000 Salmon Return to the Klamath River",
+    "normalizedTitle": "we re reading 20 000 salmon return klamath river",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-klamath-river-salmon-return/",
+    "publishedAt": "2026-09-16T08:00:56.000Z",
+    "fetchedAt": "2026-09-16T09:06:14.855Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/Inside-Climate-News-logo.jpeg",
+    "category": "planet",
+    "dedupGroupId": "e01b6c4e7c7117d6",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "89f99efe8fba0e87",
+    "title": "The sound of stillness: what happened when I stopped filling the silence",
+    "normalizedTitle": "sound stillness happened when i stopped filling silence",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
+    "publishedAt": "2026-09-16T07:00:46.000Z",
+    "fetchedAt": "2026-09-16T09:06:14.849Z",
+    "excerpt": "Angela Garwood swapped conversation for stillness at a device-free silent retreat, hoping to discover what lies beneath the noise The post The sound of stillness: what happened when I stopped filling the silence...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/Gayles_Retreats_Images_Them_Studio-6-copy.jpg",
+    "category": "people",
+    "dedupGroupId": "89f99efe8fba0e87",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f8a570b97689e043",
+    "title": "Baked Bites: how Frisco students turned a passion for baking into a force for community change",
+    "normalizedTitle": "baked bites frisco students turned passion baking force community change",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/baked-bites-how-frisco-students-turned-a-passion-for-baking-into-a-force-for-community-change/",
+    "publishedAt": "2026-09-16T00:00:30.000Z",
+    "fetchedAt": "2026-09-16T09:06:14.179Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM At a Baked Bites pop-up in Frisco, Texas, the transaction looks simple: you place a pre-order, you pick up a homemade cookie.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_752259020_L-1024x682.jpg",
+    "category": "science",
+    "dedupGroupId": "f8a570b97689e043",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a777370ad5ffad16",
+    "title": "The world’s first solar ambulance just completed its first real-world test in rural Kenya",
+    "normalizedTitle": "world s first solar ambulance just completed first real world test rural kenya",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/the-worlds-first-solar-ambulance-just-completed-its-first-real-world-test-in-rural-kenya/",
+    "publishedAt": "2026-09-16T00:00:03.000Z",
+    "fetchedAt": "2026-09-16T09:06:14.177Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The question most ambulances are designed to answer is how fast a patient can reach a hospital.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_23987521_L-1024x681.jpg",
+    "category": "planet",
+    "dedupGroupId": "a777370ad5ffad16",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "62a23243bf25f5da",
     "title": "Generation Jones explains how their childhood memories differ from Gen X",
     "normalizedTitle": "generation jones explains their childhood memories differ from gen x",
@@ -913,6 +969,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060915/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060916/"
       }
     ]
   },
