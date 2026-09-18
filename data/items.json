@@ -1,5 +1,47 @@
 [
   {
+    "id": "566b4ab6d832c1ae",
+    "title": "New Cat Species Identified for the First Time in Over 100 Years–Meet the Tilcayo",
+    "normalizedTitle": "cat species identified first time 100 years meet tilcayo",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/new-cat-species-identified-for-the-first-time-in-over-100-years-meet-the-tilcayo/",
+    "publishedAt": "2026-09-18T08:45:29.000Z",
+    "fetchedAt": "2026-09-18T08:47:47.446Z",
+    "excerpt": "In a story that proves ‘explorer’ is still a good answer to the question “what do you want to be when you grow up?” a whole new cat species has been identified for the first time in over 100 years.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/imrs-e1789720878162.jpg",
+    "category": "animals",
+    "dedupGroupId": "566b4ab6d832c1ae",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9bd784be47eeffc1",
+    "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
+    "normalizedTitle": "remote alaska promise limits vertical farming",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
+    "publishedAt": "2026-09-18T08:00:09.000Z",
+    "fetchedAt": "2026-09-18T08:47:47.121Z",
+    "excerpt": "This story was originally published by Civil Eats. The town of Skagway, in southeast Alaska, is home to approximately 1,000 year-round residents and hosts more than 1.3 million summer cruise ship passengers.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/260817-1-in-remote-alaska-promise-limits-vertical-farming-skagway-brewing-co-top.jpg",
+    "category": "planet",
+    "dedupGroupId": "9bd784be47eeffc1",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1e84edd10d84018d",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
+    "publishedAt": "2026-09-18T05:28:35.000Z",
+    "fetchedAt": "2026-09-18T08:47:47.116Z",
+    "excerpt": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more The post What went right this week: the good news that matters appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/iStock-2096480418.jpg",
+    "category": "science",
+    "dedupGroupId": "1e84edd10d84018d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "8a1f2fe02988860e",
     "title": "Many French speakers are finding ChatGPT ‘extra surreal’ for one hilarious linguistic reason",
     "normalizedTitle": "many french speakers finding chatgpt extra surreal one hilarious linguistic reason",
@@ -53,6 +95,20 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/woman-running-airport.png?w=1024",
     "category": "people",
     "dedupGroupId": "ad34d26741bfca06",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4e31d3d672c09263",
+    "title": "Berlin’s REWE supermarket: the grocery store with a working rooftop farm",
+    "normalizedTitle": "berlin s rewe supermarket grocery store working rooftop farm",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/berlins-rewe-supermarket-the-grocery-store-with-a-working-rooftop-farm/",
+    "publishedAt": "2026-09-18T00:00:32.000Z",
+    "fetchedAt": "2026-09-18T08:47:46.738Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The lettuce in REWE’s Lankwitz store in Berlin has had a short morning.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_886578344_S.jpg",
+    "category": "science",
+    "dedupGroupId": "4e31d3d672c09263",
     "alsoCoveredBy": []
   },
   {
@@ -331,6 +387,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060916/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060918/"
       }
     ]
   },
