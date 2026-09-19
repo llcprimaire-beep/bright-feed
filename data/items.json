@@ -1,5 +1,33 @@
 [
   {
+    "id": "f8aaad5284085af7",
+    "title": "Good News This Week: September 19, 2026 - Salmon, Potholes, & Waterways",
+    "normalizedTitle": "good news this week september 19 2026 salmon potholes waterways",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-september-19-2026",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "fetchedAt": "2026-09-19T15:26:21.754Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aae388e9e69e8e096703b09_Good-News-This-Week-September-19-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "f8aaad5284085af7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "072164598b194a9b",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-19-2026/",
+    "publishedAt": "2026-09-19T10:00:32.000Z",
+    "fetchedAt": "2026-09-19T15:26:21.747Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "072164598b194a9b",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c084619418a2cd92",
     "title": "To Control Weeds in Your Garden, Late Summer and Early Fall Is the Best Time to Make a Difference",
     "normalizedTitle": "control weeds your garden late summer early fall best time make difference",
@@ -825,6 +853,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060918/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060919/"
       }
     ]
   },
