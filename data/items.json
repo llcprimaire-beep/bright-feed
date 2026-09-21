@@ -1,5 +1,19 @@
 [
   {
+    "id": "99f2ac6447eda0d9",
+    "title": "Good News in History September 21",
+    "normalizedTitle": "good news history september 21",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events060921/",
+    "publishedAt": "2026-09-21T07:00:00.000Z",
+    "fetchedAt": "2026-09-21T09:38:15.841Z",
+    "excerpt": "45 years ago today, Sandra Day O’Connor was sworn in as the first female Supreme Court Justice.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Sandra-Day-OConnor-being-sworn-in-public-domain.jpg",
+    "category": "planet",
+    "dedupGroupId": "99f2ac6447eda0d9",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "11097be2c2ffe1ec",
     "title": "Cavemen Used Mammoth Tusk Patterns to Create Unique Art, Reveals New Research",
     "normalizedTitle": "cavemen used mammoth tusk patterns create unique art research",
@@ -11,6 +25,34 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Ice-Age-craftspeople-mimicked-lines-of-mammoth-ivory-SWNS.jpeg",
     "category": "animals",
     "dedupGroupId": "11097be2c2ffe1ec",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5b7011bdbce4dc50",
+    "title": "Can dogs sniff out cancer? New AI study shows promise",
+    "normalizedTitle": "can dogs sniff out cancer ai study shows promise",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/can-dogs-sniff-out-cancer-new-ai-study-shows-promise/",
+    "publishedAt": "2026-09-21T00:00:58.000Z",
+    "fetchedAt": "2026-09-21T09:38:15.635Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM A company in India is reporting more than 90 percent accuracy in detecting seven types of cancer from breath samples.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_363668952_S.jpg",
+    "category": "animals",
+    "dedupGroupId": "5b7011bdbce4dc50",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "dbed14c777d4de76",
+    "title": "How revisiting old memories can build real self-esteem",
+    "normalizedTitle": "revisiting old memories can build real self esteem",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/how-revisiting-old-memories-can-build-real-self-esteem/",
+    "publishedAt": "2026-09-21T00:00:08.000Z",
+    "fetchedAt": "2026-09-21T09:38:15.634Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Think about a memory that still makes you wince. Maybe it is the time you said something embarrassing in front of people you wanted to impress, or the moment you felt out of place...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_840178744_S.jpg",
+    "category": "science",
+    "dedupGroupId": "dbed14c777d4de76",
     "alsoCoveredBy": []
   },
   {
