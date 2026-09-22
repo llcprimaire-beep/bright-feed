@@ -1,5 +1,19 @@
 [
   {
+    "id": "9fce0732e76f5d7d",
+    "title": "Winners of Bird Photographer of the Year announced",
+    "normalizedTitle": "winners bird photographer year",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
+    "publishedAt": "2026-09-22T07:00:14.000Z",
+    "fetchedAt": "2026-09-22T09:03:52.549Z",
+    "excerpt": "The winners of Bird Photographer of the Year 2026 have been revealed The post Winners of Bird Photographer of the Year announced appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/ADULT-OVERALL-WINNER-Sunball-Rocket-by-Henley-Spiers.jpg",
+    "category": "animals",
+    "dedupGroupId": "9fce0732e76f5d7d",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "fa2e2e0c710a13f6",
     "title": "Why Does Your Brain Mix Up Memories? A New Study Examines How Memories Are Misplaced in Your Brain’s Filing Cabinets",
     "normalizedTitle": "does your brain mix up memories study examines memories misplaced your brain s filing cabinets",
@@ -373,6 +387,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060920/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060922/"
       }
     ]
   },
