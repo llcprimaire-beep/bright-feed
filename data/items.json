@@ -1,5 +1,47 @@
 [
   {
+    "id": "2196981a9cc93573",
+    "title": "This Curious Bird Had Never Been Seen Before, and its Discovery Changed Ecuador–Perhaps Forever",
+    "normalizedTitle": "this curious bird had never been seen before discovery changed ecuador perhaps forever",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/",
+    "publishedAt": "2026-09-22T15:30:15.000Z",
+    "fetchedAt": "2026-09-22T16:22:26.666Z",
+    "excerpt": "In the late 1990s, a group of scientists were birdwatching in a remote forest in Ecuador when they heard a call like no other.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Grallaria-ridgelyi-at-the-Jocotoco-Foundations-Tapichalaca-Reserve-credit-Patty-McGann-CC-2.0.-BY.jpg",
+    "category": "animals",
+    "dedupGroupId": "2196981a9cc93573",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "601a8e94f45ce193",
+    "title": "135,000 Shelter Pets Found Forever Homes in August Thanks to NBC’s Annual Adopt-a-thon",
+    "normalizedTitle": "135 000 shelter pets found forever homes august thanks nbc s annual adopt thon",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/135000-shelter-pets-found-forever-homes-in-august-thanks-to-nbcs-annual-adopt-a-thon/",
+    "publishedAt": "2026-09-22T13:00:22.000Z",
+    "fetchedAt": "2026-09-22T16:22:26.612Z",
+    "excerpt": "It’s been a banner year for the annual campaign run by NBC and its parent company Universal to encourage shelter pet adoption nationwide, with 135,000 dogs, cats, and more taken home from shelters.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/generic-animal-shelter-image.jpg",
+    "category": "animals",
+    "dedupGroupId": "601a8e94f45ce193",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d05e3817d753377e",
+    "title": "Prisoners Prove Unlikely Heroes to Monarch Butterflies Thanks to Wisconsin Correctional Program",
+    "normalizedTitle": "prisoners prove unlikely heroes monarch butterflies thanks wisconsin correctional program",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/prisoners-prove-unlikely-heroes-to-monarch-butterflies-thanks-to-wisconsin-correctional-program/",
+    "publishedAt": "2026-09-22T11:00:21.000Z",
+    "fetchedAt": "2026-09-22T16:22:26.538Z",
+    "excerpt": "Wisconsin prison inmates have been offered a unique way to give back to their community by raising monarch butterflies from the inside.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Wisconsin-Dept.-of-Corrections-provided-to-Corrections1.jpg",
+    "category": "people",
+    "dedupGroupId": "d05e3817d753377e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "9fce0732e76f5d7d",
     "title": "Winners of Bird Photographer of the Year announced",
     "normalizedTitle": "winners bird photographer year",
@@ -25,6 +67,34 @@
     "imageUrl": "https://counter.theconversation.com/content/288701/count.gif",
     "category": "science",
     "dedupGroupId": "fa2e2e0c710a13f6",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "39df92fc31f07b79",
+    "title": "From fire starters to compost: what to do with dryer lint",
+    "normalizedTitle": "from fire starters compost do dryer lint",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/from-fire-starters-to-compost-what-to-do-with-dryer-lint/",
+    "publishedAt": "2026-09-22T00:00:34.000Z",
+    "fetchedAt": "2026-09-22T16:22:26.388Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you clean your dryer’s lint trap after every load, you end up with a soft little cloud of fiber in your hand pretty regularly.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_845554684_S.jpg",
+    "category": "science",
+    "dedupGroupId": "39df92fc31f07b79",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c4e1078185526703",
+    "title": "Mexico’s desert ecosystem is healing months after bison reintroduction",
+    "normalizedTitle": "mexico s desert ecosystem healing months bison reintroduction",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/mexicos-desert-ecosystem-is-healing-months-after-bison-reintroduction/",
+    "publishedAt": "2026-09-22T00:00:11.000Z",
+    "fetchedAt": "2026-09-22T16:22:26.385Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The 200-year absence of bison from Mexico’s Chihuahuan Desert left a gap that most people stopped noticing. Grass accumulated unchecked, soil compacted, fire risk crept upward.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_1014308_S.jpg",
+    "category": "animals",
+    "dedupGroupId": "c4e1078185526703",
     "alsoCoveredBy": []
   },
   {
