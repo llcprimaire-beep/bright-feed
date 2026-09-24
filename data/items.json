@@ -1,5 +1,19 @@
 [
   {
+    "id": "bd1bf1fae9b2d3d4",
+    "title": "How the Architecture of Sound Is Transforming Cities",
+    "normalizedTitle": "architecture sound transforming cities",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/how-the-architecture-of-sound-is-transforming-cities/",
+    "publishedAt": "2026-09-24T08:00:50.000Z",
+    "fetchedAt": "2026-09-24T09:01:47.525Z",
+    "excerpt": "Before Chris Downey lost his sight, he had a wind chime on his front porch. After he became blind, he realized that he could listen out for it to help him find his way home.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_1163376499-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "bd1bf1fae9b2d3d4",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "f465946d9ccf74e8",
     "title": "From 2.6% to 97%: how South Korea eliminated food waste and what NYC can learn",
     "normalizedTitle": "from 2 6 97 south korea eliminated food waste nyc can learn",
@@ -1137,6 +1151,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060923/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060924/"
       }
     ]
   },
