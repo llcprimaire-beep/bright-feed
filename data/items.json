@@ -1,5 +1,33 @@
 [
   {
+    "id": "f465946d9ccf74e8",
+    "title": "From 2.6% to 97%: how South Korea eliminated food waste and what NYC can learn",
+    "normalizedTitle": "from 2 6 97 south korea eliminated food waste nyc can learn",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/from-2-6-to-97-how-south-korea-eliminated-food-waste-and-what-nyc-can-learn/",
+    "publishedAt": "2026-09-24T00:00:37.000Z",
+    "fetchedAt": "2026-09-24T03:22:04.591Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM In Yeouido, Seoul, Seunghwan Hong spends less than a minute dropping off his food scraps. He taps a card, the lid opens, and the bin logs the weight.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_112863948_S.jpg",
+    "category": "planet",
+    "dedupGroupId": "f465946d9ccf74e8",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d56c4953cfad5c8e",
+    "title": "The tilcayo: new wildcat species discovered in Bolivia’s cloud forest",
+    "normalizedTitle": "tilcayo wildcat species discovered bolivia s cloud forest",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/09/the-tilcayo-new-wildcat-species-discovered-in-bolivias-cloud-forest/",
+    "publishedAt": "2026-09-24T00:00:08.000Z",
+    "fetchedAt": "2026-09-24T03:22:04.589Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM For years, biologists cataloguing Bolivia’s Yungas cloud forest would note a small spotted cat and move on. Tiger cat, broadly speaking.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Leopardus_tilcayo_5x3_cropped-1024x613.jpg",
+    "category": "animals",
+    "dedupGroupId": "d56c4953cfad5c8e",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "2325b83b184ea224",
     "title": "At 4 weeks old, this baby elephant was found hiding amongst a farmer's cattle. The discovery turned into a lifesaving mission",
     "normalizedTitle": "4 weeks old this baby elephant was found hiding amongst farmer s cattle discovery turned lifesaving mission",
@@ -67,6 +95,20 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/pip-foster-cat-1.jpg?w=732",
     "category": "animals",
     "dedupGroupId": "7c7ad8fe3f0cb109",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "677e52a7982b10f3",
+    "title": "Watch and Learn: Footage Captures Chimps Teaching Youngsters by Example",
+    "normalizedTitle": "watch learn footage captures chimps teaching youngsters example",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/environment/footage-captures-chimpanzees-teaching-youngsters-tool-transfer/",
+    "publishedAt": "2026-09-23T21:06:47.000Z",
+    "fetchedAt": "2026-09-24T03:22:04.588Z",
+    "excerpt": "In a nature reserve in Senegal, a life lesson unfolded: A mother chimp named Soukki poked a stick into an ant nest, then pulled her daughter, Saïsaï, over to see it.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/09/ximpanzes22.jpg?width=720&height=405",
+    "category": "science",
+    "dedupGroupId": "677e52a7982b10f3",
     "alsoCoveredBy": []
   },
   {
