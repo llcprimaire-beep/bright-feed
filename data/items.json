@@ -1,5 +1,61 @@
 [
   {
+    "id": "4df22c380a0ecd22",
+    "title": "People who ‘read’ others for a living share what they can pick up on about someone in 10 seconds",
+    "normalizedTitle": "people who read others living share they can pick up about someone 10 seconds",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/people-who-read-others-for-a-living-share-what-they-can-pick-up-on-about-someone-in-10-seconds/",
+    "publishedAt": "2026-09-26T21:41:27.000Z",
+    "fetchedAt": "2026-09-26T22:23:24.883Z",
+    "excerpt": "\"I'm a teacher. It is INCREDIBLY obvious which kids have unregulated Algorithm time and which do not.\" The post People who ‘read’ others for a living share what they can pick up on about someone in 10 seconds appeared...",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/security-loss-prevention-worker.jpg",
+    "category": "people",
+    "dedupGroupId": "4df22c380a0ecd22",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "294b45d1dfdda702",
+    "title": "Recruiter calls Gen Zers with iced coffee at job interviews unprofessional. But they’re not budging.",
+    "normalizedTitle": "recruiter calls gen zers iced coffee job interviews unprofessional but they re not budging",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/recruiter-calls-gen-zers-with-iced-coffee-at-job-interviews-unprofessional-but-theyre-not-budging/",
+    "publishedAt": "2026-09-26T21:41:01.000Z",
+    "fetchedAt": "2026-09-26T22:23:24.882Z",
+    "excerpt": "“Noted, I’ll bring a Busch light next time.” The post Recruiter calls Gen Zers with iced coffee at job interviews unprofessional. But they’re not budging. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/gen-z-iced-coffee-job-interview.jpg",
+    "category": "people",
+    "dedupGroupId": "294b45d1dfdda702",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "870286d2bd6722d0",
+    "title": "Glow-up after 100: Centenarians at Austin senior living community get ‘glamorous’ makeovers from high schoolers",
+    "normalizedTitle": "glow up 100 centenarians austin senior living community get glamorous makeovers from high schoolers",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/glow-up-after-100-centenarians-at-austin-senior-living-community-get-glamorous-makeovers-from-high-schoolers/",
+    "publishedAt": "2026-09-26T21:40:21.000Z",
+    "fetchedAt": "2026-09-26T22:23:24.864Z",
+    "excerpt": "\"It’s special when different generations come together like this. We have so much to learn from one another.” The post Glow-up after 100: Centenarians at Austin senior living community get ‘glamorous’ makeovers from...",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/glamour-two.jpg",
+    "category": "people",
+    "dedupGroupId": "870286d2bd6722d0",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4e4cd98a1bf7757b",
+    "title": "Alec Baldwin performs a De Niro impression so good it truly shocks interviewer",
+    "normalizedTitle": "alec baldwin performs de niro impression so good truly shocks interviewer",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/alec-baldwin-performs-a-de-niro-impression-so-good-it-truly-shocks-interviewer/",
+    "publishedAt": "2026-09-26T21:39:49.000Z",
+    "fetchedAt": "2026-09-26T22:23:24.862Z",
+    "excerpt": "\"Your face is morphing into him!\" The post Alec Baldwin performs a De Niro impression so good it truly shocks interviewer appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/09/alec-baldwin-robert-de-niro-impression.jpg",
+    "category": "people",
+    "dedupGroupId": "4e4cd98a1bf7757b",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "fd4b9e3e7548d23f",
     "title": "Good News This Week: September 26, 2026 - Bricks, Elephants, & Tip Lines",
     "normalizedTitle": "good news this week september 26 2026 bricks elephants tip lines",
@@ -11,6 +67,20 @@
     "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6ab7aaf6c781c9813e809c43_Good-News-This-Week-September-26-2026.jpg",
     "category": "animals",
     "dedupGroupId": "fd4b9e3e7548d23f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "98d7ccca40469d00",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-26-2026/",
+    "publishedAt": "2026-09-26T05:00:37.000Z",
+    "fetchedAt": "2026-09-26T22:23:24.787Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "98d7ccca40469d00",
     "alsoCoveredBy": []
   },
   {
@@ -401,6 +471,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060924/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060926/"
       }
     ]
   },
