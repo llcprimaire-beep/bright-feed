@@ -1,5 +1,47 @@
 [
   {
+    "id": "4c2fc884cda42cbf",
+    "title": "The ethical fashion brand championing change across the industry",
+    "normalizedTitle": "ethical fashion brand championing change across industry",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
+    "publishedAt": "2026-09-28T09:05:56.000Z",
+    "fetchedAt": "2026-09-28T10:37:56.168Z",
+    "excerpt": "With a focus on living wages, better fabrics and sustainability, one clothing brand is pushing to transform the fashion industry The post The ethical fashion brand championing change across the industry appeared first...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/deborahxyesfriends-2.jpg",
+    "category": "people",
+    "dedupGroupId": "4c2fc884cda42cbf",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9c16d7cb5d991cf9",
+    "title": "Forget Recycling. What If We Could Compost or Reuse Everything?",
+    "normalizedTitle": "forget recycling if we could compost or reuse everything",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/forget-recycling-what-if-we-could-compost-or-reuse-everything/",
+    "publishedAt": "2026-09-28T08:00:46.000Z",
+    "fetchedAt": "2026-09-28T10:37:55.544Z",
+    "excerpt": "Nora Griefahn’s office showcases her work better than words: The interior walls at the C2C LAB on a busy street in Berlin, Germany, are alive with lush, air-purifying plants; lamp shades have been grown from mycelium;...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/33515_3-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "9c16d7cb5d991cf9",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "10c726a7cb259422",
+    "title": "Newly Identified Frog-like Creature Named by Student Scientists After Their Moms",
+    "normalizedTitle": "newly identified frog like creature named student scientists their moms",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/newly-identified-frog-like-creature-named-by-student-scientists-after-their-moms/",
+    "publishedAt": "2026-09-28T03:00:01.000Z",
+    "fetchedAt": "2026-09-28T10:37:55.541Z",
+    "excerpt": "A newly identified frog-like creature that lived before the dinosaurs has been named by the student scientists who discovered it—and they named it after their moms.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Allison-Sefcovic-and-Payton-Kohlberg-hold-epoxy-sculptures-of-new-species-Jeanerpeton-mazonensis-Credit-Chicago-Field-Museum.jpg",
+    "category": "science",
+    "dedupGroupId": "10c726a7cb259422",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "d1021baaaff4f2b8",
     "title": "Another school district just shifted to a 4-day week and parents are making themselves heard",
     "normalizedTitle": "another school district just shifted 4 day week parents making themselves heard",
@@ -801,6 +843,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060927/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060928/"
       }
     ]
   },
