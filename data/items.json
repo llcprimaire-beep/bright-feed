@@ -1,5 +1,75 @@
 [
   {
+    "id": "f5b747ff2f881bc3",
+    "title": "Chris Evans Puts His Limelight on a Bonded Dog Pair with Cute Video, Immediately Sees Them Adopted",
+    "normalizedTitle": "chris evans puts his limelight bonded dog pair cute video immediately sees them adopted",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/chris-evans-puts-his-limelight-on-a-bonded-dog-pair-with-cute-video-immediately-sees-them-adopted/",
+    "publishedAt": "2026-09-30T13:00:30.000Z",
+    "fetchedAt": "2026-09-30T14:40:52.550Z",
+    "excerpt": "Hollywood A-lister Chris Evans recently went out of his way to see if he could convince someone to make room in their home for two dogs who had to be adopted together.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Left-Greg-and-Carley-a-pair-bonded-dog-couple-right-Chris-Evans-in-2023-credits-Animal-Rescue-League-of-Boston-via-Facebook.jpg",
+    "category": "animals",
+    "dedupGroupId": "f5b747ff2f881bc3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2f2bd7db3468a319",
+    "title": "Coastal Golf Course Turned into Vital Wetland Habitat for Seabirds",
+    "normalizedTitle": "coastal golf course turned vital wetland habitat seabirds",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
+    "publishedAt": "2026-09-30T11:00:31.000Z",
+    "fetchedAt": "2026-09-30T14:40:52.444Z",
+    "excerpt": "With an eye towards making room for native wildlife, a pair of golf courses are looking an awful lot more green.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sandilands-Nature-Reserve-credit-National-Trust-photo-by-John-Miller.jpg",
+    "category": "animals",
+    "dedupGroupId": "2f2bd7db3468a319",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8f9876584c38b1e2",
+    "title": "I stopped reading bad news for 48 hours. Here’s what happened",
+    "normalizedTitle": "i stopped reading bad news 48 hours here s happened",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/lifestyle/i-stopped-reading-bad-news-for-48-hours-heres-what-happened/",
+    "publishedAt": "2026-09-30T10:15:35.000Z",
+    "fetchedAt": "2026-09-30T14:40:52.272Z",
+    "excerpt": "What changes when you swap the daily doomscroll for journalism that asks not just what’s wrong, but what’s working? Oliver Balch finds out The post I stopped reading bad news for 48 hours.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/IMG_0702-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "8f9876584c38b1e2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5dbc8c1d8eeefc66",
+    "title": "First Ever Recorded Sea Turtle Nests on America’s West Coast",
+    "normalizedTitle": "first ever recorded sea turtle nests america s west coast",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/first-ever-recorded-sea-turtle-nests-on-americas-west-coast/",
+    "publishedAt": "2026-09-30T09:52:15.000Z",
+    "fetchedAt": "2026-09-30T14:40:51.869Z",
+    "excerpt": "A bombshell report last week from the LA Times details that a series of olive ridley sea turtles which laid their eggs on beaches in Southern California are the first of their race ever recorded buildings nests on the...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Eggs-from-an-olive-ridley-sea-turtle-were-laid-near-Seal-Beach-Credit-City-of-Huntington-Beach.jpg",
+    "category": "animals",
+    "dedupGroupId": "5dbc8c1d8eeefc66",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c1dde81780dde1f6",
+    "title": "What We’re Reading: Rat Rangers to the Rescue",
+    "normalizedTitle": "we re reading rat rangers rescue",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-were-reading-rat-rangers-dc/",
+    "publishedAt": "2026-09-30T08:00:58.000Z",
+    "fetchedAt": "2026-09-30T14:40:51.407Z",
+    "excerpt": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2021/11/AuthorPhoto.jpg",
+    "category": "animals",
+    "dedupGroupId": "c1dde81780dde1f6",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "153eb9b564bea45e",
     "title": "Some of the Top-Performing Songs From the Past 50 Years, by Decade",
     "normalizedTitle": "some top performing songs from past 50 years decade",
@@ -471,6 +541,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events060928/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events060930/"
       }
     ]
   },
