@@ -1,5 +1,61 @@
 [
   {
+    "id": "0aaeaadd186a6771",
+    "title": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
+    "normalizedTitle": "antarctica s wind farm saves 122 000 gallons diesel 15 years powering mcmurdo station",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
+    "publishedAt": "2026-10-02T13:00:15.000Z",
+    "fetchedAt": "2026-10-02T14:28:50.950Z",
+    "excerpt": "As they near the end of their productive lives, the 3 wind turbines spinning on Antarctica’s Ross Island have made an enormous impact on the energy market of the continent.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
+    "category": "people",
+    "dedupGroupId": "0aaeaadd186a6771",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9603ce3baaaecdfb",
+    "title": "30 Years of Clean-Up and Monitoring Work at Closed Copper Mine Wins Honors for World’s Top Miner",
+    "normalizedTitle": "30 years clean up monitoring work closed copper mine wins honors world s top miner",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
+    "publishedAt": "2026-10-02T11:00:18.000Z",
+    "fetchedAt": "2026-10-02T14:28:50.797Z",
+    "excerpt": "In British Columbia, a small award ceremony was held to commend mine operators who continue to monitor and spend on mine reclamation, years after the pickaxes are hung up.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-Island-Copper-Mine-site-and-pit-lake-looking-east-right-a-BHP-representaive-accepting-the-award-credit-left-BHP-supplied-right-TRCR-Awards-Subcommittee-released.jpg",
+    "category": "people",
+    "dedupGroupId": "9603ce3baaaecdfb",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d3332d00ec486c10",
+    "title": "The Spark: The ‘Community Lighthouses’ Where Neighbors Help Neighbors",
+    "normalizedTitle": "spark community lighthouses where neighbors help neighbors",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
+    "publishedAt": "2026-10-02T08:00:29.000Z",
+    "fetchedAt": "2026-10-02T14:28:50.492Z",
+    "excerpt": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Build-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "d3332d00ec486c10",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a0865da512a0bb7c",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
+    "publishedAt": "2026-10-02T05:46:05.000Z",
+    "fetchedAt": "2026-10-02T14:28:50.486Z",
+    "excerpt": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more The post What went right this week: the good news that matters appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
+    "category": "people",
+    "dedupGroupId": "a0865da512a0bb7c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "5a14cd973625f9e8",
     "title": "Man nails the ‘absurd’ luxuries aging Gen Xers secretly want at this stage of life",
     "normalizedTitle": "man nails absurd luxuries aging gen xers secretly want this stage life",
@@ -53,6 +109,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/baby-elephant-drowning.png",
     "category": "animals",
     "dedupGroupId": "2f0a6a905867da97",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "43cda5cc01e9ca8c",
+    "title": "How a simple urine test could spare most women from invasive womb cancer procedures",
+    "normalizedTitle": "simple urine test could spare most women from invasive womb cancer procedures",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/how-a-simple-urine-test-could-spare-most-women-from-invasive-womb-cancer-procedures/",
+    "publishedAt": "2026-10-02T00:00:48.000Z",
+    "fetchedAt": "2026-10-02T14:28:49.906Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at the University of Manchester developed a non-invasive womb cancer test that correctly identified most cancers and returned a negative result for 93 percent of women...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_43069909_S.jpg",
+    "category": "science",
+    "dedupGroupId": "43cda5cc01e9ca8c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "530d7f576244b814",
+    "title": "Fighting dengue with sterile insects: Lisbon’s experimental approach",
+    "normalizedTitle": "fighting dengue sterile insects lisbon s experimental approach",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/fighting-dengue-with-sterile-insects-lisbons-experimental-approach/",
+    "publishedAt": "2026-10-02T00:00:31.000Z",
+    "fetchedAt": "2026-10-02T14:28:49.903Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Portugal has released 30,000 sterile male mosquitoes in Lisbon as part of a push to bring down populations of the Asian tiger mosquito (Aedes albopictus), a species that can carry...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_48209325_S.jpg",
+    "category": "science",
+    "dedupGroupId": "530d7f576244b814",
     "alsoCoveredBy": []
   },
   {
@@ -445,7 +529,12 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/10/Jimmy-Carter-White-House-photo-cropped.jpg",
     "category": "people",
     "dedupGroupId": "a154f5ce448bbc88",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061002/"
+      }
+    ]
   },
   {
     "id": "5bbb62b410f48bea",
