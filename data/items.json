@@ -1,5 +1,19 @@
 [
   {
+    "id": "c24f7c3cc2bcdcab",
+    "title": "AI Chatbots Will Never Replace Advice From Elders, Say Seven of 10 in New Poll",
+    "normalizedTitle": "ai chatbots will never replace advice from elders seven 10 poll",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
+    "publishedAt": "2026-10-04T11:00:36.000Z",
+    "fetchedAt": "2026-10-04T13:43:00.740Z",
+    "excerpt": "More than seven in 10 Brits believe AI will never replace advice from their elders. A study of 2,000 adults found while 21 percent use these artificial intelligence tools for help several times a week, 92 percent...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
+    "category": "science",
+    "dedupGroupId": "c24f7c3cc2bcdcab",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "429a2b94a8259e74",
     "title": "How to Know If You Can Trust an AI’s Answer to Your Question",
     "normalizedTitle": "know if you can trust ai s answer your question",
@@ -1027,6 +1041,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061003/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061004/"
       }
     ]
   },
