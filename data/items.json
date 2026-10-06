@@ -1,5 +1,33 @@
 [
   {
+    "id": "52531afadd366d10",
+    "title": "The women putting community at the heart of elephant conservation",
+    "normalizedTitle": "women putting community heart elephant conservation",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+    "publishedAt": "2026-10-06T07:00:43.000Z",
+    "fetchedAt": "2026-10-06T11:02:06.295Z",
+    "excerpt": "Across Africa, women are challenging old assumptions about who conservation is for – and who gets to lead it The post The women putting community at the heart of elephant conservation appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/SharedLand_Story02b_WebHeader_1800x1080.jpg",
+    "category": "animals",
+    "dedupGroupId": "52531afadd366d10",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4ff656c5e382ca9c",
+    "title": "Caterpillar Twitches in an Ultraquiet Chamber Are Helping Biologists Understand How These Insects Hear Without Ears",
+    "normalizedTitle": "caterpillar twitches ultraquiet chamber helping biologists understand these insects hear without ears",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/science/caterpillar-twitches-ultraquiet-chamber-helping-biologists-understand-insects-hear-without-ears/",
+    "publishedAt": "2026-10-06T01:00:00.000Z",
+    "fetchedAt": "2026-10-06T11:02:05.385Z",
+    "excerpt": "In a quiet summer garden, a caterpillar perches on a branch, munching serenely on leaves. A moment later it freezes. It senses danger — and just in time. From behind, a wasp approaches, sizing up its prey.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/10/file-20260820-50-ddbst-1024x683.jpeg?width=1024",
+    "category": "animals",
+    "dedupGroupId": "4ff656c5e382ca9c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "fb0c6139ae9f2cba",
     "title": "Social physiology: the hidden health cost of eating alone, according to science",
     "normalizedTitle": "social physiology hidden health cost eating alone according science",
@@ -373,6 +401,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061004/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061006/"
       }
     ]
   },
