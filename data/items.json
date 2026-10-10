@@ -1,5 +1,47 @@
 [
   {
+    "id": "59f2e6e749ec27db",
+    "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
+    "normalizedTitle": "lost italian statue trevi fountain artist discovered salvage yard among garden ornaments",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
+    "publishedAt": "2026-10-10T13:46:41.000Z",
+    "fetchedAt": "2026-10-10T14:15:47.945Z",
+    "excerpt": "A Roman artifact from the Italian sculptor responsible for the Trevi Fountain was discovered in a reclamation yard for a mere 300 British pounds ($400).",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "59f2e6e749ec27db",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "973d138bbf5e0cc5",
+    "title": "Good News This Week: October 10, 2026 - Swans, Games, & Carports",
+    "normalizedTitle": "good news this week october 10 2026 swans games carports",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-october-10-2026",
+    "publishedAt": "2026-10-10T12:00:00.000Z",
+    "fetchedAt": "2026-10-10T14:15:47.791Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aca281fedfa909008655997_Good-News-This-Week-October-10-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "973d138bbf5e0cc5",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2a3125fe21efb491",
+    "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/",
+    "publishedAt": "2026-10-10T10:00:59.000Z",
+    "fetchedAt": "2026-10-10T14:15:47.785Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "2a3125fe21efb491",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "d5b05aa23917e541",
     "title": "9 pumpkin recipes from the 1800s that are totally worth bringing back this fall",
     "normalizedTitle": "9 pumpkin recipes from 1800s that totally worth bringing back this fall",
@@ -401,6 +443,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061008/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061010/"
       }
     ]
   },
