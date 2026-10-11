@@ -1,5 +1,19 @@
 [
   {
+    "id": "5a3f3900eaf16c09",
+    "title": "Meet the Chicago Marathon’s Famous Fundraising Nun, Plus 7 More Inspiring Runners in Marathon History",
+    "normalizedTitle": "meet chicago marathon s famous fundraising nun plus 7 more inspiring runners marathon history",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/sports/stephanie-baliga-chicago-marathon-fundraising-nun/",
+    "publishedAt": "2026-10-11T07:03:57.000Z",
+    "fetchedAt": "2026-10-11T14:41:01.176Z",
+    "excerpt": "There’s a clear hierarchy of duties in Sister Stephanie Baliga’s line of work. As a Catholic nun, the 38-year-old told Nice News her “No. 1 job is to pray.” Where and how she puts in the hours, though, can vary.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/10/835950460_18166078615479780_787950524935733919_n-1.jpg?width=1200",
+    "category": "animals",
+    "dedupGroupId": "5a3f3900eaf16c09",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "ae16341f77983e10",
     "title": "People applaud Massachusetts ice cream store owner’s salty response to rude customers",
     "normalizedTitle": "people applaud massachusetts ice cream store owner s salty response rude customers",
@@ -545,6 +559,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061010/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061011/"
       }
     ]
   },
