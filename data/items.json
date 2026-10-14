@@ -1,5 +1,33 @@
 [
   {
+    "id": "24d8b8d528629aaf",
+    "title": "Teenagers Worldwide Are Tackling the Plastics Crisis",
+    "normalizedTitle": "teenagers worldwide tackling plastics crisis",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
+    "publishedAt": "2026-10-14T08:00:09.000Z",
+    "fetchedAt": "2026-10-14T09:18:41.851Z",
+    "excerpt": "When students in Singapore looked around their school cafeteria, they could see a problem shared all over the world: Single-use Styrofoam was ubiquitous.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2740852089-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "24d8b8d528629aaf",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "93a66a9fff39ca79",
+    "title": "Wildlife photographer of the year 2026, the winning images",
+    "normalizedTitle": "wildlife photographer year 2026 winning images",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+    "publishedAt": "2026-10-14T07:00:50.000Z",
+    "fetchedAt": "2026-10-14T09:18:41.849Z",
+    "excerpt": "This year’s competition has attracted a record-breaking number of entries The post Wildlife photographer of the year 2026, the winning images appeared first on Positive News.",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/©-Loren-Elliott.jpg",
+    "category": "animals",
+    "dedupGroupId": "93a66a9fff39ca79",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "803abe75f3652e6d",
     "title": "Good Morning From Mars: NASA Rover Gives Unprecedented Look at Martian Dawn",
     "normalizedTitle": "good morning from mars nasa rover gives unprecedented look martian dawn",
@@ -317,6 +345,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061012/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061014/"
       }
     ]
   },
