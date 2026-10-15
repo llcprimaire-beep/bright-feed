@@ -1,5 +1,33 @@
 [
   {
+    "id": "26ade1d71918e1d1",
+    "title": "The Library Is Closed. Feel Free to Come In.",
+    "normalizedTitle": "library closed feel free come",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+    "publishedAt": "2026-10-15T08:00:15.000Z",
+    "fetchedAt": "2026-10-15T08:54:09.684Z",
+    "excerpt": "This story was originally published in the Daily Yonder. For more rural reporting and small-town stories visit dailyyonder.com.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/IMG_3111.jpg",
+    "category": "planet",
+    "dedupGroupId": "26ade1d71918e1d1",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "878f6a165bb36860",
+    "title": "In Ukraine, the repair movement is heading underground",
+    "normalizedTitle": "ukraine repair movement heading underground",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+    "publishedAt": "2026-10-15T07:00:51.000Z",
+    "fetchedAt": "2026-10-15T08:54:09.680Z",
+    "excerpt": "A Ukrainian city is preparing to hold a repair festival in an underground shelter, giving new meaning to the act of fixing broken things The post In Ukraine, the repair movement is heading underground appeared first on...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Repair-volunteer-and-visitor-repair-together-at-a-Fixfest-Photo-credit_-The-Restart-Project_Mark-A-Phillips-licensed-under-CC-BY-NC-SA-4.0-scaled.jpg",
+    "category": "people",
+    "dedupGroupId": "878f6a165bb36860",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "143618c7e4c63e6f",
     "title": "Gen X and Boomer women who refuse to retire alone are turning to the ‘Golden Girls’ retirement plan",
     "normalizedTitle": "gen x boomer women who refuse retire alone turning golden girls retirement plan",
@@ -615,6 +643,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061014/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061015/"
       }
     ]
   },
