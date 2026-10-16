@@ -1,5 +1,61 @@
 [
   {
+    "id": "7d29900a3ad796ce",
+    "title": "What Dementia Taught Me About Living Through a Callous Time",
+    "normalizedTitle": "dementia taught me about living through callous time",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+    "publishedAt": "2026-10-16T08:30:34.000Z",
+    "fetchedAt": "2026-10-16T08:46:35.378Z",
+    "excerpt": "Just as President Joe Biden was showing signs of cognitive decline so conspicuous that he was compelled to drop out of the presidential race in 2024, my own father’s dementia was worsening.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Dad-and-I-at-Thanksgiving-1-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "7d29900a3ad796ce",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "693f9d368adc618d",
+    "title": "Welcome to the Depolarization Project",
+    "normalizedTitle": "welcome depolarization project",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+    "publishedAt": "2026-10-16T08:00:02.000Z",
+    "fetchedAt": "2026-10-16T08:46:35.377Z",
+    "excerpt": "If you’re anything like us, you’re not exactly in a congenial mood right now. With the U.S. midterm elections fewer than three weeks away, you might be feeling combat-ready. And who could blame you?",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Landing-Page-1024x576.png",
+    "category": "planet",
+    "dedupGroupId": "693f9d368adc618d",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5ccc0bf2a5eb9f9f",
+    "title": "17 Great Depression recipes people still cook today during hard times",
+    "normalizedTitle": "17 great depression recipes people still cook today during hard times",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/17-great-depression-recipes-that-people-still-cook-today-during-hard-times-ex1/",
+    "publishedAt": "2026-10-16T06:06:15.000Z",
+    "fetchedAt": "2026-10-16T08:46:35.220Z",
+    "excerpt": "These recipes are resourceful and delicious. The post 17 Great Depression recipes people still cook today during hard times appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/11/origin_446d2d.png",
+    "category": "people",
+    "dedupGroupId": "5ccc0bf2a5eb9f9f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "03753fd24371b97c",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+    "publishedAt": "2026-10-16T05:00:50.000Z",
+    "fetchedAt": "2026-10-16T08:46:35.169Z",
+    "excerpt": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more The post What went right this week: the good news that matters appeared first on Positive News.",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-475084328.jpg",
+    "category": "animals",
+    "dedupGroupId": "03753fd24371b97c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e9e7720dc4f65f4c",
     "title": "Stunning video shows a 50-year-old Michael Jackson flawlessly performing ‘Human Nature’ just weeks before his death",
     "normalizedTitle": "stunning video shows 50 year old michael jackson flawlessly performing human nature just weeks before his death",
@@ -151,6 +207,20 @@
     "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6ad12b8bdae48c5aef51045f_6ad12b8a9456e90e23e67387_chesapeake-bay-ghost-traps-wildlife-rescue-featured.webp",
     "category": "animals",
     "dedupGroupId": "e96427fac20dec63",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e67cd7277f3518b1",
+    "title": "An Extinct Crocodilian’s Skull Was Found in the Rocks That Built the Sphinx, and it’s Also Missing its Nose",
+    "normalizedTitle": "extinct crocodilian s skull was found rocks that built sphinx s also missing nose",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+    "publishedAt": "2026-10-15T17:30:16.000Z",
+    "fetchedAt": "2026-10-16T08:46:34.783Z",
+    "excerpt": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized...",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
+    "category": "people",
+    "dedupGroupId": "e67cd7277f3518b1",
     "alsoCoveredBy": []
   },
   {
@@ -955,6 +1025,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061015/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061016/"
       }
     ]
   },
