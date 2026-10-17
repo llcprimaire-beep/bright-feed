@@ -1,5 +1,47 @@
 [
   {
+    "id": "62a02f9951dc79d2",
+    "title": "Massive 70lb Dog the Size of Baby Hippo Sheds Pounds and Gets New Home",
+    "normalizedTitle": "massive 70lb dog size baby hippo sheds pounds gets home",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
+    "publishedAt": "2026-10-17T13:51:35.000Z",
+    "fetchedAt": "2026-10-17T15:01:44.832Z",
+    "excerpt": "A massive shelter dog that weighed the same as a baby hippo has shed the pounds—and found a new home.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Before-and-After-weight-loss-RSPCA-bulldog-via-SWNS.jpg",
+    "category": "animals",
+    "dedupGroupId": "62a02f9951dc79d2",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2c30f8c64291613c",
+    "title": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws",
+    "normalizedTitle": "good news this week october 17 2026 trees diapers prosthetic paws",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+    "publishedAt": "2026-10-17T12:00:00.000Z",
+    "fetchedAt": "2026-10-17T15:01:44.720Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6ad2fe2c784789b2b5ded6ec_Good-News-This-Week-October-17-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "2c30f8c64291613c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "491c8c3c78b9ba58",
+    "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your positive weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
+    "publishedAt": "2026-10-17T10:00:17.000Z",
+    "fetchedAt": "2026-10-17T15:01:44.717Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "491c8c3c78b9ba58",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "8457301207bf4cf8",
     "title": "Good News in History, October 17",
     "normalizedTitle": "good news history october 17",
@@ -11,7 +53,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/Royal_Portrush_Golf_Club-cc-Average-Golfer-and-Greg-Norman-cc-Great-White-Shark-Enterprises.jpg",
     "category": "people",
     "dedupGroupId": "8457301207bf4cf8",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061014/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061015/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061016/"
+      }
+    ]
   },
   {
     "id": "76691c7976dc50c1",
