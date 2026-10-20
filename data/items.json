@@ -1,5 +1,33 @@
 [
   {
+    "id": "2335258f10af9903",
+    "title": "There Are Ways to Reduce Campus Sexual Assaults. Will More Colleges Use Them?",
+    "normalizedTitle": "there ways reduce campus sexual assaults will more colleges use them",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/there-are-ways-to-reduce-campus-sexual-assaults-will-more-colleges-use-them/",
+    "publishedAt": "2026-10-20T08:00:27.000Z",
+    "fetchedAt": "2026-10-20T09:10:00.199Z",
+    "excerpt": "This story was originally published by The Understory. When I was a student at Cornell University, I read the book “Fraternity Gang Rape” by Peggy Reeves Sanday for one of my classes.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2546714637-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "2335258f10af9903",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2fb36a029e4b536b",
+    "title": "The new certification scheme helping solar farms become havens for wildlife",
+    "normalizedTitle": "certification scheme helping solar farms become havens wildlife",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
+    "publishedAt": "2026-10-20T07:00:20.000Z",
+    "fetchedAt": "2026-10-20T09:10:00.197Z",
+    "excerpt": "A new solar certification scheme encourages developers to create better habitats for wildlife alongside clean electricity generation The post The new certification scheme helping solar farms become havens for wildlife...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/20220713_122129.jpg",
+    "category": "animals",
+    "dedupGroupId": "2fb36a029e4b536b",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "2ee54348519bb6b5",
     "title": "The Tourism Industry Is Slowly Waking Up to Solo Travelers’ Needs",
     "normalizedTitle": "tourism industry slowly waking up solo travelers needs",
@@ -11,6 +39,34 @@
     "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/10/GettyImages-1359350986-1-1024x683.jpg?width=1024",
     "category": "people",
     "dedupGroupId": "2ee54348519bb6b5",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "89d44555e56e98a4",
+    "title": "A Dutch startup is making concrete that grows its own moss",
+    "normalizedTitle": "dutch startup making concrete that grows own moss",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/",
+    "publishedAt": "2026-10-20T00:00:58.000Z",
+    "fetchedAt": "2026-10-20T09:09:59.291Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most building materials are designed to resist the elements, to stay sealed and unchanged for as long as possible. Respyre, a Dutch startup, is working from the opposite premise.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_68561537_S.jpg",
+    "category": "science",
+    "dedupGroupId": "89d44555e56e98a4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "89af5289ce28ea04",
+    "title": "The surprising history of pumpkins: from ancient staple to autumn icon",
+    "normalizedTitle": "surprising history pumpkins from ancient staple autumn icon",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/the-surprising-history-of-pumpkins-from-ancient-staple-to-autumn-icon/",
+    "publishedAt": "2026-10-20T00:00:55.000Z",
+    "fetchedAt": "2026-10-20T09:09:59.289Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Pumpkin spice lattes, jack-o’-lanterns, and Thanksgiving pies: pumpkins are the unofficial mascots of fall.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/8152946_m-1024x686.jpg",
+    "category": "animals",
+    "dedupGroupId": "89af5289ce28ea04",
     "alsoCoveredBy": []
   },
   {
@@ -647,6 +703,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061019/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061020/"
       }
     ]
   },
