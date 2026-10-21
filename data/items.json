@@ -1,5 +1,75 @@
 [
   {
+    "id": "983028634eaa1f53",
+    "title": "Minimalist mom uses 10 tricks from ‘Disney cleaning system’ to keep her home Magic Kingdom clean",
+    "normalizedTitle": "minimalist mom uses 10 tricks from disney cleaning system keep her home magic kingdom clean",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/minimalist-mom-uses-10-tricks-from-disney-cleaning-system-to-keep-her-home-magic-kingdom-clean/",
+    "publishedAt": "2026-10-21T21:35:45.000Z",
+    "fetchedAt": "2026-10-21T23:01:49.570Z",
+    "excerpt": "Robyn Buchanan of the Minimalist Home shares her Disney-inspired cleaning tips. The post Minimalist mom uses 10 tricks from ‘Disney cleaning system’ to keep her home Magic Kingdom clean appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/disney-parks-cleaning-tips-for-home.jpg",
+    "category": "people",
+    "dedupGroupId": "983028634eaa1f53",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e3bed348592a82c4",
+    "title": "Communication expert shares ‘Taylor Swift trick’ for perfectly wrapping up a speech in 3 steps",
+    "normalizedTitle": "communication expert shares taylor swift trick perfectly wrapping up speech 3 steps",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/communication-expert-shares-taylor-swift-trick-for-perfectly-wrapping-up-a-speech-in-3-steps/",
+    "publishedAt": "2026-10-21T21:34:10.000Z",
+    "fetchedAt": "2026-10-21T23:01:49.534Z",
+    "excerpt": "These strategies can help you avoid the ‘end on an up note’ cliché. The post Communication expert shares ‘Taylor Swift trick’ for perfectly wrapping up a speech in 3 steps appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/taylor-swift.jpg",
+    "category": "animals",
+    "dedupGroupId": "e3bed348592a82c4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "092953d64303f571",
+    "title": "In 1975, an actor unfurled a sexist rant on Johnny Carson. Shelley Winters refused to sit silently.",
+    "normalizedTitle": "1975 actor unfurled sexist rant johnny carson shelley winters refused sit silently",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/in-1975-an-actor-unfurled-a-sexist-rant-on-johnny-carson-shelley-winters-refused-to-sit-silently/",
+    "publishedAt": "2026-10-21T21:33:52.000Z",
+    "fetchedAt": "2026-10-21T23:01:49.510Z",
+    "excerpt": "Winters took matters into her own hands. The post In 1975, an actor unfurled a sexist rant on Johnny Carson. Shelley Winters refused to sit silently. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/shelley-winters-johnny-carson.jpg",
+    "category": "people",
+    "dedupGroupId": "092953d64303f571",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5693081747803550",
+    "title": "Debbi Fields’ husband bet she couldn’t make $50 in cookie sales. A last-ditch marketing idea built her an empire.",
+    "normalizedTitle": "debbi fields husband bet she couldn t make 50 cookie sales last ditch marketing idea built her empire",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/debbi-fields-husband-bet-she-couldnt-make-50-in-cookie-sales-a-last-ditch-marketing-idea-built-her-an-empire/",
+    "publishedAt": "2026-10-21T21:33:22.000Z",
+    "fetchedAt": "2026-10-21T23:01:49.479Z",
+    "excerpt": "Today, her Mrs. Fields stores and those irresistible free samples are mall fixtures everywhere. The post Debbi Fields’ husband bet she couldn’t make $50 in cookie sales. A last-ditch marketing idea built her an empire.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/story-of-debbie-fields.jpg",
+    "category": "people",
+    "dedupGroupId": "5693081747803550",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fc659c9decbb81b9",
+    "title": "Strangers Help 86-Year-Old Who’s Been Building a 62-foot Boat in his Yard Since 1987 (WATCH)",
+    "normalizedTitle": "strangers help 86 year old who s been building 62 foot boat his yard since 1987 watch",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/",
+    "publishedAt": "2026-10-21T18:30:34.000Z",
+    "fetchedAt": "2026-10-21T23:01:49.346Z",
+    "excerpt": "An 86-year-old man named Dale has spent nearly four decades welding a 62-foot steel boat in his front yard.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/benfhhh.jpg",
+    "category": "people",
+    "dedupGroupId": "fc659c9decbb81b9",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "1088c0ffd06ae2f6",
     "title": "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples",
     "normalizedTitle": "japan successfully mission bring home first ever martian moon samples",
@@ -67,7 +137,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/For-Whom-the-Bell-Tolls-cover-fairuse.jpg",
     "category": "people",
     "dedupGroupId": "00e457dd3618c841",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061018/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061019/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061020/"
+      }
+    ]
   },
   {
     "id": "166f319ababfaef7",
