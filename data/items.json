@@ -1,5 +1,33 @@
 [
   {
+    "id": "799b1bde02907cc4",
+    "title": "The farmer growing a future under Ghana’s trees",
+    "normalizedTitle": "farmer growing future under ghana s trees",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
+    "publishedAt": "2026-10-22T08:44:40.000Z",
+    "fetchedAt": "2026-10-22T09:11:01.397Z",
+    "excerpt": "Cocoa farmer Susana Afrifa Ankrah is helping show how protecting forests can sustain livelihoods and build resilience to a changing climate The post The farmer growing a future under Ghana’s trees appeared first on...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SharedLand_Story03b_WebHeader_1800x1080.jpg",
+    "category": "planet",
+    "dedupGroupId": "799b1bde02907cc4",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "33050e463776b876",
+    "title": "The Door-to-Door Technique That Actually Changes Minds",
+    "normalizedTitle": "door door technique that actually changes minds",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/the-door-to-door-technique-defying-americas-political-division/",
+    "publishedAt": "2026-10-22T08:00:35.000Z",
+    "fetchedAt": "2026-10-22T09:11:00.840Z",
+    "excerpt": "One weekend, a canvasser — let’s call her Cindy — was out door-knocking and found a gentleman at home.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/B-PromoCanvassing10-3-105-b-scaled.png",
+    "category": "planet",
+    "dedupGroupId": "33050e463776b876",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "f0e1f1ac55161dc2",
     "title": "Guy finds long-forgotten album in a thrift shop, reunites the band, and is sharing their music with the world",
     "normalizedTitle": "guy finds long forgotten album thrift shop reunites band sharing their music world",
@@ -247,6 +275,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061020/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061022/"
       }
     ]
   },
