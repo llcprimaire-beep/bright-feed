@@ -1,5 +1,61 @@
 [
   {
+    "id": "e0d451efc821a255",
+    "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
+    "normalizedTitle": "artivism driving resistance paris",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/paris-student-protests-orchestra-artistic-expression/",
+    "publishedAt": "2026-10-23T08:00:26.000Z",
+    "fetchedAt": "2026-10-23T09:07:42.621Z",
+    "excerpt": "Suddenly Darth Vader climbs up onto a chair in front of the Hôtel de Ville in Paris. Clad in all black, he swings his sword like a conductor’s baton while 200 musicians and volunteers, most in their early twenties, get...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/DSC09137-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "e0d451efc821a255",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "10e1c274e3f33e1e",
+    "title": "What went right this week: the good news that matters",
+    "normalizedTitle": "went right this week good news that matters",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+    "publishedAt": "2026-10-23T05:00:52.000Z",
+    "fetchedAt": "2026-10-23T09:07:42.539Z",
+    "excerpt": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more The post What went right this week: the good news that matters appeared first on Positive...",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-900706714.jpg",
+    "category": "people",
+    "dedupGroupId": "10e1c274e3f33e1e",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d860676a38bcfb05",
+    "title": "New research identifies the exact spot where Alzheimer’s protein tangles lock in",
+    "normalizedTitle": "research identifies exact spot where alzheimer s protein tangles lock",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/new-research-identifies-the-exact-spot-where-alzheimers-protein-tangles-lock-in/",
+    "publishedAt": "2026-10-23T00:00:57.000Z",
+    "fetchedAt": "2026-10-23T09:07:41.802Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at Northwestern University and UC Santa Barbara identified a specific contact point on tau proteins where the misfolding that drives Alzheimer’s disease begins.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/pathological-phosphorylation-yellow-tau-proteins-Depositphotos_250900006_S.jpg",
+    "category": "science",
+    "dedupGroupId": "d860676a38bcfb05",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5606ab39b454d268",
+    "title": "The Giving Grove: how Kansas City’s free community orchards became a national model",
+    "normalizedTitle": "giving grove kansas city s free community orchards became national model",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/the-giving-grove-how-kansas-citys-free-community-orchards-became-a-national-model/",
+    "publishedAt": "2026-10-23T00:00:57.000Z",
+    "fetchedAt": "2026-10-23T09:07:41.804Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM It is harvest time in Kansas City, and at Kansas City Academy, students are stepping outside during lunch to pick jujubes straight off the trees.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/jujube-05-Depositphotos_10053331_S.jpg",
+    "category": "science",
+    "dedupGroupId": "5606ab39b454d268",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "d7b2b4611372943f",
     "title": "A Towering Figure of Tolerance From 2,500 Years Ago Has Found a New Home in Atlanta",
     "normalizedTitle": "towering figure tolerance from 2 500 years ago has found home atlanta",
@@ -559,6 +615,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061022/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061023/"
       }
     ]
   },
