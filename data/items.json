@@ -1,5 +1,61 @@
 [
   {
+    "id": "3fd024cf92dc3e51",
+    "title": "Tech expert shares the one message that actually convinces teens to reconsider their screen time",
+    "normalizedTitle": "tech expert shares one message that actually convinces teens reconsider their screen time",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/tech-expert-one-message-convinces-teens-to-reconsider-screentime-ex1/",
+    "publishedAt": "2026-10-26T03:37:21.000Z",
+    "fetchedAt": "2026-10-26T09:45:47.333Z",
+    "excerpt": "\"How you spend this time will determine the quality of your life.\" The post Tech expert shares the one message that actually convinces teens to reconsider their screen time appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/09/origin-34814.png?w=1200&#038;quality=80",
+    "category": "people",
+    "dedupGroupId": "3fd024cf92dc3e51",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "95960608083a777f",
+    "title": "Couple plants real-life ‘money tree’ and its first seeds are worth over $6,700",
+    "normalizedTitle": "couple plants real life money tree first seeds worth 6 700",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/couple-plants-money-tree-seeds-worth-6700-ex1/",
+    "publishedAt": "2026-10-26T03:36:26.000Z",
+    "fetchedAt": "2026-10-26T09:45:47.332Z",
+    "excerpt": "It was a discovery as significant as coming across a living dinosaur. The post Couple plants real-life ‘money tree’ and its first seeds are worth over $6,700 appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/08/origin_8323ab.png?w=1200&#038;quality=80",
+    "category": "science",
+    "dedupGroupId": "95960608083a777f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "691553afb8fddeaf",
+    "title": "9 common English words and phrases that take on entirely different meanings in England",
+    "normalizedTitle": "9 common english words phrases that take entirely different meanings england",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/9-london-vs-america-phrases-ex1/",
+    "publishedAt": "2026-10-26T03:35:27.000Z",
+    "fetchedAt": "2026-10-26T09:45:47.330Z",
+    "excerpt": "\"American 'quite' and British 'quite' are quite the opposite.\" The post 9 common English words and phrases that take on entirely different meanings in England appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/01/origin_da1c91.jpg",
+    "category": "people",
+    "dedupGroupId": "691553afb8fddeaf",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "443ee995f695f7ea",
+    "title": "Precocious toddler drums and sings ‘Pocketful of Sunshine’ with stunning precision",
+    "normalizedTitle": "precocious toddler drums sings pocketful sunshine stunning precision",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/musical-toddler-precisely-sings-pocketful-of-sunshine-ex1/",
+    "publishedAt": "2026-10-26T03:34:31.000Z",
+    "fetchedAt": "2026-10-26T09:45:47.310Z",
+    "excerpt": "People are calling him a musical prodigy. The post Precocious toddler drums and sings ‘Pocketful of Sunshine’ with stunning precision appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/07/origin-99.jpg",
+    "category": "people",
+    "dedupGroupId": "443ee995f695f7ea",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c734ed5952232886",
     "title": "NYC food pantries are now stocking pet food for struggling households",
     "normalizedTitle": "nyc food pantries now stocking pet food struggling households",
@@ -289,6 +345,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061024/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061026/"
       }
     ]
   },
