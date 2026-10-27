@@ -1,5 +1,61 @@
 [
   {
+    "id": "9df19d002c3ada5d",
+    "title": "Finally, Something Americans Agree On!",
+    "normalizedTitle": "finally something americans agree",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/data-center-opposition-ai-republicans-democrats-bipartisan-agreement/",
+    "publishedAt": "2026-10-27T08:00:32.000Z",
+    "fetchedAt": "2026-10-27T09:38:10.436Z",
+    "excerpt": "Patty Spillman and her husband farm over 400 acres of corn, soybeans and wheat in central Ohio. Both have lived in the area all their lives; his family has been on the land since 1861.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Patty-and-her-husband-on-their-land-2.jpg",
+    "category": "planet",
+    "dedupGroupId": "9df19d002c3ada5d",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3f71ede1776d8df7",
+    "title": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
+    "normalizedTitle": "cream crop one brand s quiet quest reinvent dairy industry",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
+    "publishedAt": "2026-10-27T07:00:17.000Z",
+    "fetchedAt": "2026-10-27T09:38:10.431Z",
+    "excerpt": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it all mean?",
+    "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-636373182.jpg",
+    "category": "people",
+    "dedupGroupId": "3f71ede1776d8df7",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "85689cf5f4ad04ce",
+    "title": "New Jersey Transit is turning commuter stations into art galleries",
+    "normalizedTitle": "jersey transit turning commuter stations art galleries",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/new-jersey-transit-is-turning-commuter-stations-into-art-galleries/",
+    "publishedAt": "2026-10-27T00:00:50.000Z",
+    "fetchedAt": "2026-10-27T09:38:09.965Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most people moving through a train station aren’t really paying attention. They’re somewhere between where they left and where they’re going, phone out, eyes on the platform.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/new-jersey-transit-commuter-train-Depositphotos_473170438_S.jpg",
+    "category": "science",
+    "dedupGroupId": "85689cf5f4ad04ce",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d9efd3d20a71e727",
+    "title": "5 research-backed ways to banish aches and feel better at your desk",
+    "normalizedTitle": "5 research backed ways banish aches feel better your desk",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/10/5-research-backed-ways-to-banish-aches-and-feel-better-at-your-desk/",
+    "publishedAt": "2026-10-27T00:00:30.000Z",
+    "fetchedAt": "2026-10-27T09:38:09.963Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at Columbia University Medical Center wanted to answer a specific question: what is the least amount of movement needed to offset the effects of prolonged sitting?",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/unhappy-young-woman-eyeglasses-hand-Depositphotos_625446286_S.jpg",
+    "category": "science",
+    "dedupGroupId": "d9efd3d20a71e727",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "40d870a50fa69245",
     "title": "Rosa Parks wrote a pancake recipe on the back of a bank envelope. One key ingredient stands out.",
     "normalizedTitle": "rosa parks wrote pancake recipe back bank envelope one key ingredient stands out",
@@ -685,6 +741,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061026/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061027/"
       }
     ]
   },
