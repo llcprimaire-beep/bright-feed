@@ -1,5 +1,47 @@
 [
   {
+    "id": "977864e74ea9e3dc",
+    "title": "Retirees Who Lost Spouses Fall in Love Again at 88, After Meeting in the Gym",
+    "normalizedTitle": "retirees who lost spouses fall love again 88 meeting gym",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
+    "publishedAt": "2026-10-31T13:21:50.000Z",
+    "fetchedAt": "2026-10-31T14:19:47.420Z",
+    "excerpt": "A pair of retirees who both lost their partners have fallen in love again at age 88—after meeting among the barbells at the gym.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Seniors-working-out-w-weights-in-gym-by-ExtraCare-Charitable-Trust-via-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "977864e74ea9e3dc",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3dba783cfe6d0a45",
+    "title": "Good News This Week: October 31, 2026 - Bees, Costumes, & Sea Otters",
+    "normalizedTitle": "good news this week october 31 2026 bees costumes sea otters",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-october-31-2026",
+    "publishedAt": "2026-10-31T12:00:00.000Z",
+    "fetchedAt": "2026-10-31T14:19:47.313Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6ae5a1228b346923f3f928b9_Good-News-This-Week-October-31-2026.jpg",
+    "category": "animals",
+    "dedupGroupId": "3dba783cfe6d0a45",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1f7652e432bb0de3",
+    "title": "Your Halloween Horoscope Advice: ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your halloween horoscope advice free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
+    "publishedAt": "2026-10-31T10:00:12.000Z",
+    "fetchedAt": "2026-10-31T14:19:47.305Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Freewill-Astrology-horoscope-logo-Halloween.jpeg",
+    "category": "animals",
+    "dedupGroupId": "1f7652e432bb0de3",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "816f12015b4b16fb",
     "title": "My Greatest Generation grandad had one rule to never run out of things to say in conversation",
     "normalizedTitle": "my greatest generation grandad had one rule never run out things conversation",
@@ -741,6 +783,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061030/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061031/"
       }
     ]
   },
