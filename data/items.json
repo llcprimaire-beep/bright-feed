@@ -1,5 +1,75 @@
 [
   {
+    "id": "8f86cafde65b0c78",
+    "title": "Man’s unique gift for naming cats has strangers asking him to name their kittens",
+    "normalizedTitle": "man s unique gift naming cats has strangers asking him name their kittens",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/mans-unique-gift-for-cat-names-ex1/",
+    "publishedAt": "2026-11-01T17:53:08.000Z",
+    "fetchedAt": "2026-11-01T20:13:57.465Z",
+    "excerpt": "Hersberry, O'dis, Nuffin—watch how \"Unc\" comes up with his adorable names. The post Man’s unique gift for naming cats has strangers asking him to name their kittens appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/12/origin_f87c08.jpg",
+    "category": "animals",
+    "dedupGroupId": "8f86cafde65b0c78",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "c04a2e990218af45",
+    "title": "Grandma offers wake-up call for grandparents who can’t stop buying the grandkids presents",
+    "normalizedTitle": "grandma offers wake up call grandparents who can t stop buying grandkids presents",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/grandma-offers-wake-up-call-buying-too-many-gifts-ex1/",
+    "publishedAt": "2026-11-01T17:52:29.000Z",
+    "fetchedAt": "2026-11-01T20:13:57.437Z",
+    "excerpt": "She's got the perfect solution for what to do when you just can't pass up a great deal at the store.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/07/origin-335.jpg",
+    "category": "people",
+    "dedupGroupId": "c04a2e990218af45",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "f9ef9db53566ed41",
+    "title": "14 comfort meals from the 1970s that are still delicious and affordable",
+    "normalizedTitle": "14 comfort meals from 1970s that still delicious affordable",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/14-comfort-meals-from-the-1970s-that-are-still-delicious-and-affordable-ex1-2/",
+    "publishedAt": "2026-11-01T17:51:58.000Z",
+    "fetchedAt": "2026-11-01T20:13:57.409Z",
+    "excerpt": "Break out the casserole dish. The post 14 comfort meals from the 1970s that are still delicious and affordable appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/10/origin_662229.png",
+    "category": "people",
+    "dedupGroupId": "f9ef9db53566ed41",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "675ee737605a0988",
+    "title": "Historians explain why everyone was so darn pale in those Victorian-era portraits",
+    "normalizedTitle": "historians explain everyone was so darn pale those victorian era portraits",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/victorian-era-pale-portraits-explained-ex1/",
+    "publishedAt": "2026-11-01T17:51:17.000Z",
+    "fetchedAt": "2026-11-01T20:13:57.383Z",
+    "excerpt": "Consumption became something to be envious of. The post Historians explain why everyone was so darn pale in those Victorian-era portraits appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/01/origin_1f48f8.jpg",
+    "category": "people",
+    "dedupGroupId": "675ee737605a0988",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "45c3417fb9024ed3",
+    "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+    "normalizedTitle": "high school fills entire football field groceries replenish jersey food banks",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+    "publishedAt": "2026-11-01T15:34:01.000Z",
+    "fetchedAt": "2026-11-01T20:13:57.250Z",
+    "excerpt": "Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg",
+    "category": "people",
+    "dedupGroupId": "45c3417fb9024ed3",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "ad1094020c641fd0",
     "title": "Hero Support Dog Saves Husband’s Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs",
     "normalizedTitle": "hero support dog saves husband s life alerting deaf owner his deadly midnight fall down stairs",
@@ -25,7 +95,12 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
     "category": "people",
     "dedupGroupId": "20281f0cd6beaffe",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061031/"
+      }
+    ]
   },
   {
     "id": "d1a3ec556a560a17",
