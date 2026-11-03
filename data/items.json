@@ -1,5 +1,19 @@
 [
   {
+    "id": "4f49958a35e4f8fe",
+    "title": "Tiny Backpacks Reveal the Secret, Sometimes Circuitous Migrations of Small Songbirds",
+    "normalizedTitle": "tiny backpacks reveal secret sometimes circuitous migrations small songbirds",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/environment/tiny-backpacks-reveal-secret-migrations-small-songbirds/",
+    "publishedAt": "2026-11-03T02:00:00.000Z",
+    "fetchedAt": "2026-11-03T11:39:33.864Z",
+    "excerpt": "Squinting through my binoculars, I scanned the dense branches of a black spruce, trying my best to catch a glimpse of the thin legs of a small black, white and yellow songbird.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/10/file-20260705-57-p72fio.jpeg?width=754",
+    "category": "animals",
+    "dedupGroupId": "4f49958a35e4f8fe",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "9080fb10c6e89f31",
     "title": "Kelly Clarkson sang a ghoulish version of the Bee Gees’ ‘Stayin’ Alive’ for Halloween",
     "normalizedTitle": "kelly clarkson sang ghoulish version bee gees stayin alive halloween",
@@ -81,6 +95,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/rowan-atkinson-1.jpg?w=1024",
     "category": "people",
     "dedupGroupId": "57d906c5020a4143",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1e7c26a0be22a6d9",
+    "title": "How carbon credits helped unlock the Great Koala National Park in NSW",
+    "normalizedTitle": "carbon credits helped unlock great koala national park nsw",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/how-carbon-credits-helped-unlock-the-great-koala-national-park-in-nsw/",
+    "publishedAt": "2026-11-03T00:00:46.000Z",
+    "fetchedAt": "2026-11-03T11:39:33.863Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM The Great Koala National Park might sound like a place that’s too good to be true, but it is real.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/koala-Depositphotos_18324133_S.jpg",
+    "category": "planet",
+    "dedupGroupId": "1e7c26a0be22a6d9",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5f21fc4e314277fc",
+    "title": "Astronomers discovered first green star ever. And it’s powered by a dead planet’s chemistry.",
+    "normalizedTitle": "astronomers discovered first green star ever s powered dead planet s chemistry",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/astronomers-discovered-first-green-star-ever-and-its-powered-by-a-dead-planets-chemistry/",
+    "publishedAt": "2026-11-03T00:00:25.000Z",
+    "fetchedAt": "2026-11-03T11:39:33.859Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM For most of human history, the night sky came in a limited palette. Orange for the cooler stars, white for something like our sun, pale blue for the hottest ones.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/twinkle-green-star-lens-flare-Depositphotos_91846702_S.jpg",
+    "category": "science",
+    "dedupGroupId": "5f21fc4e314277fc",
     "alsoCoveredBy": []
   },
   {
@@ -509,6 +551,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061102/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061103/"
       }
     ]
   },
