@@ -1,5 +1,75 @@
 [
   {
+    "id": "f3428284b3c9e740",
+    "title": "Who needs a golden ticket? The race to future-proof chocolate",
+    "normalizedTitle": "who needs golden ticket race future proof chocolate",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
+    "publishedAt": "2026-11-04T10:47:49.000Z",
+    "fetchedAt": "2026-11-04T11:53:21.355Z",
+    "excerpt": "A student has made six bars from cocoa grown in Reading, where varieties are being developed that could help with climate change The post Who needs a golden ticket?",
+    "imageUrl": null,
+    "category": "planet",
+    "dedupGroupId": "f3428284b3c9e740",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "4d90ec3aac89dc3b",
+    "title": "A Few of Our Favorite Things: 20 Products the Nice News Team Loved in 2026",
+    "normalizedTitle": "few our favorite things 20 products nice news team loved 2026",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/lifestyle/nice-news-favorite-products-2026/",
+    "publishedAt": "2026-11-04T01:30:00.000Z",
+    "fetchedAt": "2026-11-04T11:53:20.758Z",
+    "excerpt": "Besides reporting on positive developments and goings-on around the world, one of Nice News’ love languages is sharing products we wish we’d known about sooner.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/5_636df264-41cf-4aa1-9c38-9a10d33a8e5e.jpg?width=1020",
+    "category": "people",
+    "dedupGroupId": "4d90ec3aac89dc3b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "b4761d4f20cbd836",
+    "title": "Maya Higa built a wildlife sanctuary on Twitch, funded by the people who watch it",
+    "normalizedTitle": "maya higa built wildlife sanctuary twitch funded people who watch",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/",
+    "publishedAt": "2026-11-04T00:00:49.000Z",
+    "fetchedAt": "2026-11-04T11:53:20.757Z",
+    "excerpt": "This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-12.png",
+    "category": "animals",
+    "dedupGroupId": "b4761d4f20cbd836",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "1003e1deab51208d",
+    "title": "Stanford scientists discovered bleached coral can heal through touch",
+    "normalizedTitle": "stanford scientists discovered bleached coral can heal through touch",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/stanford-scientists-discovered-bleached-coral-can-heal-through-touch/",
+    "publishedAt": "2026-11-04T00:00:01.000Z",
+    "fetchedAt": "2026-11-04T11:53:20.756Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Two coral fragments fell over in a Stanford lab tank. When they touched, one healed the other.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/colorful-coral-reef-with-hard-Depositphotos_18119259_S.jpg",
+    "category": "planet",
+    "dedupGroupId": "1003e1deab51208d",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fa88f248ad026fd9",
+    "title": "A New International Food Pyramid Emphasizes Veg, Whole Grains, and Cultural Adaptability",
+    "normalizedTitle": "international food pyramid emphasizes veg whole grains cultural adaptability",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/health-and-wellness/new-international-food-pyramid-emphasizes-plants-grains/",
+    "publishedAt": "2026-11-03T23:30:00.000Z",
+    "fetchedAt": "2026-11-04T11:53:20.754Z",
+    "excerpt": "Dietary guidelines seem to run the gamut depending on where you live. In Japan, grain-based dishes are the main focus, while Greece promotes the Mediterranean diet and the U.S. emphasizes protein.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/brightspotcdn.byu-1.jpg?width=840",
+    "category": "science",
+    "dedupGroupId": "fa88f248ad026fd9",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "7a7f16051ad286d8",
     "title": "Billy Joel thought ‘Just the Way You Are’ was ‘too mushy’ and wanted to nix it. Linda Ronstadt changed his mind.",
     "normalizedTitle": "billy joel thought just way you was too mushy wanted nix linda ronstadt changed his mind",
@@ -765,6 +835,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061103/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061104/"
       }
     ]
   },
