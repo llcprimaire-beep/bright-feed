@@ -1,5 +1,19 @@
 [
   {
+    "id": "eb46f1d7bfddc6a7",
+    "title": "“A Labor of Love”: Scientists Re-Create the Color-Changing Glass Used to Make a 1,600-Year-Old Roman Masterpiece",
+    "normalizedTitle": "labor love scientists re create color changing glass used make 1 600 year old roman masterpiece",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/culture/scientists-reproduce-1600-year-old-color-changing-glass/",
+    "publishedAt": "2026-11-07T00:00:00.000Z",
+    "fetchedAt": "2026-11-07T05:34:40.784Z",
+    "excerpt": "Visitors to London’s British Museum can admire a remarkable example of Roman ingenuity that’s considered one of the seven glass wonders of the world.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/lyc-collage-1-1.jpg",
+    "category": "science",
+    "dedupGroupId": "eb46f1d7bfddc6a7",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "2e669e36eb0874eb",
     "title": "Roberta Flack said her song was too slow for Clint Eastwood’s movie. Then he made it a No. 1 hit.",
     "normalizedTitle": "roberta flack said her song was too slow clint eastwood s movie then he made no 1 hit",
@@ -221,6 +235,20 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Pedro-Moro-shakes-hands-with-Matheus-Reginaldo-Celestino-whose-money-Moro-returned-credit-Pedro-Moro-supplied-to-the-media.jpg",
     "category": "people",
     "dedupGroupId": "b499f673fee0cc93",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ed28516e1d3a40a1",
+    "title": "Podcast Transcript November 6th, 2026— 2 coral fragments touched in a Stanford lab: a story of healing (plus 9 more solutions)",
+    "normalizedTitle": "podcast transcript november 6th 2026 2 coral fragments touched stanford lab story healing plus 9 more solutions",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-6th-2026-2-coral-fragments-touched-in-a-stanford-lab-a-story-of-healing-plus-9-more-solutions/",
+    "publishedAt": "2026-11-06T16:30:07.000Z",
+    "fetchedAt": "2026-11-07T05:34:40.661Z",
+    "excerpt": "Episode Description: Two coral fragments fell over in a Stanford lab tank and happened to touch, and within days the bleached one started absorbing healthy algae directly through the contact point with its neighbor.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-12-1024x1024.png",
+    "category": "planet",
+    "dedupGroupId": "ed28516e1d3a40a1",
     "alsoCoveredBy": []
   },
   {
