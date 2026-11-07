@@ -1,5 +1,47 @@
 [
   {
+    "id": "dff5f6417601f3c0",
+    "title": "Adventurer Finally Hugs Mom After 28-Year Walk Around the World From Home in UK",
+    "normalizedTitle": "adventurer finally hugs mom 28 year walk around world from home uk",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/",
+    "publishedAt": "2026-11-07T14:11:37.000Z",
+    "fetchedAt": "2026-11-07T14:42:14.058Z",
+    "excerpt": "A British adventurer who has walked around the world on a 28-year hike has finally reunited with his tearful mother.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Karl-Bushby-reunites-with-mom-after-walking-around-world-–-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "dff5f6417601f3c0",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "fab2ac8903dbaf9c",
+    "title": "Good News This Week: November 7, 2026 - Forests, Sinks, & Elections",
+    "normalizedTitle": "good news this week november 7 2026 forests sinks elections",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-november-7-2026",
+    "publishedAt": "2026-11-07T13:00:00.000Z",
+    "fetchedAt": "2026-11-07T14:42:13.994Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6aede3731410fe6a385220d0_Good-News-This-Week-November-07-2026.jpg",
+    "category": "planet",
+    "dedupGroupId": "fab2ac8903dbaf9c",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8cf974b41dcb051c",
+    "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your positive weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-7-2026/",
+    "publishedAt": "2026-11-07T11:00:33.000Z",
+    "fetchedAt": "2026-11-07T14:42:13.989Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "8cf974b41dcb051c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "eb46f1d7bfddc6a7",
     "title": "“A Labor of Love”: Scientists Re-Create the Color-Changing Glass Used to Make a 1,600-Year-Old Roman Masterpiece",
     "normalizedTitle": "labor love scientists re create color changing glass used make 1 600 year old roman masterpiece",
@@ -713,6 +755,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061106/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061107/"
       }
     ]
   },
