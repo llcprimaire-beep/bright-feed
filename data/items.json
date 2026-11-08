@@ -1,5 +1,19 @@
 [
   {
+    "id": "d27a7cc5816db288",
+    "title": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+    "normalizedTitle": "lucky bird found storm drain mile from home passing driver happens spot hopping",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+    "publishedAt": "2026-11-08T14:08:15.000Z",
+    "fetchedAt": "2026-11-08T14:47:51.383Z",
+    "excerpt": "A pet budgie that vanished when a storm blew open a kitchen window was found hiding in a storm drain a mile from home.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Bird-rescued-from-sewer-pipe-RSPCA-and-SWNS.jpeg",
+    "category": "animals",
+    "dedupGroupId": "d27a7cc5816db288",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "b88708e8da76cc63",
     "title": "The Monkees scored a number 1 hit off a song inspired by a misheard Beatles lyric",
     "normalizedTitle": "monkees scored number 1 hit off song inspired misheard beatles lyric",
@@ -1039,6 +1053,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061107/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061108/"
       }
     ]
   },
