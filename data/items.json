@@ -1,5 +1,19 @@
 [
   {
+    "id": "84b9a75064da7ff6",
+    "title": "Actor, 85, takes to the stage despite Alzheimer’s diagnosis",
+    "normalizedTitle": "actor 85 takes stage despite alzheimer s diagnosis",
+    "sourceName": "Positive News",
+    "sourceUrl": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
+    "publishedAt": "2026-11-10T11:34:34.000Z",
+    "fetchedAt": "2026-11-10T12:10:10.957Z",
+    "excerpt": "Peter Marinker is continuing his stage career after being diagnosed with Alzheimer’s, taking on a role in Samuel Beckett’s Krapp’s Last Tape The post Actor, 85, takes to the stage despite Alzheimer’s diagnosis appeared...",
+    "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png",
+    "category": "science",
+    "dedupGroupId": "84b9a75064da7ff6",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "cde3672067651667",
     "title": "Generous Paternal Leave Policies Improve Maternal and Newborn Health, Family Finances, and Workplace Equality",
     "normalizedTitle": "generous paternal leave policies improve maternal newborn health family finances workplace equality",
@@ -11,6 +25,20 @@
     "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/Paternal_leave_embed-1024x684.jpeg?width=1024",
     "category": "animals",
     "dedupGroupId": "cde3672067651667",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "bd11be309efbd25f",
+    "title": "Electric ferries that fly above water are arriving in the US",
+    "normalizedTitle": "electric ferries that fly above water arriving us",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/electric-ferries-that-fly-above-water-are-arriving-in-the-us/",
+    "publishedAt": "2026-11-10T00:00:15.000Z",
+    "fetchedAt": "2026-11-10T12:10:10.572Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Water has always been part of how many American cities move people, but for most of the country’s history it has been an afterthought compared to roads and rails.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/P-12-Business_1-1024x576.jpg",
+    "category": "science",
+    "dedupGroupId": "bd11be309efbd25f",
     "alsoCoveredBy": []
   },
   {
@@ -305,7 +333,24 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Kasparov-after-winning-in-1985-CC-3.0.-BY-SA-The-Kasparov-Agency.jpg",
     "category": "science",
     "dedupGroupId": "ccb561bd15d559f0",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061106/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061107/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061108/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061110/"
+      }
+    ]
   },
   {
     "id": "97c9bbd3a647bc4d",
