@@ -1,5 +1,19 @@
 [
   {
+    "id": "8dcabba1a6a4b074",
+    "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+    "normalizedTitle": "your positive weekly horoscope free will astrology rob brezsny",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-14-2026/",
+    "publishedAt": "2026-11-14T11:00:12.000Z",
+    "fetchedAt": "2026-11-14T11:14:07.413Z",
+    "excerpt": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+    "category": "animals",
+    "dedupGroupId": "8dcabba1a6a4b074",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "766bc4d39d2450c9",
     "title": "Peggy Scott’s writing career on ‘The Gilded Age’ echoes a Black journalist who made her own rules",
     "normalizedTitle": "peggy scott s writing career gilded age echoes black journalist who made her own rules",
@@ -11,6 +25,20 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/gilded-age-peggy-scott.jpg?w=1200&quality=82",
     "category": "animals",
     "dedupGroupId": "766bc4d39d2450c9",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e497b012535319dc",
+    "title": "Kindness Content Creator Helped Raise $600K for a Family in Need: “He Restored My Faith in Humanity”",
+    "normalizedTitle": "kindness content creator helped raise 600k family need he restored my faith humanity",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/humanity/josh-liljenquist-helped-azeza-kasham-gigi-breadiy-lafore-disease/",
+    "publishedAt": "2026-11-13T23:30:00.000Z",
+    "fetchedAt": "2026-11-14T11:14:07.258Z",
+    "excerpt": "Lafora disease is a rare genetic condition that typically affects kids and adolescents, causing frequent seizures and the gradual loss of cognitive function.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/Image-from-iOS-1-1.jpg",
+    "category": "science",
+    "dedupGroupId": "e497b012535319dc",
     "alsoCoveredBy": []
   },
   {
