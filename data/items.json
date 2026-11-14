@@ -1,5 +1,47 @@
 [
   {
+    "id": "05ea8f1c04ba9429",
+    "title": "Two of the ‘Last Wild Ecosystems’ Untouched by Humans Are Declared New Sanctuaries",
+    "normalizedTitle": "two last wild ecosystems untouched humans declared sanctuaries",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
+    "publishedAt": "2026-11-14T16:16:07.000Z",
+    "fetchedAt": "2026-11-14T17:42:18.903Z",
+    "excerpt": "Some of the “very last wild and healthy ecosystems” unblemished by humans have been discovered in the remote atolls of the Pacific Ocean teeming with life.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shark-in-reef-habitat-at-Bikar-in-Marshall-island-in-Pacific-Ocean-by-Manu-San-Felix-via-SWNS.jpeg",
+    "category": "planet",
+    "dedupGroupId": "05ea8f1c04ba9429",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e1b6365471c0f220",
+    "title": "Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death",
+    "normalizedTitle": "heroic bravery woman who hid troops from nazis wwii diaries 40 years her death",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/",
+    "publishedAt": "2026-11-14T13:26:31.000Z",
+    "fetchedAt": "2026-11-14T17:42:18.767Z",
+    "excerpt": "The heroic wartime bravery of a British shopkeeper who hid Allied commandos from the Nazis during WWII has been revealed 40 years after her death.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Ada-Le-Poidevin-during-WW-and-niece-Liz-Walton-SWNS.jpeg",
+    "category": "people",
+    "dedupGroupId": "e1b6365471c0f220",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d49a6b83fdbd7f8a",
+    "title": "Good News This Week: November 14, 2026 - Farms, Trucks, & Plastic Pouches",
+    "normalizedTitle": "good news this week november 14 2026 farms trucks plastic pouches",
+    "sourceName": "Good Good Good",
+    "sourceUrl": "https://www.goodgoodgood.co/articles/good-news-this-week-november-14-2026",
+    "publishedAt": "2026-11-14T13:00:00.000Z",
+    "fetchedAt": "2026-11-14T17:42:18.156Z",
+    "excerpt": "Your weekly roundup of the best good news worth celebrating...",
+    "imageUrl": "https://cdn.prod.website-files.com/5f6cc9cd16d59d990c8fca33/6af811524f535392c005acc7_Good-News-This-Week-Nov-14-2026.jpg",
+    "category": "people",
+    "dedupGroupId": "d49a6b83fdbd7f8a",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "8dcabba1a6a4b074",
     "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
     "normalizedTitle": "your positive weekly horoscope free will astrology rob brezsny",
@@ -275,6 +317,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061112/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061114/"
       }
     ]
   },
