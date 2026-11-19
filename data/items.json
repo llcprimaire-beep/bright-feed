@@ -1,5 +1,19 @@
 [
   {
+    "id": "c2c7168f15d92714",
+    "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
+    "normalizedTitle": "waterless hyper efficient machines that clean clothes carbon dioxide",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+    "publishedAt": "2026-11-19T08:00:13.000Z",
+    "fetchedAt": "2026-11-19T12:31:56.400Z",
+    "excerpt": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here. Doing the laundry has grown easier and more efficient over the years, yet two things have always remained the same: A washing...",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/tersus-solutions-CO2-carbon-dioxide-laundry-washing-machine-LG-Samsung-clothes.webp",
+    "category": "planet",
+    "dedupGroupId": "c2c7168f15d92714",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "e16225b2235f7d34",
     "title": "8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue",
     "normalizedTitle": "8 most stunning photos from national geographic s pictures year 2026 issue",
@@ -81,6 +95,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/old-friends-long-term-friendship-traits.jpg?w=1200&quality=82",
     "category": "people",
     "dedupGroupId": "2a6bb8c1cfe3cf54",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "0c7debe2786657f3",
+    "title": "Bans cut two forever chemicals by 30 percent in England’s rivers",
+    "normalizedTitle": "bans cut two forever chemicals 30 percent england s rivers",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/bans-cut-two-forever-chemicals-by-30-percent-in-englands-rivers/",
+    "publishedAt": "2026-11-19T00:00:51.000Z",
+    "fetchedAt": "2026-11-19T12:31:56.398Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Concentrations of PFOS and PFOA, the two most toxic forever chemicals, have fallen by 30 percent and 29 percent in England’s rivers over the past 10 years, according to new figures...",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/water-drops-pfas-text-forever-Depositphotos_739563806_S.jpg",
+    "category": "planet",
+    "dedupGroupId": "0c7debe2786657f3",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "6a7beba517d0e37c",
+    "title": "Dreading plans you made yourself? There’s a name for that feeling",
+    "normalizedTitle": "dreading plans you made yourself there s name that feeling",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/dreading-plans-you-made-yourself-theres-a-name-for-that-feeling/",
+    "publishedAt": "2026-11-19T00:00:22.000Z",
+    "fetchedAt": "2026-11-19T12:31:56.396Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM It’s 6 p.m. on a Friday, and the dinner you booked two weeks ago is in an hour. Back then it sounded like the perfect plan.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/girl-has-stomach-pain-lies-Depositphotos_718846914_S.jpg",
+    "category": "science",
+    "dedupGroupId": "6a7beba517d0e37c",
     "alsoCoveredBy": []
   },
   {
@@ -629,6 +671,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061118/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061119/"
       }
     ]
   },
