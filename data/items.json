@@ -1,5 +1,61 @@
 [
   {
+    "id": "908a78ce1f7a1905",
+    "title": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
+    "normalizedTitle": "community steps up replace teen business owner s stolen landscaping equipment",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+    "publishedAt": "2026-11-20T16:00:53.000Z",
+    "fetchedAt": "2026-11-20T16:44:14.265Z",
+    "excerpt": "When a Kansas business owner suffered the theft of some $20,000 in landscaping machinery, his community raised money to replace all of it. Sonny Gallardo started a landscape company when he was just in 6th grade.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Sonny-Gallardo-on-his-first-riding-lawnmower-credit-Monica-Gallardo-via-GoFundMe.jpg",
+    "category": "people",
+    "dedupGroupId": "908a78ce1f7a1905",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "5afa9c8ae5e61fd6",
+    "title": "Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals",
+    "normalizedTitle": "rhino dung paper this family makes money protects these amazing animals",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
+    "publishedAt": "2026-11-20T14:00:46.000Z",
+    "fetchedAt": "2026-11-20T16:44:14.145Z",
+    "excerpt": "A father-daughter entrepreneurial duo in India have pioneered a method of paper making with rhino dung harvested by locals.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Peter-Neumann-unsplash.jpg",
+    "category": "animals",
+    "dedupGroupId": "5afa9c8ae5e61fd6",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "db3097b3c1b9d816",
+    "title": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
+    "normalizedTitle": "every tuesday this chef cooks 100 people need using random food bank ingredients",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+    "publishedAt": "2026-11-20T12:30:29.000Z",
+    "fetchedAt": "2026-11-20T16:44:14.011Z",
+    "excerpt": "Cooking content can be extremely popular on social media, but watching Toronto-area Chef Maddy Goldberg narrate her made-from-scratch recipes, it suddenly all tastes a little sweeter.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-@maddygoldberg-via-Instagram.jpg",
+    "category": "people",
+    "dedupGroupId": "db3097b3c1b9d816",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "2d7ce7c4beab73ac",
+    "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+    "normalizedTitle": "montreal harnessing soothing ocean sounds combat traffic noise",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+    "publishedAt": "2026-11-20T08:00:05.000Z",
+    "fetchedAt": "2026-11-20T16:44:13.813Z",
+    "excerpt": "Parc des Madelinots, a humble wedge of green space in the Verdun borough of Montreal, is not in the most tranquil of settings.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/Credit-Paysages-studio-1-scaled.jpg",
+    "category": "planet",
+    "dedupGroupId": "2d7ce7c4beab73ac",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "230173a4be79c3e3",
     "title": "The common backyard birds that can remember your face, and sometimes bring you gifts",
     "normalizedTitle": "common backyard birds that can remember your face sometimes bring you gifts",
@@ -955,6 +1011,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061119/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061120/"
       }
     ]
   },
