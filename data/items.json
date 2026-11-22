@@ -1,5 +1,19 @@
 [
   {
+    "id": "471011b216678a4c",
+    "title": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved",
+    "normalizedTitle": "extraordinary drug may actually cure high blood pressure caused hormones s fda approved",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+    "publishedAt": "2026-11-22T14:58:57.000Z",
+    "fetchedAt": "2026-11-22T15:57:33.355Z",
+    "excerpt": "Millions of people with high blood pressure may be offered an actual cure for its root cause that would bring long-lasting relief.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Doctor-takes-blood-pressure-by-Vitaly-Gariev-NDOYHZ_98Rw-unsplash.jpeg",
+    "category": "animals",
+    "dedupGroupId": "471011b216678a4c",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "c7ffbd86c556d6c9",
     "title": "Nice News Readers Shared Their Favorite Family Holiday Traditions — Read the Sweet Responses",
     "normalizedTitle": "nice news readers shared their favorite family holiday traditions read sweet responses",
@@ -205,6 +219,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061120/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061122/"
       }
     ]
   },
@@ -304,7 +322,12 @@
     "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
     "category": "people",
     "dedupGroupId": "e3ee740a3c45d158",
-    "alsoCoveredBy": []
+    "alsoCoveredBy": [
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/"
+      }
+    ]
   },
   {
     "id": "52cf1bdbc72b5295",
