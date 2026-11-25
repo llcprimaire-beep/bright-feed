@@ -1,5 +1,33 @@
 [
   {
+    "id": "a039f5e3a8f95b62",
+    "title": "Land Returned to Native American Ownership 400 Years After the First Thanksgiving",
+    "normalizedTitle": "land returned native american ownership 400 years first thanksgiving",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+    "publishedAt": "2026-11-25T12:59:08.000Z",
+    "fetchedAt": "2026-11-25T13:55:30.858Z",
+    "excerpt": "More than 400 years after the Pilgrims first explored the Cape Cod area, land belonging to Native Americans was returned to Indigenous ownership.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Waiting_for_Sunset_14287123165.jpg",
+    "category": "people",
+    "dedupGroupId": "a039f5e3a8f95b62",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e01c5043d435f1e1",
+    "title": "Good News in History, November 25",
+    "normalizedTitle": "good news history november 25",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/events061125/",
+    "publishedAt": "2026-11-25T08:00:00.000Z",
+    "fetchedAt": "2026-11-25T13:55:30.642Z",
+    "excerpt": "121 years ago today, American photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue in NYC.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-Little-Galleries-at-291-credit-Alfred-Stieglitz-public-domain-Copy.webp",
+    "category": "people",
+    "dedupGroupId": "e01c5043d435f1e1",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "06923152187c8933",
     "title": "4-year-olds and adults were given the same strange puzzle. The preschoolers won in a landslide.",
     "normalizedTitle": "4 year olds adults were given same strange puzzle preschoolers won landslide",
@@ -67,6 +95,34 @@
     "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/woman-finds-man-attractive-personality-trait.jpg?w=1200&quality=82",
     "category": "people",
     "dedupGroupId": "15dbeaa9db359798",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "e915451246b503d1",
+    "title": "Miki Kawamura: a 19-year-old’s peace network brings ice cream to a Nobel summit",
+    "normalizedTitle": "miki kawamura 19 year old s peace network brings ice cream nobel summit",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/miki-kawamura-a-19-year-olds-peace-network-brings-ice-cream-to-a-nobel-summit/",
+    "publishedAt": "2026-11-25T00:00:23.000Z",
+    "fetchedAt": "2026-11-25T13:55:30.399Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under. What does peace taste like?",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-15.png",
+    "category": "science",
+    "dedupGroupId": "e915451246b503d1",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "7cdc4b7662492ecd",
+    "title": "Sunscreen, sweat and permastank: the science of stubborn laundry stains",
+    "normalizedTitle": "sunscreen sweat permastank science stubborn laundry stains",
+    "sourceName": "The Optimist Daily",
+    "sourceUrl": "https://www.optimistdaily.com/2026/11/sunscreen-sweat-and-permastank-the-science-of-stubborn-laundry-stains/",
+    "publishedAt": "2026-11-25T00:00:16.000Z",
+    "fetchedAt": "2026-11-25T13:55:30.397Z",
+    "excerpt": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most stubborn laundry stains are a chemistry problem, and the fix depends on matching the treatment to the molecule.",
+    "imageUrl": "https://www.optimistdaily.com/wp-content/uploads/hand-asian-housewife-washing-white-Depositphotos_789309788_S.jpg",
+    "category": "science",
+    "dedupGroupId": "7cdc4b7662492ecd",
     "alsoCoveredBy": []
   },
   {
