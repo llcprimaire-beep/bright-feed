@@ -1,5 +1,131 @@
 [
   {
+    "id": "db1ca18044f0c66f",
+    "title": "Mr. Feeny saved his goodbye for an empty classroom. William Daniels remembered filming it.",
+    "normalizedTitle": "mr feeny saved his goodbye empty classroom william daniels remembered filming",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/mr-feeny-saved-his-goodbye-for-an-empty-classroom-william-daniels-remembered-filming-it/",
+    "publishedAt": "2026-11-26T16:27:10.000Z",
+    "fetchedAt": "2026-11-26T20:59:01.412Z",
+    "excerpt": "His students had already walked out when the teacher finally said what he felt. The post Mr. Feeny saved his goodbye for an empty classroom. William Daniels remembered filming it. appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/feenys-farewell.jpg?w=1200&quality=82",
+    "category": "people",
+    "dedupGroupId": "db1ca18044f0c66f",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "8f6b7b352506f7a5",
+    "title": "Mom started baking Girl Scouts cookies her allergic daughter could eat. Now she’s raised $30 million.",
+    "normalizedTitle": "mom started baking girl scouts cookies her allergic daughter could eat now she s raised 30 million",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/pn-mom-behind-girl-scouts-allergy-friendly-cookie/",
+    "publishedAt": "2026-11-26T16:26:44.000Z",
+    "fetchedAt": "2026-11-26T20:59:01.366Z",
+    "excerpt": "When Partake had one other employee, Denise Woodard told her they'd make a Girl Scout cookie someday. It goes on sale Jan. 12. The post Mom started baking Girl Scouts cookies her allergic daughter could eat.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/girl-scouts-cookies.png?w=1200&quality=82",
+    "category": "people",
+    "dedupGroupId": "8f6b7b352506f7a5",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "d86f27e5423eeb77",
+    "title": "Ezra Frech recovered beautifully after prosthetic leg fell off during emotional final ‘DWTS’ performance",
+    "normalizedTitle": "ezra frech recovered beautifully prosthetic leg fell off during emotional final dwts performance",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/ezra-frech-recovered-beautifully-after-prosthetic-leg-fell-off-during-emotional-final-dwts-performance/",
+    "publishedAt": "2026-11-26T16:26:13.000Z",
+    "fetchedAt": "2026-11-26T20:59:01.316Z",
+    "excerpt": "\"Most powerful thing I’ve ever seen.\" The post Ezra Frech recovered beautifully after prosthetic leg fell off during emotional final ‘DWTS’ performance appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/ezra-frech-daniella-karagach-dwts-finale.jpg?w=1200&quality=82",
+    "category": "people",
+    "dedupGroupId": "d86f27e5423eeb77",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "95db6e61ce80c7b5",
+    "title": "‘Men Without Hats’ finally reveal what ‘The Safety Dance’ was and why it got them in trouble",
+    "normalizedTitle": "men without hats finally reveal safety dance was got them trouble",
+    "sourceName": "Upworthy",
+    "sourceUrl": "https://www.upworthy.com/men-without-hats-finally-reveal-what-the-safety-dance-was-and-why-it-got-them-in-trouble/",
+    "publishedAt": "2026-11-26T16:25:45.000Z",
+    "fetchedAt": "2026-11-26T20:59:01.261Z",
+    "excerpt": "The band’s frontman just answered every question you’ve had about this 80s classic. The post ‘Men Without Hats’ finally reveal what ‘The Safety Dance’ was and why it got them in trouble appeared first on Upworthy.",
+    "imageUrl": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/11/men-without-hats-safety-dance-TOP-SPLASH.jpg?w=1200&quality=82",
+    "category": "people",
+    "dedupGroupId": "95db6e61ce80c7b5",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "9b12af3efea8f8cd",
+    "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
+    "normalizedTitle": "family thankful their baby given weeks live christmas eve now brain cancer free",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
+    "publishedAt": "2026-11-26T14:00:54.000Z",
+    "fetchedAt": "2026-11-26T20:59:01.049Z",
+    "excerpt": "An infant girl with weeks to live from aggressive brain cancer has made a full recovery after her case arrived at the desk of a hospital which had just finished a rigorous study on her form of cancer.",
+    "imageUrl": null,
+    "category": "science",
+    "dedupGroupId": "9b12af3efea8f8cd",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "ee924c86c1821a9b",
+    "title": "Texans Work for Free on Farms That Aren’t Theirs to Send Others’ Kids to College",
+    "normalizedTitle": "texans work free farms that aren t theirs send others kids college",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/texans-work-for-free-on-farms-that-arent-theirs-to-send-others-kids-to-college/",
+    "publishedAt": "2026-11-26T12:30:16.000Z",
+    "fetchedAt": "2026-11-26T20:58:51.043Z",
+    "excerpt": "Texas residents are farming land that isn’t theirs for free in order to raise money to help send kids—who also aren’t theirs—off to college.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Gruver-High-School.jpg",
+    "category": "people",
+    "dedupGroupId": "ee924c86c1821a9b",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "a4ff02b00ea603f8",
+    "title": "This Year, The Perfect Thanksgiving Film Features Two Icons, One Friendship and Endless Joy",
+    "normalizedTitle": "this year perfect thanksgiving film features two icons one friendship endless joy",
+    "sourceName": "Good News Network",
+    "sourceUrl": "https://www.goodnewsnetwork.org/mission-joy-perfect-friendship-film-key-to-happiness/",
+    "publishedAt": "2026-11-26T11:00:41.000Z",
+    "fetchedAt": "2026-11-26T20:58:50.845Z",
+    "excerpt": "Thanksgiving is a time for gathering, giving thanks, and remembering that joy is possible even when life has been hard. Few films capture that spirit better than Mission: JOY.",
+    "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/mission-joy-1-1.jpg",
+    "category": "people",
+    "dedupGroupId": "a4ff02b00ea603f8",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "83d10aa28dc7d686",
+    "title": "Macy’s Thanksgiving Day Parade Turns 100: See This Year’s 9 New Balloons",
+    "normalizedTitle": "macy s thanksgiving day parade turns 100 see this year s 9 balloons",
+    "sourceName": "Nice News",
+    "sourceUrl": "https://nicenews.com/culture/macys-thanksgiving-day-parade-turns-100/",
+    "publishedAt": "2026-11-26T08:01:00.000Z",
+    "fetchedAt": "2026-11-26T20:58:50.584Z",
+    "excerpt": "Snoopy — or should we say Joe Cool — will be celebrating something big when he floats through New York City today.",
+    "imageUrl": "https://media.nicenews.com/s3:inbox-media-offload.nicenews.com/wp-content/uploads/2026/11/GettyImages-530855212.jpg",
+    "category": "people",
+    "dedupGroupId": "83d10aa28dc7d686",
+    "alsoCoveredBy": []
+  },
+  {
+    "id": "3516434950c4d389",
+    "title": "The Portlanders Turning Rescued Food Into Restaurant-Quality Meals",
+    "normalizedTitle": "portlanders turning rescued food restaurant quality meals",
+    "sourceName": "Reasons to be Cheerful",
+    "sourceUrl": "https://reasonstobecheerful.world/portland-urban-gleaners/",
+    "publishedAt": "2026-11-26T08:00:37.000Z",
+    "fetchedAt": "2026-11-26T20:58:50.583Z",
+    "excerpt": "It’s a Tuesday morning in early October and chef Bradley Cohen, 49, is trying to improvise a meal from a hotel pan full of pork loins.",
+    "imageUrl": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/IMG_0019-rotated.jpg",
+    "category": "planet",
+    "dedupGroupId": "3516434950c4d389",
+    "alsoCoveredBy": []
+  },
+  {
     "id": "8227e8e2ea40ff37",
     "title": "How to Be Grateful to Someone — Even When You Really Don’t Want to",
     "normalizedTitle": "be grateful someone even when you really don t want",
@@ -303,6 +429,10 @@
       {
         "sourceName": "Good News Network",
         "sourceUrl": "https://www.goodnewsnetwork.org/events061124/"
+      },
+      {
+        "sourceName": "Good News Network",
+        "sourceUrl": "https://www.goodnewsnetwork.org/events061125-2/"
       }
     ]
   },
